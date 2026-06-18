@@ -1,0 +1,577 @@
+reporting_year,sector,metric_type,metric,companies_total,companies_with_kpi,availability_rate_percent
+FY 2022-23,Consumer Goods,kpi,energy_intensity_current,47,31,65.96
+FY 2022-23,Consumer Goods,kpi,female_employee_percent,47,5,10.64
+FY 2022-23,Consumer Goods,kpi,net_zero_target_year,47,4,8.51
+FY 2022-23,Consumer Goods,kpi,renewable_energy_consumption_gj,47,15,31.91
+FY 2022-23,Consumer Goods,kpi,renewable_energy_percent,47,13,27.66
+FY 2022-23,Consumer Goods,kpi,scope1_emissions_tco2e_current,47,20,42.55
+FY 2022-23,Consumer Goods,kpi,scope1_scope2_total_tco2e_current,47,20,42.55
+FY 2022-23,Consumer Goods,kpi,scope2_emissions_tco2e_current,47,20,42.55
+FY 2022-23,Consumer Goods,kpi,scope3_emissions_tco2e_current,47,6,12.77
+FY 2022-23,Consumer Goods,kpi,total_energy_consumption_gj,47,17,36.17
+FY 2022-23,Consumer Goods,kpi,total_waste_generated_current,47,33,70.21
+FY 2022-23,Consumer Goods,kpi,waste_recycled_current,47,29,61.7
+FY 2022-23,Consumer Goods,kpi,waste_recycled_percent,47,32,68.09
+FY 2022-23,Consumer Goods,kpi,water_consumption_kl_current,47,31,65.96
+FY 2022-23,Consumer Goods,kpi,water_withdrawal_kl_current,47,31,65.96
+FY 2022-23,Consumer Goods,kpi,women_on_board_percent,47,2,4.26
+FY 2022-23,Energy,kpi,energy_intensity_current,18,12,66.67
+FY 2022-23,Energy,kpi,female_employee_percent,18,3,16.67
+FY 2022-23,Energy,kpi,net_zero_target_year,18,6,33.33
+FY 2022-23,Energy,kpi,renewable_energy_consumption_gj,18,11,61.11
+FY 2022-23,Energy,kpi,renewable_energy_percent,18,7,38.89
+FY 2022-23,Energy,kpi,scope1_emissions_tco2e_current,18,12,66.67
+FY 2022-23,Energy,kpi,scope1_scope2_total_tco2e_current,18,12,66.67
+FY 2022-23,Energy,kpi,scope2_emissions_tco2e_current,18,12,66.67
+FY 2022-23,Energy,kpi,scope3_emissions_tco2e_current,18,6,33.33
+FY 2022-23,Energy,kpi,total_energy_consumption_gj,18,8,44.44
+FY 2022-23,Energy,kpi,total_waste_generated_current,18,14,77.78
+FY 2022-23,Energy,kpi,waste_recycled_current,18,14,77.78
+FY 2022-23,Energy,kpi,waste_recycled_percent,18,14,77.78
+FY 2022-23,Energy,kpi,water_consumption_kl_current,18,12,66.67
+FY 2022-23,Energy,kpi,water_withdrawal_kl_current,18,14,77.78
+FY 2022-23,Energy,kpi,women_on_board_percent,18,2,11.11
+FY 2022-23,Financial Services,kpi,energy_intensity_current,568,253,44.54
+FY 2022-23,Financial Services,kpi,female_employee_percent,568,81,14.26
+FY 2022-23,Financial Services,kpi,net_zero_target_year,568,52,9.15
+FY 2022-23,Financial Services,kpi,renewable_energy_consumption_gj,568,176,30.99
+FY 2022-23,Financial Services,kpi,renewable_energy_percent,568,150,26.41
+FY 2022-23,Financial Services,kpi,scope1_emissions_tco2e_current,568,187,32.92
+FY 2022-23,Financial Services,kpi,scope1_scope2_total_tco2e_current,568,178,31.34
+FY 2022-23,Financial Services,kpi,scope2_emissions_tco2e_current,568,185,32.57
+FY 2022-23,Financial Services,kpi,scope3_emissions_tco2e_current,568,90,15.85
+FY 2022-23,Financial Services,kpi,total_energy_consumption_gj,568,184,32.39
+FY 2022-23,Financial Services,kpi,total_waste_generated_current,568,272,47.89
+FY 2022-23,Financial Services,kpi,waste_recycled_current,568,227,39.96
+FY 2022-23,Financial Services,kpi,waste_recycled_percent,568,248,43.66
+FY 2022-23,Financial Services,kpi,water_consumption_kl_current,568,234,41.2
+FY 2022-23,Financial Services,kpi,water_withdrawal_kl_current,568,241,42.43
+FY 2022-23,Financial Services,kpi,women_on_board_percent,568,25,4.4
+FY 2022-23,Healthcare,kpi,energy_intensity_current,93,63,67.74
+FY 2022-23,Healthcare,kpi,female_employee_percent,93,14,15.05
+FY 2022-23,Healthcare,kpi,net_zero_target_year,93,7,7.53
+FY 2022-23,Healthcare,kpi,renewable_energy_consumption_gj,93,43,46.24
+FY 2022-23,Healthcare,kpi,renewable_energy_percent,93,29,31.18
+FY 2022-23,Healthcare,kpi,scope1_emissions_tco2e_current,93,52,55.91
+FY 2022-23,Healthcare,kpi,scope1_scope2_total_tco2e_current,93,52,55.91
+FY 2022-23,Healthcare,kpi,scope2_emissions_tco2e_current,93,54,58.06
+FY 2022-23,Healthcare,kpi,scope3_emissions_tco2e_current,93,20,21.51
+FY 2022-23,Healthcare,kpi,total_energy_consumption_gj,93,38,40.86
+FY 2022-23,Healthcare,kpi,total_waste_generated_current,93,69,74.19
+FY 2022-23,Healthcare,kpi,waste_recycled_current,93,64,68.82
+FY 2022-23,Healthcare,kpi,waste_recycled_percent,93,66,70.97
+FY 2022-23,Healthcare,kpi,water_consumption_kl_current,93,64,68.82
+FY 2022-23,Healthcare,kpi,water_withdrawal_kl_current,93,66,70.97
+FY 2022-23,Healthcare,kpi,women_on_board_percent,93,7,7.53
+FY 2022-23,Industrials,kpi,energy_intensity_current,91,58,63.74
+FY 2022-23,Industrials,kpi,female_employee_percent,91,16,17.58
+FY 2022-23,Industrials,kpi,net_zero_target_year,91,18,19.78
+FY 2022-23,Industrials,kpi,renewable_energy_consumption_gj,91,50,54.95
+FY 2022-23,Industrials,kpi,renewable_energy_percent,91,33,36.26
+FY 2022-23,Industrials,kpi,scope1_emissions_tco2e_current,91,48,52.75
+FY 2022-23,Industrials,kpi,scope1_scope2_total_tco2e_current,91,48,52.75
+FY 2022-23,Industrials,kpi,scope2_emissions_tco2e_current,91,50,54.95
+FY 2022-23,Industrials,kpi,scope3_emissions_tco2e_current,91,21,23.08
+FY 2022-23,Industrials,kpi,total_energy_consumption_gj,91,40,43.96
+FY 2022-23,Industrials,kpi,total_waste_generated_current,91,59,64.84
+FY 2022-23,Industrials,kpi,waste_recycled_current,91,57,62.64
+FY 2022-23,Industrials,kpi,waste_recycled_percent,91,60,65.93
+FY 2022-23,Industrials,kpi,water_consumption_kl_current,91,61,67.03
+FY 2022-23,Industrials,kpi,water_withdrawal_kl_current,91,60,65.93
+FY 2022-23,Industrials,kpi,women_on_board_percent,91,5,5.49
+FY 2022-23,Information Technology,kpi,energy_intensity_current,224,137,61.16
+FY 2022-23,Information Technology,kpi,female_employee_percent,224,44,19.64
+FY 2022-23,Information Technology,kpi,net_zero_target_year,224,42,18.75
+FY 2022-23,Information Technology,kpi,renewable_energy_consumption_gj,224,92,41.07
+FY 2022-23,Information Technology,kpi,renewable_energy_percent,224,67,29.91
+FY 2022-23,Information Technology,kpi,scope1_emissions_tco2e_current,224,106,47.32
+FY 2022-23,Information Technology,kpi,scope1_scope2_total_tco2e_current,224,103,45.98
+FY 2022-23,Information Technology,kpi,scope2_emissions_tco2e_current,224,107,47.77
+FY 2022-23,Information Technology,kpi,scope3_emissions_tco2e_current,224,46,20.54
+FY 2022-23,Information Technology,kpi,total_energy_consumption_gj,224,87,38.84
+FY 2022-23,Information Technology,kpi,total_waste_generated_current,224,148,66.07
+FY 2022-23,Information Technology,kpi,waste_recycled_current,224,128,57.14
+FY 2022-23,Information Technology,kpi,waste_recycled_percent,224,132,58.93
+FY 2022-23,Information Technology,kpi,water_consumption_kl_current,224,133,59.38
+FY 2022-23,Information Technology,kpi,water_withdrawal_kl_current,224,140,62.5
+FY 2022-23,Information Technology,kpi,women_on_board_percent,224,11,4.91
+FY 2022-23,Materials,kpi,energy_intensity_current,198,104,52.53
+FY 2022-23,Materials,kpi,female_employee_percent,198,13,6.57
+FY 2022-23,Materials,kpi,net_zero_target_year,198,23,11.62
+FY 2022-23,Materials,kpi,renewable_energy_consumption_gj,198,83,41.92
+FY 2022-23,Materials,kpi,renewable_energy_percent,198,58,29.29
+FY 2022-23,Materials,kpi,scope1_emissions_tco2e_current,198,87,43.94
+FY 2022-23,Materials,kpi,scope1_scope2_total_tco2e_current,198,84,42.42
+FY 2022-23,Materials,kpi,scope2_emissions_tco2e_current,198,86,43.43
+FY 2022-23,Materials,kpi,scope3_emissions_tco2e_current,198,29,14.65
+FY 2022-23,Materials,kpi,total_energy_consumption_gj,198,72,36.36
+FY 2022-23,Materials,kpi,total_waste_generated_current,198,113,57.07
+FY 2022-23,Materials,kpi,waste_recycled_current,198,108,54.55
+FY 2022-23,Materials,kpi,waste_recycled_percent,198,114,57.58
+FY 2022-23,Materials,kpi,water_consumption_kl_current,198,111,56.06
+FY 2022-23,Materials,kpi,water_withdrawal_kl_current,198,107,54.04
+FY 2022-23,Materials,kpi,women_on_board_percent,198,8,4.04
+FY 2022-23,Media & Entertainment,kpi,energy_intensity_current,10,5,50.0
+FY 2022-23,Media & Entertainment,kpi,female_employee_percent,10,3,30.0
+FY 2022-23,Media & Entertainment,kpi,net_zero_target_year,10,2,20.0
+FY 2022-23,Media & Entertainment,kpi,renewable_energy_consumption_gj,10,4,40.0
+FY 2022-23,Media & Entertainment,kpi,renewable_energy_percent,10,3,30.0
+FY 2022-23,Media & Entertainment,kpi,scope1_emissions_tco2e_current,10,2,20.0
+FY 2022-23,Media & Entertainment,kpi,scope1_scope2_total_tco2e_current,10,2,20.0
+FY 2022-23,Media & Entertainment,kpi,scope2_emissions_tco2e_current,10,3,30.0
+FY 2022-23,Media & Entertainment,kpi,scope3_emissions_tco2e_current,10,2,20.0
+FY 2022-23,Media & Entertainment,kpi,total_energy_consumption_gj,10,4,40.0
+FY 2022-23,Media & Entertainment,kpi,total_waste_generated_current,10,5,50.0
+FY 2022-23,Media & Entertainment,kpi,waste_recycled_current,10,5,50.0
+FY 2022-23,Media & Entertainment,kpi,waste_recycled_percent,10,5,50.0
+FY 2022-23,Media & Entertainment,kpi,water_consumption_kl_current,10,4,40.0
+FY 2022-23,Media & Entertainment,kpi,water_withdrawal_kl_current,10,5,50.0
+FY 2022-23,Media & Entertainment,kpi,women_on_board_percent,10,0,0.0
+FY 2022-23,Real Estate,kpi,energy_intensity_current,82,45,54.88
+FY 2022-23,Real Estate,kpi,female_employee_percent,82,11,13.41
+FY 2022-23,Real Estate,kpi,net_zero_target_year,82,12,14.63
+FY 2022-23,Real Estate,kpi,renewable_energy_consumption_gj,82,26,31.71
+FY 2022-23,Real Estate,kpi,renewable_energy_percent,82,22,26.83
+FY 2022-23,Real Estate,kpi,scope1_emissions_tco2e_current,82,37,45.12
+FY 2022-23,Real Estate,kpi,scope1_scope2_total_tco2e_current,82,36,43.9
+FY 2022-23,Real Estate,kpi,scope2_emissions_tco2e_current,82,39,47.56
+FY 2022-23,Real Estate,kpi,scope3_emissions_tco2e_current,82,13,15.85
+FY 2022-23,Real Estate,kpi,total_energy_consumption_gj,82,23,28.05
+FY 2022-23,Real Estate,kpi,total_waste_generated_current,82,46,56.1
+FY 2022-23,Real Estate,kpi,waste_recycled_current,82,42,51.22
+FY 2022-23,Real Estate,kpi,waste_recycled_percent,82,44,53.66
+FY 2022-23,Real Estate,kpi,water_consumption_kl_current,82,42,51.22
+FY 2022-23,Real Estate,kpi,water_withdrawal_kl_current,82,45,54.88
+FY 2022-23,Real Estate,kpi,women_on_board_percent,82,3,3.66
+FY 2022-23,Telecommunications,kpi,energy_intensity_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,female_employee_percent,7,1,14.29
+FY 2022-23,Telecommunications,kpi,net_zero_target_year,7,1,14.29
+FY 2022-23,Telecommunications,kpi,renewable_energy_consumption_gj,7,1,14.29
+FY 2022-23,Telecommunications,kpi,renewable_energy_percent,7,1,14.29
+FY 2022-23,Telecommunications,kpi,scope1_emissions_tco2e_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,scope1_scope2_total_tco2e_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,scope2_emissions_tco2e_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,scope3_emissions_tco2e_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,total_energy_consumption_gj,7,2,28.57
+FY 2022-23,Telecommunications,kpi,total_waste_generated_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,waste_recycled_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,waste_recycled_percent,7,2,28.57
+FY 2022-23,Telecommunications,kpi,water_consumption_kl_current,7,3,42.86
+FY 2022-23,Telecommunications,kpi,water_withdrawal_kl_current,7,2,28.57
+FY 2022-23,Telecommunications,kpi,women_on_board_percent,7,1,14.29
+FY 2022-23,Unknown,kpi,energy_intensity_current,1438,718,49.93
+FY 2022-23,Unknown,kpi,female_employee_percent,1438,200,13.91
+FY 2022-23,Unknown,kpi,net_zero_target_year,1438,176,12.24
+FY 2022-23,Unknown,kpi,renewable_energy_consumption_gj,1438,507,35.26
+FY 2022-23,Unknown,kpi,renewable_energy_percent,1438,392,27.26
+FY 2022-23,Unknown,kpi,scope1_emissions_tco2e_current,1438,557,38.73
+FY 2022-23,Unknown,kpi,scope1_scope2_total_tco2e_current,1438,4,0.28
+FY 2022-23,Unknown,kpi,scope2_emissions_tco2e_current,1438,562,39.08
+FY 2022-23,Unknown,kpi,scope3_emissions_tco2e_current,1438,237,16.48
+FY 2022-23,Unknown,kpi,total_energy_consumption_gj,1438,482,33.52
+FY 2022-23,Unknown,kpi,total_waste_generated_current,1438,770,53.55
+FY 2022-23,Unknown,kpi,waste_recycled_current,1438,689,47.91
+FY 2022-23,Unknown,kpi,waste_recycled_percent,1438,729,50.7
+FY 2022-23,Unknown,kpi,water_consumption_kl_current,1438,705,49.03
+FY 2022-23,Unknown,kpi,water_withdrawal_kl_current,1438,719,50.0
+FY 2022-23,Unknown,kpi,women_on_board_percent,1438,67,4.66
+FY 2022-23,Utilities,kpi,energy_intensity_current,9,4,44.44
+FY 2022-23,Utilities,kpi,female_employee_percent,9,0,0.0
+FY 2022-23,Utilities,kpi,net_zero_target_year,9,2,22.22
+FY 2022-23,Utilities,kpi,renewable_energy_consumption_gj,9,4,44.44
+FY 2022-23,Utilities,kpi,renewable_energy_percent,9,3,33.33
+FY 2022-23,Utilities,kpi,scope1_emissions_tco2e_current,9,4,44.44
+FY 2022-23,Utilities,kpi,scope1_scope2_total_tco2e_current,9,4,44.44
+FY 2022-23,Utilities,kpi,scope2_emissions_tco2e_current,9,4,44.44
+FY 2022-23,Utilities,kpi,scope3_emissions_tco2e_current,9,3,33.33
+FY 2022-23,Utilities,kpi,total_energy_consumption_gj,9,4,44.44
+FY 2022-23,Utilities,kpi,total_waste_generated_current,9,5,55.56
+FY 2022-23,Utilities,kpi,waste_recycled_current,9,5,55.56
+FY 2022-23,Utilities,kpi,waste_recycled_percent,9,6,66.67
+FY 2022-23,Utilities,kpi,water_consumption_kl_current,9,5,55.56
+FY 2022-23,Utilities,kpi,water_withdrawal_kl_current,9,5,55.56
+FY 2022-23,Utilities,kpi,women_on_board_percent,9,0,0.0
+FY 2024-25,Consumer Goods,kpi,energy_intensity_current,103,95,92.23
+FY 2024-25,Consumer Goods,kpi,female_employee_percent,103,8,7.77
+FY 2024-25,Consumer Goods,kpi,net_zero_target_year,103,10,9.71
+FY 2024-25,Consumer Goods,kpi,renewable_energy_consumption_gj,103,95,92.23
+FY 2024-25,Consumer Goods,kpi,renewable_energy_percent,103,50,48.54
+FY 2024-25,Consumer Goods,kpi,scope1_emissions_tco2e_current,103,83,80.58
+FY 2024-25,Consumer Goods,kpi,scope1_scope2_total_tco2e_current,103,83,80.58
+FY 2024-25,Consumer Goods,kpi,scope2_emissions_tco2e_current,103,83,80.58
+FY 2024-25,Consumer Goods,kpi,scope3_emissions_tco2e_current,103,45,43.69
+FY 2024-25,Consumer Goods,kpi,total_energy_consumption_gj,103,58,56.31
+FY 2024-25,Consumer Goods,kpi,total_waste_generated_current,103,101,98.06
+FY 2024-25,Consumer Goods,kpi,waste_recycled_current,103,97,94.17
+FY 2024-25,Consumer Goods,kpi,waste_recycled_percent,103,101,98.06
+FY 2024-25,Consumer Goods,kpi,water_consumption_kl_current,103,99,96.12
+FY 2024-25,Consumer Goods,kpi,water_withdrawal_kl_current,103,101,98.06
+FY 2024-25,Consumer Goods,kpi,women_on_board_percent,103,4,3.88
+FY 2024-25,Energy,kpi,energy_intensity_current,37,37,100.0
+FY 2024-25,Energy,kpi,female_employee_percent,37,2,5.41
+FY 2024-25,Energy,kpi,net_zero_target_year,37,17,45.95
+FY 2024-25,Energy,kpi,renewable_energy_consumption_gj,37,36,97.3
+FY 2024-25,Energy,kpi,renewable_energy_percent,37,17,45.95
+FY 2024-25,Energy,kpi,scope1_emissions_tco2e_current,37,33,89.19
+FY 2024-25,Energy,kpi,scope1_scope2_total_tco2e_current,37,33,89.19
+FY 2024-25,Energy,kpi,scope2_emissions_tco2e_current,37,33,89.19
+FY 2024-25,Energy,kpi,scope3_emissions_tco2e_current,37,26,70.27
+FY 2024-25,Energy,kpi,total_energy_consumption_gj,37,19,51.35
+FY 2024-25,Energy,kpi,total_waste_generated_current,37,36,97.3
+FY 2024-25,Energy,kpi,waste_recycled_current,37,34,91.89
+FY 2024-25,Energy,kpi,waste_recycled_percent,37,36,97.3
+FY 2024-25,Energy,kpi,water_consumption_kl_current,37,36,97.3
+FY 2024-25,Energy,kpi,water_withdrawal_kl_current,37,36,97.3
+FY 2024-25,Energy,kpi,women_on_board_percent,37,2,5.41
+FY 2024-25,Financial Services,kpi,energy_intensity_current,359,325,90.53
+FY 2024-25,Financial Services,kpi,female_employee_percent,359,56,15.6
+FY 2024-25,Financial Services,kpi,net_zero_target_year,359,36,10.03
+FY 2024-25,Financial Services,kpi,renewable_energy_consumption_gj,359,282,78.55
+FY 2024-25,Financial Services,kpi,renewable_energy_percent,359,167,46.52
+FY 2024-25,Financial Services,kpi,scope1_emissions_tco2e_current,359,263,73.26
+FY 2024-25,Financial Services,kpi,scope1_scope2_total_tco2e_current,359,261,72.7
+FY 2024-25,Financial Services,kpi,scope2_emissions_tco2e_current,359,265,73.82
+FY 2024-25,Financial Services,kpi,scope3_emissions_tco2e_current,359,194,54.04
+FY 2024-25,Financial Services,kpi,total_energy_consumption_gj,359,219,61.0
+FY 2024-25,Financial Services,kpi,total_waste_generated_current,359,336,93.59
+FY 2024-25,Financial Services,kpi,waste_recycled_current,359,275,76.6
+FY 2024-25,Financial Services,kpi,waste_recycled_percent,359,284,79.11
+FY 2024-25,Financial Services,kpi,water_consumption_kl_current,359,306,85.24
+FY 2024-25,Financial Services,kpi,water_withdrawal_kl_current,359,321,89.42
+FY 2024-25,Financial Services,kpi,women_on_board_percent,359,12,3.34
+FY 2024-25,Healthcare,kpi,energy_intensity_current,235,229,97.45
+FY 2024-25,Healthcare,kpi,female_employee_percent,235,26,11.06
+FY 2024-25,Healthcare,kpi,net_zero_target_year,235,34,14.47
+FY 2024-25,Healthcare,kpi,renewable_energy_consumption_gj,235,212,90.21
+FY 2024-25,Healthcare,kpi,renewable_energy_percent,235,95,40.43
+FY 2024-25,Healthcare,kpi,scope1_emissions_tco2e_current,235,207,88.09
+FY 2024-25,Healthcare,kpi,scope1_scope2_total_tco2e_current,235,198,84.26
+FY 2024-25,Healthcare,kpi,scope2_emissions_tco2e_current,235,198,84.26
+FY 2024-25,Healthcare,kpi,scope3_emissions_tco2e_current,235,124,52.77
+FY 2024-25,Healthcare,kpi,total_energy_consumption_gj,235,119,50.64
+FY 2024-25,Healthcare,kpi,total_waste_generated_current,235,230,97.87
+FY 2024-25,Healthcare,kpi,waste_recycled_current,235,220,93.62
+FY 2024-25,Healthcare,kpi,waste_recycled_percent,235,223,94.89
+FY 2024-25,Healthcare,kpi,water_consumption_kl_current,235,220,93.62
+FY 2024-25,Healthcare,kpi,water_withdrawal_kl_current,235,224,95.32
+FY 2024-25,Healthcare,kpi,women_on_board_percent,235,6,2.55
+FY 2024-25,Industrials,kpi,energy_intensity_current,303,290,95.71
+FY 2024-25,Industrials,kpi,female_employee_percent,303,42,13.86
+FY 2024-25,Industrials,kpi,net_zero_target_year,303,58,19.14
+FY 2024-25,Industrials,kpi,renewable_energy_consumption_gj,303,293,96.7
+FY 2024-25,Industrials,kpi,renewable_energy_percent,303,141,46.53
+FY 2024-25,Industrials,kpi,scope1_emissions_tco2e_current,303,270,89.11
+FY 2024-25,Industrials,kpi,scope1_scope2_total_tco2e_current,303,261,86.14
+FY 2024-25,Industrials,kpi,scope2_emissions_tco2e_current,303,265,87.46
+FY 2024-25,Industrials,kpi,scope3_emissions_tco2e_current,303,158,52.15
+FY 2024-25,Industrials,kpi,total_energy_consumption_gj,303,155,51.16
+FY 2024-25,Industrials,kpi,total_waste_generated_current,303,296,97.69
+FY 2024-25,Industrials,kpi,waste_recycled_current,303,282,93.07
+FY 2024-25,Industrials,kpi,waste_recycled_percent,303,291,96.04
+FY 2024-25,Industrials,kpi,water_consumption_kl_current,303,295,97.36
+FY 2024-25,Industrials,kpi,water_withdrawal_kl_current,303,297,98.02
+FY 2024-25,Industrials,kpi,women_on_board_percent,303,7,2.31
+FY 2024-25,Information Technology,kpi,energy_intensity_current,373,358,95.98
+FY 2024-25,Information Technology,kpi,female_employee_percent,373,39,10.46
+FY 2024-25,Information Technology,kpi,net_zero_target_year,373,60,16.09
+FY 2024-25,Information Technology,kpi,renewable_energy_consumption_gj,373,330,88.47
+FY 2024-25,Information Technology,kpi,renewable_energy_percent,373,175,46.92
+FY 2024-25,Information Technology,kpi,scope1_emissions_tco2e_current,373,333,89.28
+FY 2024-25,Information Technology,kpi,scope1_scope2_total_tco2e_current,373,320,85.79
+FY 2024-25,Information Technology,kpi,scope2_emissions_tco2e_current,373,320,85.79
+FY 2024-25,Information Technology,kpi,scope3_emissions_tco2e_current,373,178,47.72
+FY 2024-25,Information Technology,kpi,total_energy_consumption_gj,373,208,55.76
+FY 2024-25,Information Technology,kpi,total_waste_generated_current,373,365,97.86
+FY 2024-25,Information Technology,kpi,waste_recycled_current,373,331,88.74
+FY 2024-25,Information Technology,kpi,waste_recycled_percent,373,341,91.42
+FY 2024-25,Information Technology,kpi,water_consumption_kl_current,373,351,94.1
+FY 2024-25,Information Technology,kpi,water_withdrawal_kl_current,373,352,94.37
+FY 2024-25,Information Technology,kpi,women_on_board_percent,373,6,1.61
+FY 2024-25,Materials,kpi,energy_intensity_current,345,327,94.78
+FY 2024-25,Materials,kpi,female_employee_percent,345,35,10.14
+FY 2024-25,Materials,kpi,net_zero_target_year,345,39,11.3
+FY 2024-25,Materials,kpi,renewable_energy_consumption_gj,345,321,93.04
+FY 2024-25,Materials,kpi,renewable_energy_percent,345,180,52.17
+FY 2024-25,Materials,kpi,scope1_emissions_tco2e_current,345,284,82.32
+FY 2024-25,Materials,kpi,scope1_scope2_total_tco2e_current,345,270,78.26
+FY 2024-25,Materials,kpi,scope2_emissions_tco2e_current,345,272,78.84
+FY 2024-25,Materials,kpi,scope3_emissions_tco2e_current,345,170,49.28
+FY 2024-25,Materials,kpi,total_energy_consumption_gj,345,192,55.65
+FY 2024-25,Materials,kpi,total_waste_generated_current,345,330,95.65
+FY 2024-25,Materials,kpi,waste_recycled_current,345,307,88.99
+FY 2024-25,Materials,kpi,waste_recycled_percent,345,318,92.17
+FY 2024-25,Materials,kpi,water_consumption_kl_current,345,327,94.78
+FY 2024-25,Materials,kpi,water_withdrawal_kl_current,345,332,96.23
+FY 2024-25,Materials,kpi,women_on_board_percent,345,3,0.87
+FY 2024-25,Media & Entertainment,kpi,energy_intensity_current,13,12,92.31
+FY 2024-25,Media & Entertainment,kpi,female_employee_percent,13,0,0.0
+FY 2024-25,Media & Entertainment,kpi,net_zero_target_year,13,0,0.0
+FY 2024-25,Media & Entertainment,kpi,renewable_energy_consumption_gj,13,12,92.31
+FY 2024-25,Media & Entertainment,kpi,renewable_energy_percent,13,10,76.92
+FY 2024-25,Media & Entertainment,kpi,scope1_emissions_tco2e_current,13,8,61.54
+FY 2024-25,Media & Entertainment,kpi,scope1_scope2_total_tco2e_current,13,8,61.54
+FY 2024-25,Media & Entertainment,kpi,scope2_emissions_tco2e_current,13,8,61.54
+FY 2024-25,Media & Entertainment,kpi,scope3_emissions_tco2e_current,13,4,30.77
+FY 2024-25,Media & Entertainment,kpi,total_energy_consumption_gj,13,10,76.92
+FY 2024-25,Media & Entertainment,kpi,total_waste_generated_current,13,12,92.31
+FY 2024-25,Media & Entertainment,kpi,waste_recycled_current,13,8,61.54
+FY 2024-25,Media & Entertainment,kpi,waste_recycled_percent,13,8,61.54
+FY 2024-25,Media & Entertainment,kpi,water_consumption_kl_current,13,12,92.31
+FY 2024-25,Media & Entertainment,kpi,water_withdrawal_kl_current,13,10,76.92
+FY 2024-25,Media & Entertainment,kpi,women_on_board_percent,13,0,0.0
+FY 2024-25,Real Estate,kpi,energy_intensity_current,100,98,98.0
+FY 2024-25,Real Estate,kpi,female_employee_percent,100,7,7.0
+FY 2024-25,Real Estate,kpi,net_zero_target_year,100,17,17.0
+FY 2024-25,Real Estate,kpi,renewable_energy_consumption_gj,100,88,88.0
+FY 2024-25,Real Estate,kpi,renewable_energy_percent,100,50,50.0
+FY 2024-25,Real Estate,kpi,scope1_emissions_tco2e_current,100,84,84.0
+FY 2024-25,Real Estate,kpi,scope1_scope2_total_tco2e_current,100,83,83.0
+FY 2024-25,Real Estate,kpi,scope2_emissions_tco2e_current,100,85,85.0
+FY 2024-25,Real Estate,kpi,scope3_emissions_tco2e_current,100,58,58.0
+FY 2024-25,Real Estate,kpi,total_energy_consumption_gj,100,57,57.0
+FY 2024-25,Real Estate,kpi,total_waste_generated_current,100,98,98.0
+FY 2024-25,Real Estate,kpi,waste_recycled_current,100,90,90.0
+FY 2024-25,Real Estate,kpi,waste_recycled_percent,100,92,92.0
+FY 2024-25,Real Estate,kpi,water_consumption_kl_current,100,99,99.0
+FY 2024-25,Real Estate,kpi,water_withdrawal_kl_current,100,96,96.0
+FY 2024-25,Real Estate,kpi,women_on_board_percent,100,2,2.0
+FY 2024-25,Telecommunications,kpi,energy_intensity_current,45,45,100.0
+FY 2024-25,Telecommunications,kpi,female_employee_percent,45,2,4.44
+FY 2024-25,Telecommunications,kpi,net_zero_target_year,45,9,20.0
+FY 2024-25,Telecommunications,kpi,renewable_energy_consumption_gj,45,35,77.78
+FY 2024-25,Telecommunications,kpi,renewable_energy_percent,45,22,48.89
+FY 2024-25,Telecommunications,kpi,scope1_emissions_tco2e_current,45,43,95.56
+FY 2024-25,Telecommunications,kpi,scope1_scope2_total_tco2e_current,45,43,95.56
+FY 2024-25,Telecommunications,kpi,scope2_emissions_tco2e_current,45,43,95.56
+FY 2024-25,Telecommunications,kpi,scope3_emissions_tco2e_current,45,21,46.67
+FY 2024-25,Telecommunications,kpi,total_energy_consumption_gj,45,37,82.22
+FY 2024-25,Telecommunications,kpi,total_waste_generated_current,45,43,95.56
+FY 2024-25,Telecommunications,kpi,waste_recycled_current,45,41,91.11
+FY 2024-25,Telecommunications,kpi,waste_recycled_percent,45,41,91.11
+FY 2024-25,Telecommunications,kpi,water_consumption_kl_current,45,43,95.56
+FY 2024-25,Telecommunications,kpi,water_withdrawal_kl_current,45,43,95.56
+FY 2024-25,Telecommunications,kpi,women_on_board_percent,45,0,0.0
+FY 2024-25,Unknown,kpi,energy_intensity_current,76,6,7.89
+FY 2024-25,Unknown,kpi,female_employee_percent,76,0,0.0
+FY 2024-25,Unknown,kpi,net_zero_target_year,76,0,0.0
+FY 2024-25,Unknown,kpi,renewable_energy_consumption_gj,76,6,7.89
+FY 2024-25,Unknown,kpi,renewable_energy_percent,76,2,2.63
+FY 2024-25,Unknown,kpi,scope1_emissions_tco2e_current,76,3,3.95
+FY 2024-25,Unknown,kpi,scope1_scope2_total_tco2e_current,76,3,3.95
+FY 2024-25,Unknown,kpi,scope2_emissions_tco2e_current,76,3,3.95
+FY 2024-25,Unknown,kpi,scope3_emissions_tco2e_current,76,3,3.95
+FY 2024-25,Unknown,kpi,total_energy_consumption_gj,76,3,3.95
+FY 2024-25,Unknown,kpi,total_waste_generated_current,76,4,5.26
+FY 2024-25,Unknown,kpi,waste_recycled_current,76,6,7.89
+FY 2024-25,Unknown,kpi,waste_recycled_percent,76,4,5.26
+FY 2024-25,Unknown,kpi,water_consumption_kl_current,76,4,5.26
+FY 2024-25,Unknown,kpi,water_withdrawal_kl_current,76,4,5.26
+FY 2024-25,Unknown,kpi,women_on_board_percent,76,1,1.32
+FY 2024-25,Utilities,kpi,energy_intensity_current,55,55,100.0
+FY 2024-25,Utilities,kpi,female_employee_percent,55,12,21.82
+FY 2024-25,Utilities,kpi,net_zero_target_year,55,13,23.64
+FY 2024-25,Utilities,kpi,renewable_energy_consumption_gj,55,53,96.36
+FY 2024-25,Utilities,kpi,renewable_energy_percent,55,30,54.55
+FY 2024-25,Utilities,kpi,scope1_emissions_tco2e_current,55,46,83.64
+FY 2024-25,Utilities,kpi,scope1_scope2_total_tco2e_current,55,45,81.82
+FY 2024-25,Utilities,kpi,scope2_emissions_tco2e_current,55,47,85.45
+FY 2024-25,Utilities,kpi,scope3_emissions_tco2e_current,55,30,54.55
+FY 2024-25,Utilities,kpi,total_energy_consumption_gj,55,32,58.18
+FY 2024-25,Utilities,kpi,total_waste_generated_current,55,55,100.0
+FY 2024-25,Utilities,kpi,waste_recycled_current,55,52,94.55
+FY 2024-25,Utilities,kpi,waste_recycled_percent,55,53,96.36
+FY 2024-25,Utilities,kpi,water_consumption_kl_current,55,54,98.18
+FY 2024-25,Utilities,kpi,water_withdrawal_kl_current,55,55,100.0
+FY 2024-25,Utilities,kpi,women_on_board_percent,55,0,0.0
+FY 2025-26,Consumer Goods,kpi,energy_intensity_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,female_employee_percent,5,0,0.0
+FY 2025-26,Consumer Goods,kpi,net_zero_target_year,5,1,20.0
+FY 2025-26,Consumer Goods,kpi,renewable_energy_consumption_gj,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,renewable_energy_percent,5,4,80.0
+FY 2025-26,Consumer Goods,kpi,scope1_emissions_tco2e_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,scope1_scope2_total_tco2e_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,scope2_emissions_tco2e_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,scope3_emissions_tco2e_current,5,2,40.0
+FY 2025-26,Consumer Goods,kpi,total_energy_consumption_gj,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,total_waste_generated_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,waste_recycled_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,waste_recycled_percent,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,water_consumption_kl_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,water_withdrawal_kl_current,5,5,100.0
+FY 2025-26,Consumer Goods,kpi,women_on_board_percent,5,0,0.0
+FY 2025-26,Energy,kpi,energy_intensity_current,5,5,100.0
+FY 2025-26,Energy,kpi,female_employee_percent,5,0,0.0
+FY 2025-26,Energy,kpi,net_zero_target_year,5,3,60.0
+FY 2025-26,Energy,kpi,renewable_energy_consumption_gj,5,4,80.0
+FY 2025-26,Energy,kpi,renewable_energy_percent,5,3,60.0
+FY 2025-26,Energy,kpi,scope1_emissions_tco2e_current,5,3,60.0
+FY 2025-26,Energy,kpi,scope1_scope2_total_tco2e_current,5,3,60.0
+FY 2025-26,Energy,kpi,scope2_emissions_tco2e_current,5,3,60.0
+FY 2025-26,Energy,kpi,scope3_emissions_tco2e_current,5,4,80.0
+FY 2025-26,Energy,kpi,total_energy_consumption_gj,5,3,60.0
+FY 2025-26,Energy,kpi,total_waste_generated_current,5,4,80.0
+FY 2025-26,Energy,kpi,waste_recycled_current,5,4,80.0
+FY 2025-26,Energy,kpi,waste_recycled_percent,5,4,80.0
+FY 2025-26,Energy,kpi,water_consumption_kl_current,5,4,80.0
+FY 2025-26,Energy,kpi,water_withdrawal_kl_current,5,4,80.0
+FY 2025-26,Energy,kpi,women_on_board_percent,5,0,0.0
+FY 2025-26,Financial Services,kpi,energy_intensity_current,32,30,93.75
+FY 2025-26,Financial Services,kpi,female_employee_percent,32,7,21.88
+FY 2025-26,Financial Services,kpi,net_zero_target_year,32,3,9.38
+FY 2025-26,Financial Services,kpi,renewable_energy_consumption_gj,32,27,84.38
+FY 2025-26,Financial Services,kpi,renewable_energy_percent,32,13,40.62
+FY 2025-26,Financial Services,kpi,scope1_emissions_tco2e_current,32,25,78.12
+FY 2025-26,Financial Services,kpi,scope1_scope2_total_tco2e_current,32,25,78.12
+FY 2025-26,Financial Services,kpi,scope2_emissions_tco2e_current,32,26,81.25
+FY 2025-26,Financial Services,kpi,scope3_emissions_tco2e_current,32,18,56.25
+FY 2025-26,Financial Services,kpi,total_energy_consumption_gj,32,17,53.12
+FY 2025-26,Financial Services,kpi,total_waste_generated_current,32,29,90.62
+FY 2025-26,Financial Services,kpi,waste_recycled_current,32,27,84.38
+FY 2025-26,Financial Services,kpi,waste_recycled_percent,32,25,78.12
+FY 2025-26,Financial Services,kpi,water_consumption_kl_current,32,28,87.5
+FY 2025-26,Financial Services,kpi,water_withdrawal_kl_current,32,28,87.5
+FY 2025-26,Financial Services,kpi,women_on_board_percent,32,0,0.0
+FY 2025-26,Healthcare,kpi,energy_intensity_current,17,17,100.0
+FY 2025-26,Healthcare,kpi,female_employee_percent,17,2,11.76
+FY 2025-26,Healthcare,kpi,net_zero_target_year,17,2,11.76
+FY 2025-26,Healthcare,kpi,renewable_energy_consumption_gj,17,15,88.24
+FY 2025-26,Healthcare,kpi,renewable_energy_percent,17,9,52.94
+FY 2025-26,Healthcare,kpi,scope1_emissions_tco2e_current,17,14,82.35
+FY 2025-26,Healthcare,kpi,scope1_scope2_total_tco2e_current,17,13,76.47
+FY 2025-26,Healthcare,kpi,scope2_emissions_tco2e_current,17,13,76.47
+FY 2025-26,Healthcare,kpi,scope3_emissions_tco2e_current,17,8,47.06
+FY 2025-26,Healthcare,kpi,total_energy_consumption_gj,17,12,70.59
+FY 2025-26,Healthcare,kpi,total_waste_generated_current,17,16,94.12
+FY 2025-26,Healthcare,kpi,waste_recycled_current,17,16,94.12
+FY 2025-26,Healthcare,kpi,waste_recycled_percent,17,15,88.24
+FY 2025-26,Healthcare,kpi,water_consumption_kl_current,17,16,94.12
+FY 2025-26,Healthcare,kpi,water_withdrawal_kl_current,17,16,94.12
+FY 2025-26,Healthcare,kpi,women_on_board_percent,17,0,0.0
+FY 2025-26,Industrials,kpi,energy_intensity_current,20,20,100.0
+FY 2025-26,Industrials,kpi,female_employee_percent,20,5,25.0
+FY 2025-26,Industrials,kpi,net_zero_target_year,20,5,25.0
+FY 2025-26,Industrials,kpi,renewable_energy_consumption_gj,20,19,95.0
+FY 2025-26,Industrials,kpi,renewable_energy_percent,20,8,40.0
+FY 2025-26,Industrials,kpi,scope1_emissions_tco2e_current,20,15,75.0
+FY 2025-26,Industrials,kpi,scope1_scope2_total_tco2e_current,20,14,70.0
+FY 2025-26,Industrials,kpi,scope2_emissions_tco2e_current,20,14,70.0
+FY 2025-26,Industrials,kpi,scope3_emissions_tco2e_current,20,11,55.0
+FY 2025-26,Industrials,kpi,total_energy_consumption_gj,20,10,50.0
+FY 2025-26,Industrials,kpi,total_waste_generated_current,20,20,100.0
+FY 2025-26,Industrials,kpi,waste_recycled_current,20,18,90.0
+FY 2025-26,Industrials,kpi,waste_recycled_percent,20,19,95.0
+FY 2025-26,Industrials,kpi,water_consumption_kl_current,20,19,95.0
+FY 2025-26,Industrials,kpi,water_withdrawal_kl_current,20,19,95.0
+FY 2025-26,Industrials,kpi,women_on_board_percent,20,0,0.0
+FY 2025-26,Information Technology,kpi,energy_intensity_current,28,28,100.0
+FY 2025-26,Information Technology,kpi,female_employee_percent,28,3,10.71
+FY 2025-26,Information Technology,kpi,net_zero_target_year,28,3,10.71
+FY 2025-26,Information Technology,kpi,renewable_energy_consumption_gj,28,24,85.71
+FY 2025-26,Information Technology,kpi,renewable_energy_percent,28,10,35.71
+FY 2025-26,Information Technology,kpi,scope1_emissions_tco2e_current,28,25,89.29
+FY 2025-26,Information Technology,kpi,scope1_scope2_total_tco2e_current,28,23,82.14
+FY 2025-26,Information Technology,kpi,scope2_emissions_tco2e_current,28,23,82.14
+FY 2025-26,Information Technology,kpi,scope3_emissions_tco2e_current,28,15,53.57
+FY 2025-26,Information Technology,kpi,total_energy_consumption_gj,28,16,57.14
+FY 2025-26,Information Technology,kpi,total_waste_generated_current,28,28,100.0
+FY 2025-26,Information Technology,kpi,waste_recycled_current,28,28,100.0
+FY 2025-26,Information Technology,kpi,waste_recycled_percent,28,28,100.0
+FY 2025-26,Information Technology,kpi,water_consumption_kl_current,28,28,100.0
+FY 2025-26,Information Technology,kpi,water_withdrawal_kl_current,28,26,92.86
+FY 2025-26,Information Technology,kpi,women_on_board_percent,28,2,7.14
+FY 2025-26,Materials,kpi,energy_intensity_current,23,18,78.26
+FY 2025-26,Materials,kpi,female_employee_percent,23,1,4.35
+FY 2025-26,Materials,kpi,net_zero_target_year,23,4,17.39
+FY 2025-26,Materials,kpi,renewable_energy_consumption_gj,23,18,78.26
+FY 2025-26,Materials,kpi,renewable_energy_percent,23,9,39.13
+FY 2025-26,Materials,kpi,scope1_emissions_tco2e_current,23,15,65.22
+FY 2025-26,Materials,kpi,scope1_scope2_total_tco2e_current,23,15,65.22
+FY 2025-26,Materials,kpi,scope2_emissions_tco2e_current,23,15,65.22
+FY 2025-26,Materials,kpi,scope3_emissions_tco2e_current,23,8,34.78
+FY 2025-26,Materials,kpi,total_energy_consumption_gj,23,11,47.83
+FY 2025-26,Materials,kpi,total_waste_generated_current,23,19,82.61
+FY 2025-26,Materials,kpi,waste_recycled_current,23,17,73.91
+FY 2025-26,Materials,kpi,waste_recycled_percent,23,18,78.26
+FY 2025-26,Materials,kpi,water_consumption_kl_current,23,16,69.57
+FY 2025-26,Materials,kpi,water_withdrawal_kl_current,23,17,73.91
+FY 2025-26,Materials,kpi,women_on_board_percent,23,3,13.04
+FY 2025-26,Media & Entertainment,kpi,energy_intensity_current,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,female_employee_percent,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,net_zero_target_year,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,renewable_energy_consumption_gj,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,renewable_energy_percent,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,scope1_emissions_tco2e_current,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,scope1_scope2_total_tco2e_current,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,scope2_emissions_tco2e_current,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,scope3_emissions_tco2e_current,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,total_energy_consumption_gj,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,total_waste_generated_current,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,waste_recycled_current,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,waste_recycled_percent,2,0,0.0
+FY 2025-26,Media & Entertainment,kpi,water_consumption_kl_current,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,water_withdrawal_kl_current,2,1,50.0
+FY 2025-26,Media & Entertainment,kpi,women_on_board_percent,2,0,0.0
+FY 2025-26,Real Estate,kpi,energy_intensity_current,14,14,100.0
+FY 2025-26,Real Estate,kpi,female_employee_percent,14,3,21.43
+FY 2025-26,Real Estate,kpi,net_zero_target_year,14,6,42.86
+FY 2025-26,Real Estate,kpi,renewable_energy_consumption_gj,14,14,100.0
+FY 2025-26,Real Estate,kpi,renewable_energy_percent,14,8,57.14
+FY 2025-26,Real Estate,kpi,scope1_emissions_tco2e_current,14,14,100.0
+FY 2025-26,Real Estate,kpi,scope1_scope2_total_tco2e_current,14,13,92.86
+FY 2025-26,Real Estate,kpi,scope2_emissions_tco2e_current,14,13,92.86
+FY 2025-26,Real Estate,kpi,scope3_emissions_tco2e_current,14,10,71.43
+FY 2025-26,Real Estate,kpi,total_energy_consumption_gj,14,9,64.29
+FY 2025-26,Real Estate,kpi,total_waste_generated_current,14,14,100.0
+FY 2025-26,Real Estate,kpi,waste_recycled_current,14,14,100.0
+FY 2025-26,Real Estate,kpi,waste_recycled_percent,14,14,100.0
+FY 2025-26,Real Estate,kpi,water_consumption_kl_current,14,13,92.86
+FY 2025-26,Real Estate,kpi,water_withdrawal_kl_current,14,14,100.0
+FY 2025-26,Real Estate,kpi,women_on_board_percent,14,0,0.0
+FY 2025-26,Telecommunications,kpi,energy_intensity_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,female_employee_percent,4,2,50.0
+FY 2025-26,Telecommunications,kpi,net_zero_target_year,4,1,25.0
+FY 2025-26,Telecommunications,kpi,renewable_energy_consumption_gj,4,4,100.0
+FY 2025-26,Telecommunications,kpi,renewable_energy_percent,4,2,50.0
+FY 2025-26,Telecommunications,kpi,scope1_emissions_tco2e_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,scope1_scope2_total_tco2e_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,scope2_emissions_tco2e_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,scope3_emissions_tco2e_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,total_energy_consumption_gj,4,3,75.0
+FY 2025-26,Telecommunications,kpi,total_waste_generated_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,waste_recycled_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,waste_recycled_percent,4,4,100.0
+FY 2025-26,Telecommunications,kpi,water_consumption_kl_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,water_withdrawal_kl_current,4,4,100.0
+FY 2025-26,Telecommunications,kpi,women_on_board_percent,4,0,0.0
+FY 2025-26,Unknown,kpi,energy_intensity_current,31,0,0.0
+FY 2025-26,Unknown,kpi,female_employee_percent,31,0,0.0
+FY 2025-26,Unknown,kpi,net_zero_target_year,31,0,0.0
+FY 2025-26,Unknown,kpi,renewable_energy_consumption_gj,31,0,0.0
+FY 2025-26,Unknown,kpi,renewable_energy_percent,31,1,3.23
+FY 2025-26,Unknown,kpi,scope1_emissions_tco2e_current,31,0,0.0
+FY 2025-26,Unknown,kpi,scope1_scope2_total_tco2e_current,31,0,0.0
+FY 2025-26,Unknown,kpi,scope2_emissions_tco2e_current,31,0,0.0
+FY 2025-26,Unknown,kpi,scope3_emissions_tco2e_current,31,0,0.0
+FY 2025-26,Unknown,kpi,total_energy_consumption_gj,31,1,3.23
+FY 2025-26,Unknown,kpi,total_waste_generated_current,31,0,0.0
+FY 2025-26,Unknown,kpi,waste_recycled_current,31,0,0.0
+FY 2025-26,Unknown,kpi,waste_recycled_percent,31,0,0.0
+FY 2025-26,Unknown,kpi,water_consumption_kl_current,31,0,0.0
+FY 2025-26,Unknown,kpi,water_withdrawal_kl_current,31,0,0.0
+FY 2025-26,Unknown,kpi,women_on_board_percent,31,0,0.0
+FY 2025-26,Utilities,kpi,energy_intensity_current,7,7,100.0
+FY 2025-26,Utilities,kpi,female_employee_percent,7,1,14.29
+FY 2025-26,Utilities,kpi,net_zero_target_year,7,2,28.57
+FY 2025-26,Utilities,kpi,renewable_energy_consumption_gj,7,5,71.43
+FY 2025-26,Utilities,kpi,renewable_energy_percent,7,4,57.14
+FY 2025-26,Utilities,kpi,scope1_emissions_tco2e_current,7,6,85.71
+FY 2025-26,Utilities,kpi,scope1_scope2_total_tco2e_current,7,6,85.71
+FY 2025-26,Utilities,kpi,scope2_emissions_tco2e_current,7,6,85.71
+FY 2025-26,Utilities,kpi,scope3_emissions_tco2e_current,7,4,57.14
+FY 2025-26,Utilities,kpi,total_energy_consumption_gj,7,4,57.14
+FY 2025-26,Utilities,kpi,total_waste_generated_current,7,7,100.0
+FY 2025-26,Utilities,kpi,waste_recycled_current,7,6,85.71
+FY 2025-26,Utilities,kpi,waste_recycled_percent,7,7,100.0
+FY 2025-26,Utilities,kpi,water_consumption_kl_current,7,6,85.71
+FY 2025-26,Utilities,kpi,water_withdrawal_kl_current,7,7,100.0
+FY 2025-26,Utilities,kpi,women_on_board_percent,7,0,0.0

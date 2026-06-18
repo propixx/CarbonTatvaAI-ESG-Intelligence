@@ -1,0 +1,47 @@
+{
+  "target": {
+    "company": "DIXON",
+    "company_normalized": "DIXON",
+    "reporting_year": "FY 2022-23",
+    "sector": "Real Estate",
+    "source_type": "brsr_prd_master",
+    "source_file": "data\\drive_download\\esg_prd_master_dataset_22-23.csv",
+    "disclosure_coverage_count": 15,
+    "kpi_available_count": 9
+  },
+  "executive_summary": {
+    "missing_disclosures": 0,
+    "kpi_gaps": 0,
+    "covered_disclosures": [
+      "environmental",
+      "social",
+      "governance",
+      "climate_risk",
+      "net_zero",
+      "energy",
+      "water",
+      "waste",
+      "scope_1",
+      "scope_2",
+      "diversity",
+      "human_rights",
+      "csr",
+      "supply_chain",
+      "board_governance"
+    ],
+    "available_kpis": [
+      "scope1_emissions_tco2e_current",
+      "scope2_emissions_tco2e_current",
+      "scope1_scope2_total_tco2e_current",
+      "water_consumption_kl_current",
+      "water_withdrawal_kl_current",
+      "total_waste_generated_current",
+      "waste_recycled_current",
+      "waste_recycled_percent",
+      "energy_intensity_current"
+    ]
+  },
+  "missing_disclosures": [],
+  "kpi_gaps": [],
+  "recommendations": []
+}

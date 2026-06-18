@@ -1,0 +1,685 @@
+reporting_year,sector,metric_type,metric,companies_total,companies_disclosing,adoption_rate_percent
+FY 2022-23,Consumer Goods,disclosure,board_governance,47,46,97.87
+FY 2022-23,Consumer Goods,disclosure,cdp,47,4,8.51
+FY 2022-23,Consumer Goods,disclosure,climate_risk,47,6,12.77
+FY 2022-23,Consumer Goods,disclosure,csr,47,46,97.87
+FY 2022-23,Consumer Goods,disclosure,diversity,47,46,97.87
+FY 2022-23,Consumer Goods,disclosure,energy,47,43,91.49
+FY 2022-23,Consumer Goods,disclosure,environmental,47,45,95.74
+FY 2022-23,Consumer Goods,disclosure,governance,47,46,97.87
+FY 2022-23,Consumer Goods,disclosure,human_rights,47,45,95.74
+FY 2022-23,Consumer Goods,disclosure,ifrs_s1_s2,47,0,0.0
+FY 2022-23,Consumer Goods,disclosure,net_zero,47,12,25.53
+FY 2022-23,Consumer Goods,disclosure,scope_1,47,31,65.96
+FY 2022-23,Consumer Goods,disclosure,scope_2,47,31,65.96
+FY 2022-23,Consumer Goods,disclosure,scope_3,47,16,34.04
+FY 2022-23,Consumer Goods,disclosure,social,47,46,97.87
+FY 2022-23,Consumer Goods,disclosure,supply_chain,47,45,95.74
+FY 2022-23,Consumer Goods,disclosure,tcfd,47,0,0.0
+FY 2022-23,Consumer Goods,disclosure,waste,47,38,80.85
+FY 2022-23,Consumer Goods,disclosure,water,47,34,72.34
+FY 2022-23,Energy,disclosure,board_governance,18,16,88.89
+FY 2022-23,Energy,disclosure,cdp,18,4,22.22
+FY 2022-23,Energy,disclosure,climate_risk,18,5,27.78
+FY 2022-23,Energy,disclosure,csr,18,16,88.89
+FY 2022-23,Energy,disclosure,diversity,18,16,88.89
+FY 2022-23,Energy,disclosure,energy,18,15,83.33
+FY 2022-23,Energy,disclosure,environmental,18,16,88.89
+FY 2022-23,Energy,disclosure,governance,18,16,88.89
+FY 2022-23,Energy,disclosure,human_rights,18,16,88.89
+FY 2022-23,Energy,disclosure,ifrs_s1_s2,18,0,0.0
+FY 2022-23,Energy,disclosure,net_zero,18,11,61.11
+FY 2022-23,Energy,disclosure,scope_1,18,14,77.78
+FY 2022-23,Energy,disclosure,scope_2,18,14,77.78
+FY 2022-23,Energy,disclosure,scope_3,18,11,61.11
+FY 2022-23,Energy,disclosure,social,18,16,88.89
+FY 2022-23,Energy,disclosure,supply_chain,18,16,88.89
+FY 2022-23,Energy,disclosure,tcfd,18,1,5.56
+FY 2022-23,Energy,disclosure,waste,18,15,83.33
+FY 2022-23,Energy,disclosure,water,18,14,77.78
+FY 2022-23,Financial Services,disclosure,board_governance,568,547,96.3
+FY 2022-23,Financial Services,disclosure,cdp,568,26,4.58
+FY 2022-23,Financial Services,disclosure,climate_risk,568,79,13.91
+FY 2022-23,Financial Services,disclosure,csr,568,526,92.61
+FY 2022-23,Financial Services,disclosure,diversity,568,547,96.3
+FY 2022-23,Financial Services,disclosure,energy,568,455,80.11
+FY 2022-23,Financial Services,disclosure,environmental,568,550,96.83
+FY 2022-23,Financial Services,disclosure,governance,568,551,97.01
+FY 2022-23,Financial Services,disclosure,human_rights,568,542,95.42
+FY 2022-23,Financial Services,disclosure,ifrs_s1_s2,568,2,0.35
+FY 2022-23,Financial Services,disclosure,net_zero,568,98,17.25
+FY 2022-23,Financial Services,disclosure,scope_1,568,272,47.89
+FY 2022-23,Financial Services,disclosure,scope_2,568,271,47.71
+FY 2022-23,Financial Services,disclosure,scope_3,568,192,33.8
+FY 2022-23,Financial Services,disclosure,social,568,550,96.83
+FY 2022-23,Financial Services,disclosure,supply_chain,568,503,88.56
+FY 2022-23,Financial Services,disclosure,tcfd,568,25,4.4
+FY 2022-23,Financial Services,disclosure,waste,568,302,53.17
+FY 2022-23,Financial Services,disclosure,water,568,289,50.88
+FY 2022-23,Healthcare,disclosure,board_governance,93,90,96.77
+FY 2022-23,Healthcare,disclosure,cdp,93,6,6.45
+FY 2022-23,Healthcare,disclosure,climate_risk,93,16,17.2
+FY 2022-23,Healthcare,disclosure,csr,93,90,96.77
+FY 2022-23,Healthcare,disclosure,diversity,93,90,96.77
+FY 2022-23,Healthcare,disclosure,energy,93,86,92.47
+FY 2022-23,Healthcare,disclosure,environmental,93,90,96.77
+FY 2022-23,Healthcare,disclosure,governance,93,90,96.77
+FY 2022-23,Healthcare,disclosure,human_rights,93,90,96.77
+FY 2022-23,Healthcare,disclosure,ifrs_s1_s2,93,0,0.0
+FY 2022-23,Healthcare,disclosure,net_zero,93,19,20.43
+FY 2022-23,Healthcare,disclosure,scope_1,93,69,74.19
+FY 2022-23,Healthcare,disclosure,scope_2,93,69,74.19
+FY 2022-23,Healthcare,disclosure,scope_3,93,41,44.09
+FY 2022-23,Healthcare,disclosure,social,93,90,96.77
+FY 2022-23,Healthcare,disclosure,supply_chain,93,88,94.62
+FY 2022-23,Healthcare,disclosure,tcfd,93,4,4.3
+FY 2022-23,Healthcare,disclosure,waste,93,72,77.42
+FY 2022-23,Healthcare,disclosure,water,93,70,75.27
+FY 2022-23,Industrials,disclosure,board_governance,91,81,89.01
+FY 2022-23,Industrials,disclosure,cdp,91,7,7.69
+FY 2022-23,Industrials,disclosure,climate_risk,91,17,18.68
+FY 2022-23,Industrials,disclosure,csr,91,80,87.91
+FY 2022-23,Industrials,disclosure,diversity,91,80,87.91
+FY 2022-23,Industrials,disclosure,energy,91,79,86.81
+FY 2022-23,Industrials,disclosure,environmental,91,81,89.01
+FY 2022-23,Industrials,disclosure,governance,91,81,89.01
+FY 2022-23,Industrials,disclosure,human_rights,91,79,86.81
+FY 2022-23,Industrials,disclosure,ifrs_s1_s2,91,0,0.0
+FY 2022-23,Industrials,disclosure,net_zero,91,45,49.45
+FY 2022-23,Industrials,disclosure,scope_1,91,60,65.93
+FY 2022-23,Industrials,disclosure,scope_2,91,60,65.93
+FY 2022-23,Industrials,disclosure,scope_3,91,48,52.75
+FY 2022-23,Industrials,disclosure,social,91,81,89.01
+FY 2022-23,Industrials,disclosure,supply_chain,91,81,89.01
+FY 2022-23,Industrials,disclosure,tcfd,91,4,4.4
+FY 2022-23,Industrials,disclosure,waste,91,67,73.63
+FY 2022-23,Industrials,disclosure,water,91,63,69.23
+FY 2022-23,Information Technology,disclosure,board_governance,224,219,97.77
+FY 2022-23,Information Technology,disclosure,cdp,224,19,8.48
+FY 2022-23,Information Technology,disclosure,climate_risk,224,47,20.98
+FY 2022-23,Information Technology,disclosure,csr,224,214,95.54
+FY 2022-23,Information Technology,disclosure,diversity,224,218,97.32
+FY 2022-23,Information Technology,disclosure,energy,224,202,90.18
+FY 2022-23,Information Technology,disclosure,environmental,224,217,96.88
+FY 2022-23,Information Technology,disclosure,governance,224,219,97.77
+FY 2022-23,Information Technology,disclosure,human_rights,224,217,96.88
+FY 2022-23,Information Technology,disclosure,ifrs_s1_s2,224,1,0.45
+FY 2022-23,Information Technology,disclosure,net_zero,224,83,37.05
+FY 2022-23,Information Technology,disclosure,scope_1,224,149,66.52
+FY 2022-23,Information Technology,disclosure,scope_2,224,148,66.07
+FY 2022-23,Information Technology,disclosure,scope_3,224,99,44.2
+FY 2022-23,Information Technology,disclosure,social,224,219,97.77
+FY 2022-23,Information Technology,disclosure,supply_chain,224,215,95.98
+FY 2022-23,Information Technology,disclosure,tcfd,224,14,6.25
+FY 2022-23,Information Technology,disclosure,waste,224,165,73.66
+FY 2022-23,Information Technology,disclosure,water,224,154,68.75
+FY 2022-23,Materials,disclosure,board_governance,198,187,94.44
+FY 2022-23,Materials,disclosure,cdp,198,14,7.07
+FY 2022-23,Materials,disclosure,climate_risk,198,30,15.15
+FY 2022-23,Materials,disclosure,csr,198,183,92.42
+FY 2022-23,Materials,disclosure,diversity,198,186,93.94
+FY 2022-23,Materials,disclosure,energy,198,162,81.82
+FY 2022-23,Materials,disclosure,environmental,198,184,92.93
+FY 2022-23,Materials,disclosure,governance,198,187,94.44
+FY 2022-23,Materials,disclosure,human_rights,198,186,93.94
+FY 2022-23,Materials,disclosure,ifrs_s1_s2,198,1,0.51
+FY 2022-23,Materials,disclosure,net_zero,198,56,28.28
+FY 2022-23,Materials,disclosure,scope_1,198,110,55.56
+FY 2022-23,Materials,disclosure,scope_2,198,109,55.05
+FY 2022-23,Materials,disclosure,scope_3,198,75,37.88
+FY 2022-23,Materials,disclosure,social,198,187,94.44
+FY 2022-23,Materials,disclosure,supply_chain,198,175,88.38
+FY 2022-23,Materials,disclosure,tcfd,198,7,3.54
+FY 2022-23,Materials,disclosure,waste,198,128,64.65
+FY 2022-23,Materials,disclosure,water,198,120,60.61
+FY 2022-23,Media & Entertainment,disclosure,board_governance,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,cdp,10,0,0.0
+FY 2022-23,Media & Entertainment,disclosure,climate_risk,10,1,10.0
+FY 2022-23,Media & Entertainment,disclosure,csr,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,diversity,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,energy,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,environmental,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,governance,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,human_rights,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,ifrs_s1_s2,10,0,0.0
+FY 2022-23,Media & Entertainment,disclosure,net_zero,10,3,30.0
+FY 2022-23,Media & Entertainment,disclosure,scope_1,10,6,60.0
+FY 2022-23,Media & Entertainment,disclosure,scope_2,10,6,60.0
+FY 2022-23,Media & Entertainment,disclosure,scope_3,10,5,50.0
+FY 2022-23,Media & Entertainment,disclosure,social,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,supply_chain,10,8,80.0
+FY 2022-23,Media & Entertainment,disclosure,tcfd,10,1,10.0
+FY 2022-23,Media & Entertainment,disclosure,waste,10,6,60.0
+FY 2022-23,Media & Entertainment,disclosure,water,10,6,60.0
+FY 2022-23,Real Estate,disclosure,board_governance,82,81,98.78
+FY 2022-23,Real Estate,disclosure,cdp,82,9,10.98
+FY 2022-23,Real Estate,disclosure,climate_risk,82,10,12.2
+FY 2022-23,Real Estate,disclosure,csr,82,78,95.12
+FY 2022-23,Real Estate,disclosure,diversity,82,81,98.78
+FY 2022-23,Real Estate,disclosure,energy,82,66,80.49
+FY 2022-23,Real Estate,disclosure,environmental,82,81,98.78
+FY 2022-23,Real Estate,disclosure,governance,82,81,98.78
+FY 2022-23,Real Estate,disclosure,human_rights,82,81,98.78
+FY 2022-23,Real Estate,disclosure,ifrs_s1_s2,82,0,0.0
+FY 2022-23,Real Estate,disclosure,net_zero,82,21,25.61
+FY 2022-23,Real Estate,disclosure,scope_1,82,46,56.1
+FY 2022-23,Real Estate,disclosure,scope_2,82,46,56.1
+FY 2022-23,Real Estate,disclosure,scope_3,82,30,36.59
+FY 2022-23,Real Estate,disclosure,social,82,81,98.78
+FY 2022-23,Real Estate,disclosure,supply_chain,82,72,87.8
+FY 2022-23,Real Estate,disclosure,tcfd,82,6,7.32
+FY 2022-23,Real Estate,disclosure,waste,82,51,62.2
+FY 2022-23,Real Estate,disclosure,water,82,48,58.54
+FY 2022-23,Telecommunications,disclosure,board_governance,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,cdp,7,1,14.29
+FY 2022-23,Telecommunications,disclosure,climate_risk,7,1,14.29
+FY 2022-23,Telecommunications,disclosure,csr,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,diversity,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,energy,7,4,57.14
+FY 2022-23,Telecommunications,disclosure,environmental,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,governance,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,human_rights,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,ifrs_s1_s2,7,0,0.0
+FY 2022-23,Telecommunications,disclosure,net_zero,7,1,14.29
+FY 2022-23,Telecommunications,disclosure,scope_1,7,2,28.57
+FY 2022-23,Telecommunications,disclosure,scope_2,7,2,28.57
+FY 2022-23,Telecommunications,disclosure,scope_3,7,2,28.57
+FY 2022-23,Telecommunications,disclosure,social,7,7,100.0
+FY 2022-23,Telecommunications,disclosure,supply_chain,7,6,85.71
+FY 2022-23,Telecommunications,disclosure,tcfd,7,1,14.29
+FY 2022-23,Telecommunications,disclosure,waste,7,3,42.86
+FY 2022-23,Telecommunications,disclosure,water,7,3,42.86
+FY 2022-23,Unknown,disclosure,board_governance,1438,11,0.76
+FY 2022-23,Unknown,disclosure,cdp,1438,2,0.14
+FY 2022-23,Unknown,disclosure,climate_risk,1438,2,0.14
+FY 2022-23,Unknown,disclosure,csr,1438,11,0.76
+FY 2022-23,Unknown,disclosure,diversity,1438,11,0.76
+FY 2022-23,Unknown,disclosure,energy,1438,9,0.63
+FY 2022-23,Unknown,disclosure,environmental,1438,10,0.7
+FY 2022-23,Unknown,disclosure,governance,1438,11,0.76
+FY 2022-23,Unknown,disclosure,human_rights,1438,10,0.7
+FY 2022-23,Unknown,disclosure,ifrs_s1_s2,1438,0,0.0
+FY 2022-23,Unknown,disclosure,net_zero,1438,4,0.28
+FY 2022-23,Unknown,disclosure,scope_1,1438,6,0.42
+FY 2022-23,Unknown,disclosure,scope_2,1438,6,0.42
+FY 2022-23,Unknown,disclosure,scope_3,1438,4,0.28
+FY 2022-23,Unknown,disclosure,social,1438,11,0.76
+FY 2022-23,Unknown,disclosure,supply_chain,1438,8,0.56
+FY 2022-23,Unknown,disclosure,tcfd,1438,1,0.07
+FY 2022-23,Unknown,disclosure,waste,1438,6,0.42
+FY 2022-23,Unknown,disclosure,water,1438,6,0.42
+FY 2022-23,Utilities,disclosure,board_governance,9,8,88.89
+FY 2022-23,Utilities,disclosure,cdp,9,2,22.22
+FY 2022-23,Utilities,disclosure,climate_risk,9,2,22.22
+FY 2022-23,Utilities,disclosure,csr,9,9,100.0
+FY 2022-23,Utilities,disclosure,diversity,9,8,88.89
+FY 2022-23,Utilities,disclosure,energy,9,9,100.0
+FY 2022-23,Utilities,disclosure,environmental,9,9,100.0
+FY 2022-23,Utilities,disclosure,governance,9,9,100.0
+FY 2022-23,Utilities,disclosure,human_rights,9,8,88.89
+FY 2022-23,Utilities,disclosure,ifrs_s1_s2,9,0,0.0
+FY 2022-23,Utilities,disclosure,net_zero,9,4,44.44
+FY 2022-23,Utilities,disclosure,scope_1,9,5,55.56
+FY 2022-23,Utilities,disclosure,scope_2,9,5,55.56
+FY 2022-23,Utilities,disclosure,scope_3,9,3,33.33
+FY 2022-23,Utilities,disclosure,social,9,9,100.0
+FY 2022-23,Utilities,disclosure,supply_chain,9,9,100.0
+FY 2022-23,Utilities,disclosure,tcfd,9,1,11.11
+FY 2022-23,Utilities,disclosure,waste,9,6,66.67
+FY 2022-23,Utilities,disclosure,water,9,5,55.56
+FY 2024-25,Consumer Goods,disclosure,board_governance,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,cdp,103,7,6.8
+FY 2024-25,Consumer Goods,disclosure,climate_risk,103,28,27.18
+FY 2024-25,Consumer Goods,disclosure,csr,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,diversity,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,energy,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,environmental,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,governance,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,human_rights,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,ifrs_s1_s2,103,0,0.0
+FY 2024-25,Consumer Goods,disclosure,net_zero,103,27,26.21
+FY 2024-25,Consumer Goods,disclosure,scope_1,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,scope_2,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,scope_3,103,70,67.96
+FY 2024-25,Consumer Goods,disclosure,social,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,supply_chain,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,tcfd,103,3,2.91
+FY 2024-25,Consumer Goods,disclosure,waste,103,103,100.0
+FY 2024-25,Consumer Goods,disclosure,water,103,103,100.0
+FY 2024-25,Energy,disclosure,board_governance,37,36,97.3
+FY 2024-25,Energy,disclosure,cdp,37,8,21.62
+FY 2024-25,Energy,disclosure,climate_risk,37,20,54.05
+FY 2024-25,Energy,disclosure,csr,37,36,97.3
+FY 2024-25,Energy,disclosure,diversity,37,37,100.0
+FY 2024-25,Energy,disclosure,energy,37,37,100.0
+FY 2024-25,Energy,disclosure,environmental,37,37,100.0
+FY 2024-25,Energy,disclosure,governance,37,37,100.0
+FY 2024-25,Energy,disclosure,human_rights,37,37,100.0
+FY 2024-25,Energy,disclosure,ifrs_s1_s2,37,0,0.0
+FY 2024-25,Energy,disclosure,net_zero,37,21,56.76
+FY 2024-25,Energy,disclosure,scope_1,37,37,100.0
+FY 2024-25,Energy,disclosure,scope_2,37,37,100.0
+FY 2024-25,Energy,disclosure,scope_3,37,32,86.49
+FY 2024-25,Energy,disclosure,social,37,37,100.0
+FY 2024-25,Energy,disclosure,supply_chain,37,37,100.0
+FY 2024-25,Energy,disclosure,tcfd,37,2,5.41
+FY 2024-25,Energy,disclosure,waste,37,37,100.0
+FY 2024-25,Energy,disclosure,water,37,37,100.0
+FY 2024-25,Financial Services,disclosure,board_governance,359,346,96.38
+FY 2024-25,Financial Services,disclosure,cdp,359,8,2.23
+FY 2024-25,Financial Services,disclosure,climate_risk,359,129,35.93
+FY 2024-25,Financial Services,disclosure,csr,359,352,98.05
+FY 2024-25,Financial Services,disclosure,diversity,359,353,98.33
+FY 2024-25,Financial Services,disclosure,energy,359,352,98.05
+FY 2024-25,Financial Services,disclosure,environmental,359,354,98.61
+FY 2024-25,Financial Services,disclosure,governance,359,357,99.44
+FY 2024-25,Financial Services,disclosure,human_rights,359,351,97.77
+FY 2024-25,Financial Services,disclosure,ifrs_s1_s2,359,4,1.11
+FY 2024-25,Financial Services,disclosure,net_zero,359,85,23.68
+FY 2024-25,Financial Services,disclosure,scope_1,359,346,96.38
+FY 2024-25,Financial Services,disclosure,scope_2,359,346,96.38
+FY 2024-25,Financial Services,disclosure,scope_3,359,273,76.04
+FY 2024-25,Financial Services,disclosure,social,359,353,98.33
+FY 2024-25,Financial Services,disclosure,supply_chain,359,350,97.49
+FY 2024-25,Financial Services,disclosure,tcfd,359,16,4.46
+FY 2024-25,Financial Services,disclosure,waste,359,354,98.61
+FY 2024-25,Financial Services,disclosure,water,359,352,98.05
+FY 2024-25,Healthcare,disclosure,board_governance,235,229,97.45
+FY 2024-25,Healthcare,disclosure,cdp,235,18,7.66
+FY 2024-25,Healthcare,disclosure,climate_risk,235,76,32.34
+FY 2024-25,Healthcare,disclosure,csr,235,233,99.15
+FY 2024-25,Healthcare,disclosure,diversity,235,233,99.15
+FY 2024-25,Healthcare,disclosure,energy,235,233,99.15
+FY 2024-25,Healthcare,disclosure,environmental,235,233,99.15
+FY 2024-25,Healthcare,disclosure,governance,235,235,100.0
+FY 2024-25,Healthcare,disclosure,human_rights,235,233,99.15
+FY 2024-25,Healthcare,disclosure,ifrs_s1_s2,235,8,3.4
+FY 2024-25,Healthcare,disclosure,net_zero,235,94,40.0
+FY 2024-25,Healthcare,disclosure,scope_1,235,231,98.3
+FY 2024-25,Healthcare,disclosure,scope_2,235,231,98.3
+FY 2024-25,Healthcare,disclosure,scope_3,235,179,76.17
+FY 2024-25,Healthcare,disclosure,social,235,233,99.15
+FY 2024-25,Healthcare,disclosure,supply_chain,235,233,99.15
+FY 2024-25,Healthcare,disclosure,tcfd,235,10,4.26
+FY 2024-25,Healthcare,disclosure,waste,235,233,99.15
+FY 2024-25,Healthcare,disclosure,water,235,231,98.3
+FY 2024-25,Industrials,disclosure,board_governance,303,302,99.67
+FY 2024-25,Industrials,disclosure,cdp,303,13,4.29
+FY 2024-25,Industrials,disclosure,climate_risk,303,96,31.68
+FY 2024-25,Industrials,disclosure,csr,303,303,100.0
+FY 2024-25,Industrials,disclosure,diversity,303,303,100.0
+FY 2024-25,Industrials,disclosure,energy,303,302,99.67
+FY 2024-25,Industrials,disclosure,environmental,303,303,100.0
+FY 2024-25,Industrials,disclosure,governance,303,303,100.0
+FY 2024-25,Industrials,disclosure,human_rights,303,303,100.0
+FY 2024-25,Industrials,disclosure,ifrs_s1_s2,303,8,2.64
+FY 2024-25,Industrials,disclosure,net_zero,303,140,46.2
+FY 2024-25,Industrials,disclosure,scope_1,303,302,99.67
+FY 2024-25,Industrials,disclosure,scope_2,303,302,99.67
+FY 2024-25,Industrials,disclosure,scope_3,303,240,79.21
+FY 2024-25,Industrials,disclosure,social,303,303,100.0
+FY 2024-25,Industrials,disclosure,supply_chain,303,303,100.0
+FY 2024-25,Industrials,disclosure,tcfd,303,10,3.3
+FY 2024-25,Industrials,disclosure,waste,303,302,99.67
+FY 2024-25,Industrials,disclosure,water,303,300,99.01
+FY 2024-25,Information Technology,disclosure,board_governance,373,369,98.93
+FY 2024-25,Information Technology,disclosure,cdp,373,27,7.24
+FY 2024-25,Information Technology,disclosure,climate_risk,373,129,34.58
+FY 2024-25,Information Technology,disclosure,csr,373,369,98.93
+FY 2024-25,Information Technology,disclosure,diversity,373,369,98.93
+FY 2024-25,Information Technology,disclosure,energy,373,368,98.66
+FY 2024-25,Information Technology,disclosure,environmental,373,371,99.46
+FY 2024-25,Information Technology,disclosure,governance,373,373,100.0
+FY 2024-25,Information Technology,disclosure,human_rights,373,369,98.93
+FY 2024-25,Information Technology,disclosure,ifrs_s1_s2,373,12,3.22
+FY 2024-25,Information Technology,disclosure,net_zero,373,140,37.53
+FY 2024-25,Information Technology,disclosure,scope_1,373,366,98.12
+FY 2024-25,Information Technology,disclosure,scope_2,373,366,98.12
+FY 2024-25,Information Technology,disclosure,scope_3,373,273,73.19
+FY 2024-25,Information Technology,disclosure,social,373,371,99.46
+FY 2024-25,Information Technology,disclosure,supply_chain,373,369,98.93
+FY 2024-25,Information Technology,disclosure,tcfd,373,17,4.56
+FY 2024-25,Information Technology,disclosure,waste,373,368,98.66
+FY 2024-25,Information Technology,disclosure,water,373,366,98.12
+FY 2024-25,Materials,disclosure,board_governance,345,336,97.39
+FY 2024-25,Materials,disclosure,cdp,345,18,5.22
+FY 2024-25,Materials,disclosure,climate_risk,345,103,29.86
+FY 2024-25,Materials,disclosure,csr,345,340,98.55
+FY 2024-25,Materials,disclosure,diversity,345,341,98.84
+FY 2024-25,Materials,disclosure,energy,345,339,98.26
+FY 2024-25,Materials,disclosure,environmental,345,341,98.84
+FY 2024-25,Materials,disclosure,governance,345,343,99.42
+FY 2024-25,Materials,disclosure,human_rights,345,341,98.84
+FY 2024-25,Materials,disclosure,ifrs_s1_s2,345,22,6.38
+FY 2024-25,Materials,disclosure,net_zero,345,120,34.78
+FY 2024-25,Materials,disclosure,scope_1,345,340,98.55
+FY 2024-25,Materials,disclosure,scope_2,345,341,98.84
+FY 2024-25,Materials,disclosure,scope_3,345,247,71.59
+FY 2024-25,Materials,disclosure,social,345,341,98.84
+FY 2024-25,Materials,disclosure,supply_chain,345,341,98.84
+FY 2024-25,Materials,disclosure,tcfd,345,19,5.51
+FY 2024-25,Materials,disclosure,waste,345,339,98.26
+FY 2024-25,Materials,disclosure,water,345,339,98.26
+FY 2024-25,Media & Entertainment,disclosure,board_governance,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,cdp,13,0,0.0
+FY 2024-25,Media & Entertainment,disclosure,climate_risk,13,0,0.0
+FY 2024-25,Media & Entertainment,disclosure,csr,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,diversity,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,energy,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,environmental,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,governance,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,human_rights,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,ifrs_s1_s2,13,0,0.0
+FY 2024-25,Media & Entertainment,disclosure,net_zero,13,0,0.0
+FY 2024-25,Media & Entertainment,disclosure,scope_1,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,scope_2,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,scope_3,13,4,30.77
+FY 2024-25,Media & Entertainment,disclosure,social,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,supply_chain,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,tcfd,13,0,0.0
+FY 2024-25,Media & Entertainment,disclosure,waste,13,12,92.31
+FY 2024-25,Media & Entertainment,disclosure,water,13,12,92.31
+FY 2024-25,Real Estate,disclosure,board_governance,100,100,100.0
+FY 2024-25,Real Estate,disclosure,cdp,100,4,4.0
+FY 2024-25,Real Estate,disclosure,climate_risk,100,32,32.0
+FY 2024-25,Real Estate,disclosure,csr,100,100,100.0
+FY 2024-25,Real Estate,disclosure,diversity,100,100,100.0
+FY 2024-25,Real Estate,disclosure,energy,100,100,100.0
+FY 2024-25,Real Estate,disclosure,environmental,100,100,100.0
+FY 2024-25,Real Estate,disclosure,governance,100,100,100.0
+FY 2024-25,Real Estate,disclosure,human_rights,100,100,100.0
+FY 2024-25,Real Estate,disclosure,ifrs_s1_s2,100,1,1.0
+FY 2024-25,Real Estate,disclosure,net_zero,100,40,40.0
+FY 2024-25,Real Estate,disclosure,scope_1,100,98,98.0
+FY 2024-25,Real Estate,disclosure,scope_2,100,98,98.0
+FY 2024-25,Real Estate,disclosure,scope_3,100,83,83.0
+FY 2024-25,Real Estate,disclosure,social,100,100,100.0
+FY 2024-25,Real Estate,disclosure,supply_chain,100,100,100.0
+FY 2024-25,Real Estate,disclosure,tcfd,100,4,4.0
+FY 2024-25,Real Estate,disclosure,waste,100,100,100.0
+FY 2024-25,Real Estate,disclosure,water,100,100,100.0
+FY 2024-25,Telecommunications,disclosure,board_governance,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,cdp,45,1,2.22
+FY 2024-25,Telecommunications,disclosure,climate_risk,45,13,28.89
+FY 2024-25,Telecommunications,disclosure,csr,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,diversity,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,energy,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,environmental,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,governance,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,human_rights,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,ifrs_s1_s2,45,0,0.0
+FY 2024-25,Telecommunications,disclosure,net_zero,45,15,33.33
+FY 2024-25,Telecommunications,disclosure,scope_1,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,scope_2,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,scope_3,45,35,77.78
+FY 2024-25,Telecommunications,disclosure,social,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,supply_chain,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,tcfd,45,0,0.0
+FY 2024-25,Telecommunications,disclosure,waste,45,45,100.0
+FY 2024-25,Telecommunications,disclosure,water,45,45,100.0
+FY 2024-25,Unknown,disclosure,board_governance,76,6,7.89
+FY 2024-25,Unknown,disclosure,cdp,76,2,2.63
+FY 2024-25,Unknown,disclosure,climate_risk,76,2,2.63
+FY 2024-25,Unknown,disclosure,csr,76,4,5.26
+FY 2024-25,Unknown,disclosure,diversity,76,8,10.53
+FY 2024-25,Unknown,disclosure,energy,76,8,10.53
+FY 2024-25,Unknown,disclosure,environmental,76,10,13.16
+FY 2024-25,Unknown,disclosure,governance,76,37,48.68
+FY 2024-25,Unknown,disclosure,human_rights,76,8,10.53
+FY 2024-25,Unknown,disclosure,ifrs_s1_s2,76,1,1.32
+FY 2024-25,Unknown,disclosure,net_zero,76,0,0.0
+FY 2024-25,Unknown,disclosure,scope_1,76,8,10.53
+FY 2024-25,Unknown,disclosure,scope_2,76,8,10.53
+FY 2024-25,Unknown,disclosure,scope_3,76,6,7.89
+FY 2024-25,Unknown,disclosure,social,76,12,15.79
+FY 2024-25,Unknown,disclosure,supply_chain,76,6,7.89
+FY 2024-25,Unknown,disclosure,tcfd,76,0,0.0
+FY 2024-25,Unknown,disclosure,waste,76,6,7.89
+FY 2024-25,Unknown,disclosure,water,76,6,7.89
+FY 2024-25,Utilities,disclosure,board_governance,55,55,100.0
+FY 2024-25,Utilities,disclosure,cdp,55,5,9.09
+FY 2024-25,Utilities,disclosure,climate_risk,55,16,29.09
+FY 2024-25,Utilities,disclosure,csr,55,55,100.0
+FY 2024-25,Utilities,disclosure,diversity,55,55,100.0
+FY 2024-25,Utilities,disclosure,energy,55,55,100.0
+FY 2024-25,Utilities,disclosure,environmental,55,55,100.0
+FY 2024-25,Utilities,disclosure,governance,55,55,100.0
+FY 2024-25,Utilities,disclosure,human_rights,55,55,100.0
+FY 2024-25,Utilities,disclosure,ifrs_s1_s2,55,0,0.0
+FY 2024-25,Utilities,disclosure,net_zero,55,27,49.09
+FY 2024-25,Utilities,disclosure,scope_1,55,55,100.0
+FY 2024-25,Utilities,disclosure,scope_2,55,55,100.0
+FY 2024-25,Utilities,disclosure,scope_3,55,39,70.91
+FY 2024-25,Utilities,disclosure,social,55,55,100.0
+FY 2024-25,Utilities,disclosure,supply_chain,55,55,100.0
+FY 2024-25,Utilities,disclosure,tcfd,55,5,9.09
+FY 2024-25,Utilities,disclosure,waste,55,55,100.0
+FY 2024-25,Utilities,disclosure,water,55,55,100.0
+FY 2025-26,Consumer Goods,disclosure,board_governance,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,cdp,5,0,0.0
+FY 2025-26,Consumer Goods,disclosure,climate_risk,5,1,20.0
+FY 2025-26,Consumer Goods,disclosure,csr,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,diversity,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,energy,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,environmental,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,governance,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,human_rights,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,ifrs_s1_s2,5,0,0.0
+FY 2025-26,Consumer Goods,disclosure,net_zero,5,2,40.0
+FY 2025-26,Consumer Goods,disclosure,scope_1,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,scope_2,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,scope_3,5,3,60.0
+FY 2025-26,Consumer Goods,disclosure,social,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,supply_chain,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,tcfd,5,0,0.0
+FY 2025-26,Consumer Goods,disclosure,waste,5,5,100.0
+FY 2025-26,Consumer Goods,disclosure,water,5,5,100.0
+FY 2025-26,Energy,disclosure,board_governance,5,4,80.0
+FY 2025-26,Energy,disclosure,cdp,5,0,0.0
+FY 2025-26,Energy,disclosure,climate_risk,5,2,40.0
+FY 2025-26,Energy,disclosure,csr,5,4,80.0
+FY 2025-26,Energy,disclosure,diversity,5,5,100.0
+FY 2025-26,Energy,disclosure,energy,5,5,100.0
+FY 2025-26,Energy,disclosure,environmental,5,5,100.0
+FY 2025-26,Energy,disclosure,governance,5,5,100.0
+FY 2025-26,Energy,disclosure,human_rights,5,5,100.0
+FY 2025-26,Energy,disclosure,ifrs_s1_s2,5,0,0.0
+FY 2025-26,Energy,disclosure,net_zero,5,3,60.0
+FY 2025-26,Energy,disclosure,scope_1,5,5,100.0
+FY 2025-26,Energy,disclosure,scope_2,5,5,100.0
+FY 2025-26,Energy,disclosure,scope_3,5,4,80.0
+FY 2025-26,Energy,disclosure,social,5,5,100.0
+FY 2025-26,Energy,disclosure,supply_chain,5,5,100.0
+FY 2025-26,Energy,disclosure,tcfd,5,0,0.0
+FY 2025-26,Energy,disclosure,waste,5,5,100.0
+FY 2025-26,Energy,disclosure,water,5,5,100.0
+FY 2025-26,Financial Services,disclosure,board_governance,32,30,93.75
+FY 2025-26,Financial Services,disclosure,cdp,32,1,3.12
+FY 2025-26,Financial Services,disclosure,climate_risk,32,13,40.62
+FY 2025-26,Financial Services,disclosure,csr,32,32,100.0
+FY 2025-26,Financial Services,disclosure,diversity,32,32,100.0
+FY 2025-26,Financial Services,disclosure,energy,32,32,100.0
+FY 2025-26,Financial Services,disclosure,environmental,32,32,100.0
+FY 2025-26,Financial Services,disclosure,governance,32,32,100.0
+FY 2025-26,Financial Services,disclosure,human_rights,32,31,96.88
+FY 2025-26,Financial Services,disclosure,ifrs_s1_s2,32,3,9.38
+FY 2025-26,Financial Services,disclosure,net_zero,32,13,40.62
+FY 2025-26,Financial Services,disclosure,scope_1,32,30,93.75
+FY 2025-26,Financial Services,disclosure,scope_2,32,30,93.75
+FY 2025-26,Financial Services,disclosure,scope_3,32,24,75.0
+FY 2025-26,Financial Services,disclosure,social,32,32,100.0
+FY 2025-26,Financial Services,disclosure,supply_chain,32,32,100.0
+FY 2025-26,Financial Services,disclosure,tcfd,32,2,6.25
+FY 2025-26,Financial Services,disclosure,waste,32,31,96.88
+FY 2025-26,Financial Services,disclosure,water,32,32,100.0
+FY 2025-26,Healthcare,disclosure,board_governance,17,17,100.0
+FY 2025-26,Healthcare,disclosure,cdp,17,1,5.88
+FY 2025-26,Healthcare,disclosure,climate_risk,17,7,41.18
+FY 2025-26,Healthcare,disclosure,csr,17,17,100.0
+FY 2025-26,Healthcare,disclosure,diversity,17,17,100.0
+FY 2025-26,Healthcare,disclosure,energy,17,17,100.0
+FY 2025-26,Healthcare,disclosure,environmental,17,17,100.0
+FY 2025-26,Healthcare,disclosure,governance,17,17,100.0
+FY 2025-26,Healthcare,disclosure,human_rights,17,17,100.0
+FY 2025-26,Healthcare,disclosure,ifrs_s1_s2,17,0,0.0
+FY 2025-26,Healthcare,disclosure,net_zero,17,6,35.29
+FY 2025-26,Healthcare,disclosure,scope_1,17,17,100.0
+FY 2025-26,Healthcare,disclosure,scope_2,17,17,100.0
+FY 2025-26,Healthcare,disclosure,scope_3,17,11,64.71
+FY 2025-26,Healthcare,disclosure,social,17,17,100.0
+FY 2025-26,Healthcare,disclosure,supply_chain,17,17,100.0
+FY 2025-26,Healthcare,disclosure,tcfd,17,3,17.65
+FY 2025-26,Healthcare,disclosure,waste,17,17,100.0
+FY 2025-26,Healthcare,disclosure,water,17,17,100.0
+FY 2025-26,Industrials,disclosure,board_governance,20,19,95.0
+FY 2025-26,Industrials,disclosure,cdp,20,0,0.0
+FY 2025-26,Industrials,disclosure,climate_risk,20,3,15.0
+FY 2025-26,Industrials,disclosure,csr,20,20,100.0
+FY 2025-26,Industrials,disclosure,diversity,20,20,100.0
+FY 2025-26,Industrials,disclosure,energy,20,20,100.0
+FY 2025-26,Industrials,disclosure,environmental,20,20,100.0
+FY 2025-26,Industrials,disclosure,governance,20,20,100.0
+FY 2025-26,Industrials,disclosure,human_rights,20,20,100.0
+FY 2025-26,Industrials,disclosure,ifrs_s1_s2,20,0,0.0
+FY 2025-26,Industrials,disclosure,net_zero,20,8,40.0
+FY 2025-26,Industrials,disclosure,scope_1,20,20,100.0
+FY 2025-26,Industrials,disclosure,scope_2,20,20,100.0
+FY 2025-26,Industrials,disclosure,scope_3,20,16,80.0
+FY 2025-26,Industrials,disclosure,social,20,20,100.0
+FY 2025-26,Industrials,disclosure,supply_chain,20,20,100.0
+FY 2025-26,Industrials,disclosure,tcfd,20,0,0.0
+FY 2025-26,Industrials,disclosure,waste,20,20,100.0
+FY 2025-26,Industrials,disclosure,water,20,20,100.0
+FY 2025-26,Information Technology,disclosure,board_governance,28,28,100.0
+FY 2025-26,Information Technology,disclosure,cdp,28,5,17.86
+FY 2025-26,Information Technology,disclosure,climate_risk,28,7,25.0
+FY 2025-26,Information Technology,disclosure,csr,28,28,100.0
+FY 2025-26,Information Technology,disclosure,diversity,28,28,100.0
+FY 2025-26,Information Technology,disclosure,energy,28,28,100.0
+FY 2025-26,Information Technology,disclosure,environmental,28,28,100.0
+FY 2025-26,Information Technology,disclosure,governance,28,28,100.0
+FY 2025-26,Information Technology,disclosure,human_rights,28,28,100.0
+FY 2025-26,Information Technology,disclosure,ifrs_s1_s2,28,4,14.29
+FY 2025-26,Information Technology,disclosure,net_zero,28,14,50.0
+FY 2025-26,Information Technology,disclosure,scope_1,28,28,100.0
+FY 2025-26,Information Technology,disclosure,scope_2,28,28,100.0
+FY 2025-26,Information Technology,disclosure,scope_3,28,19,67.86
+FY 2025-26,Information Technology,disclosure,social,28,28,100.0
+FY 2025-26,Information Technology,disclosure,supply_chain,28,28,100.0
+FY 2025-26,Information Technology,disclosure,tcfd,28,3,10.71
+FY 2025-26,Information Technology,disclosure,waste,28,28,100.0
+FY 2025-26,Information Technology,disclosure,water,28,28,100.0
+FY 2025-26,Materials,disclosure,board_governance,23,19,82.61
+FY 2025-26,Materials,disclosure,cdp,23,3,13.04
+FY 2025-26,Materials,disclosure,climate_risk,23,8,34.78
+FY 2025-26,Materials,disclosure,csr,23,19,82.61
+FY 2025-26,Materials,disclosure,diversity,23,20,86.96
+FY 2025-26,Materials,disclosure,energy,23,20,86.96
+FY 2025-26,Materials,disclosure,environmental,23,20,86.96
+FY 2025-26,Materials,disclosure,governance,23,20,86.96
+FY 2025-26,Materials,disclosure,human_rights,23,20,86.96
+FY 2025-26,Materials,disclosure,ifrs_s1_s2,23,1,4.35
+FY 2025-26,Materials,disclosure,net_zero,23,7,30.43
+FY 2025-26,Materials,disclosure,scope_1,23,19,82.61
+FY 2025-26,Materials,disclosure,scope_2,23,20,86.96
+FY 2025-26,Materials,disclosure,scope_3,23,10,43.48
+FY 2025-26,Materials,disclosure,social,23,20,86.96
+FY 2025-26,Materials,disclosure,supply_chain,23,20,86.96
+FY 2025-26,Materials,disclosure,tcfd,23,0,0.0
+FY 2025-26,Materials,disclosure,waste,23,20,86.96
+FY 2025-26,Materials,disclosure,water,23,20,86.96
+FY 2025-26,Media & Entertainment,disclosure,board_governance,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,cdp,2,0,0.0
+FY 2025-26,Media & Entertainment,disclosure,climate_risk,2,0,0.0
+FY 2025-26,Media & Entertainment,disclosure,csr,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,diversity,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,energy,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,environmental,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,governance,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,human_rights,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,ifrs_s1_s2,2,0,0.0
+FY 2025-26,Media & Entertainment,disclosure,net_zero,2,0,0.0
+FY 2025-26,Media & Entertainment,disclosure,scope_1,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,scope_2,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,scope_3,2,0,0.0
+FY 2025-26,Media & Entertainment,disclosure,social,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,supply_chain,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,tcfd,2,0,0.0
+FY 2025-26,Media & Entertainment,disclosure,waste,2,1,50.0
+FY 2025-26,Media & Entertainment,disclosure,water,2,1,50.0
+FY 2025-26,Real Estate,disclosure,board_governance,14,14,100.0
+FY 2025-26,Real Estate,disclosure,cdp,14,0,0.0
+FY 2025-26,Real Estate,disclosure,climate_risk,14,10,71.43
+FY 2025-26,Real Estate,disclosure,csr,14,14,100.0
+FY 2025-26,Real Estate,disclosure,diversity,14,14,100.0
+FY 2025-26,Real Estate,disclosure,energy,14,14,100.0
+FY 2025-26,Real Estate,disclosure,environmental,14,14,100.0
+FY 2025-26,Real Estate,disclosure,governance,14,14,100.0
+FY 2025-26,Real Estate,disclosure,human_rights,14,14,100.0
+FY 2025-26,Real Estate,disclosure,ifrs_s1_s2,14,1,7.14
+FY 2025-26,Real Estate,disclosure,net_zero,14,11,78.57
+FY 2025-26,Real Estate,disclosure,scope_1,14,14,100.0
+FY 2025-26,Real Estate,disclosure,scope_2,14,14,100.0
+FY 2025-26,Real Estate,disclosure,scope_3,14,12,85.71
+FY 2025-26,Real Estate,disclosure,social,14,14,100.0
+FY 2025-26,Real Estate,disclosure,supply_chain,14,14,100.0
+FY 2025-26,Real Estate,disclosure,tcfd,14,1,7.14
+FY 2025-26,Real Estate,disclosure,waste,14,14,100.0
+FY 2025-26,Real Estate,disclosure,water,14,14,100.0
+FY 2025-26,Telecommunications,disclosure,board_governance,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,cdp,4,0,0.0
+FY 2025-26,Telecommunications,disclosure,climate_risk,4,1,25.0
+FY 2025-26,Telecommunications,disclosure,csr,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,diversity,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,energy,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,environmental,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,governance,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,human_rights,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,ifrs_s1_s2,4,0,0.0
+FY 2025-26,Telecommunications,disclosure,net_zero,4,2,50.0
+FY 2025-26,Telecommunications,disclosure,scope_1,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,scope_2,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,scope_3,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,social,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,supply_chain,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,tcfd,4,0,0.0
+FY 2025-26,Telecommunications,disclosure,waste,4,4,100.0
+FY 2025-26,Telecommunications,disclosure,water,4,4,100.0
+FY 2025-26,Unknown,disclosure,board_governance,31,1,3.23
+FY 2025-26,Unknown,disclosure,cdp,31,0,0.0
+FY 2025-26,Unknown,disclosure,climate_risk,31,0,0.0
+FY 2025-26,Unknown,disclosure,csr,31,0,0.0
+FY 2025-26,Unknown,disclosure,diversity,31,1,3.23
+FY 2025-26,Unknown,disclosure,energy,31,1,3.23
+FY 2025-26,Unknown,disclosure,environmental,31,1,3.23
+FY 2025-26,Unknown,disclosure,governance,31,3,9.68
+FY 2025-26,Unknown,disclosure,human_rights,31,1,3.23
+FY 2025-26,Unknown,disclosure,ifrs_s1_s2,31,0,0.0
+FY 2025-26,Unknown,disclosure,net_zero,31,0,0.0
+FY 2025-26,Unknown,disclosure,scope_1,31,1,3.23
+FY 2025-26,Unknown,disclosure,scope_2,31,1,3.23
+FY 2025-26,Unknown,disclosure,scope_3,31,0,0.0
+FY 2025-26,Unknown,disclosure,social,31,1,3.23
+FY 2025-26,Unknown,disclosure,supply_chain,31,1,3.23
+FY 2025-26,Unknown,disclosure,tcfd,31,0,0.0
+FY 2025-26,Unknown,disclosure,waste,31,1,3.23
+FY 2025-26,Unknown,disclosure,water,31,1,3.23
+FY 2025-26,Utilities,disclosure,board_governance,7,7,100.0
+FY 2025-26,Utilities,disclosure,cdp,7,2,28.57
+FY 2025-26,Utilities,disclosure,climate_risk,7,3,42.86
+FY 2025-26,Utilities,disclosure,csr,7,7,100.0
+FY 2025-26,Utilities,disclosure,diversity,7,7,100.0
+FY 2025-26,Utilities,disclosure,energy,7,7,100.0
+FY 2025-26,Utilities,disclosure,environmental,7,7,100.0
+FY 2025-26,Utilities,disclosure,governance,7,7,100.0
+FY 2025-26,Utilities,disclosure,human_rights,7,7,100.0
+FY 2025-26,Utilities,disclosure,ifrs_s1_s2,7,0,0.0
+FY 2025-26,Utilities,disclosure,net_zero,7,4,57.14
+FY 2025-26,Utilities,disclosure,scope_1,7,7,100.0
+FY 2025-26,Utilities,disclosure,scope_2,7,7,100.0
+FY 2025-26,Utilities,disclosure,scope_3,7,6,85.71
+FY 2025-26,Utilities,disclosure,social,7,7,100.0
+FY 2025-26,Utilities,disclosure,supply_chain,7,7,100.0
+FY 2025-26,Utilities,disclosure,tcfd,7,1,14.29
+FY 2025-26,Utilities,disclosure,waste,7,7,100.0
+FY 2025-26,Utilities,disclosure,water,7,7,100.0

@@ -1,0 +1,101 @@
+{
+  "product": "ESG Intelligence & Benchmarking Engine",
+  "tagline": "Benchmark your disclosures against industry leaders, identify gaps, and strengthen ESG reporting before publication.",
+  "created_assets": [
+    "source_inventory.csv",
+    "benchmark_company_year.csv",
+    "disclosure_adoption_by_sector_year.csv",
+    "kpi_availability_by_sector_year.csv",
+    "annual_report_intent_counts.csv",
+    "annual_report_section_counts.csv",
+    "annual_report_intent_samples.csv"
+  ],
+  "source_files": [
+    {
+      "source_path": "data\\prd_drive_download\\Annual Reports 22-23\\esg_kpis_22-23.csv",
+      "source_type": "annual_report_kpis",
+      "reporting_year_hint": "FY 2022-23",
+      "size_mb": 4.78,
+      "status": "ok",
+      "rows": null,
+      "columns": 56,
+      "column_names_preview": "file, filename, company, reporting_year, scope1_emissions_tco2e_current, scope1_emissions_tco2e_previous, scope1_emissions_yoy_reduction_percent, scope2_emissions_tco2e_current, scope2_emissions_tco2e_previous, scope2_emissions_yoy_reduction_percent, scope3_emissions_tco2e_current, scope3_emissions_tco2e_previous"
+    },
+    {
+      "source_path": "data\\prd_drive_download\\Annual Reports 22-23\\esg_paragraph_intents_22-23.csv",
+      "source_type": "annual_report_paragraph_intents",
+      "reporting_year_hint": "FY 2022-23",
+      "size_mb": 701.83,
+      "status": "ok",
+      "rows": null,
+      "columns": 13,
+      "column_names_preview": "file, filename, company, reporting_year, paragraph_id, page, primary_intent, primary_intent_score, section_labels, paragraph_chars, paragraph_text, intent_scores_json"
+    },
+    {
+      "source_path": "data\\drive_download\\esg_prd_master_dataset_22-23.csv",
+      "source_type": "brsr_prd_master",
+      "reporting_year_hint": "FY 2022-23",
+      "size_mb": 6.96,
+      "status": "ok",
+      "rows": null,
+      "columns": 107,
+      "column_names_preview": "company, reporting_year, meta_sector, meta_market_cap, meta_framework_used, meta_brsr_version, meta_assurance_type, meta_geography, top_sections, has_environmental, has_social, has_governance"
+    },
+    {
+      "source_path": "data\\drive_download\\esg_prd_master_dataset_24_25.csv",
+      "source_type": "brsr_prd_master",
+      "reporting_year_hint": "FY 2024-25",
+      "size_mb": 8.81,
+      "status": "ok",
+      "rows": null,
+      "columns": 107,
+      "column_names_preview": "company, reporting_year, meta_sector, meta_market_cap, meta_framework_used, meta_brsr_version, meta_assurance_type, meta_geography, top_sections, has_environmental, has_social, has_governance"
+    },
+    {
+      "source_path": "data\\drive_download\\esg_prd_master_dataset_25-26.csv",
+      "source_type": "brsr_prd_master",
+      "reporting_year_hint": "FY 2025-26",
+      "size_mb": 7.99,
+      "status": "ok",
+      "rows": null,
+      "columns": 107,
+      "column_names_preview": "company, reporting_year, meta_sector, meta_market_cap, meta_framework_used, meta_brsr_version, meta_assurance_type, meta_geography, top_sections, has_environmental, has_social, has_governance"
+    },
+    {
+      "source_path": "data\\kpi_summary\\kpi_summary_all.jsonl",
+      "source_type": "kpi_summary_dataset",
+      "reporting_year_hint": "",
+      "size_mb": 21.27,
+      "status": "ok",
+      "rows": null,
+      "columns": 13,
+      "column_names_preview": "messages, prompt, target_summary, company, company_key, reporting_year, source_dataset, source_file, split, metadata, kpis, expected_facts"
+    }
+  ],
+  "company_year_rows": 5017,
+  "unique_companies": 3133,
+  "years": [
+    "FY 2022-23",
+    "FY 2024-25",
+    "FY 2025-26"
+  ],
+  "sectors": [
+    "Consumer Goods",
+    "Energy",
+    "Financial Services",
+    "Healthcare",
+    "Industrials",
+    "Information Technology",
+    "Materials",
+    "Media & Entertainment",
+    "Real Estate",
+    "Telecommunications",
+    "Unknown",
+    "Utilities"
+  ],
+  "notes": [
+    "Incomplete .part downloads are intentionally excluded.",
+    "Annual Reports 22-23 are represented by extracted KPI and paragraph intent datasets available locally.",
+    "The next step is dashboard/API logic for peer selection and gap analysis."
+  ]
+}
