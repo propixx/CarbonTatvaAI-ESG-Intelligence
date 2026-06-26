@@ -117,6 +117,34 @@ The output includes:
 - missing KPI opportunities
 - high-adoption disclosure gaps
 
+## Static Benchmark Dashboard
+
+The static dashboard uses the generated benchmark CSV and supports:
+
+- target company and reporting year selection
+- sector-wise comparison
+- custom peer-company group comparison
+- KPI value, median, average, range, and rank
+- missing KPI opportunities and disclosure gaps
+
+Regenerate the dashboard data after rebuilding benchmark artifacts:
+
+```powershell
+python scripts/benchmarking/export_dashboard_data.py
+```
+
+Run it locally:
+
+```powershell
+python -m http.server 8899 --directory dashboard
+```
+
+Then open:
+
+```text
+http://127.0.0.1:8899
+```
+
 ## KPI Summary Fine-Tuning
 
 Primary notebook:

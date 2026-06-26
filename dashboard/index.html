@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CarbonTatvaAI ESG Benchmark Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">CarbonTatvaAI</p>
+        <h1>ESG Benchmarking Dashboard</h1>
+      </div>
+      <p class="topbar-copy">Company vs sector or custom peer-group comparison</p>
+    </header>
+
+    <main class="layout">
+      <section class="controls" aria-label="Benchmark controls">
+        <div class="field">
+          <label for="companySelect">Target company</label>
+          <select id="companySelect"></select>
+        </div>
+
+        <div class="field">
+          <label for="yearSelect">Reporting year</label>
+          <select id="yearSelect"></select>
+        </div>
+
+        <div class="field">
+          <label for="benchmarkMode">Benchmark mode</label>
+          <select id="benchmarkMode">
+            <option value="sector">Sector-wise comparison</option>
+            <option value="custom">Custom company group</option>
+          </select>
+        </div>
+
+        <div class="field" id="sectorField">
+          <label for="sectorSelect">Peer sector</label>
+          <select id="sectorSelect"></select>
+        </div>
+
+        <div class="field hidden" id="peerField">
+          <label for="peerSearch">Custom peers</label>
+          <input id="peerSearch" type="search" placeholder="Search peer companies">
+          <select id="peerSelect" multiple size="10"></select>
+          <p class="hint">Use Ctrl/Command click to select multiple peer companies.</p>
+        </div>
+
+        <button id="runButton" type="button">Run benchmark</button>
+      </section>
+
+      <section class="results" aria-live="polite">
+        <div class="summary-band">
+          <div>
+            <p class="eyebrow">Selected benchmark</p>
+            <h2 id="summaryTitle">Choose a company to begin</h2>
+            <p id="summarySubtitle">The dashboard will compare KPI values and disclosure coverage against selected peers.</p>
+          </div>
+          <div class="summary-metrics">
+            <div>
+              <span id="peerCount">0</span>
+              <small>Peers</small>
+            </div>
+            <div>
+              <span id="kpiCount">0</span>
+              <small>KPI comparisons</small>
+            </div>
+            <div>
+              <span id="gapCount">0</span>
+              <small>Gaps</small>
+            </div>
+          </div>
+        </div>
+
+        <div class="tabs" role="tablist" aria-label="Result views">
+          <button class="tab active" data-tab="kpis" type="button">KPI comparison</button>
+          <button class="tab" data-tab="missing" type="button">Missing KPIs</button>
+          <button class="tab" data-tab="disclosures" type="button">Disclosure gaps</button>
+          <button class="tab" data-tab="chart" type="button">Visual view</button>
+        </div>
+
+        <section class="tab-panel active" id="tab-kpis">
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>KPI</th>
+                  <th>Company value</th>
+                  <th>Peer median</th>
+                  <th>Peer average</th>
+                  <th>Peer range</th>
+                  <th>Rank</th>
+                  <th>Interpretation</th>
+                </tr>
+              </thead>
+              <tbody id="kpiTable"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="tab-panel" id="tab-missing">
+          <div id="missingList" class="list"></div>
+        </section>
+
+        <section class="tab-panel" id="tab-disclosures">
+          <div id="disclosureList" class="list"></div>
+        </section>
+
+        <section class="tab-panel" id="tab-chart">
+          <div id="chart" class="chart"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="dashboard_data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
