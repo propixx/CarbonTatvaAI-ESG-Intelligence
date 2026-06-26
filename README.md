@@ -83,6 +83,19 @@ python scripts/benchmarking/benchmark_engine_demo.py
 
 ## Comparative Benchmarking
 
+Demo notebook:
+
+```text
+notebooks/CarbonTatvaAI_ESG_Benchmark_Demo.ipynb
+```
+
+For Kaggle:
+
+1. Create a new notebook.
+2. Turn Internet ON.
+3. Upload/import `notebooks/CarbonTatvaAI_ESG_Benchmark_Demo.ipynb`.
+4. Run all cells.
+
 Sector-wise comparison:
 
 ```powershell
