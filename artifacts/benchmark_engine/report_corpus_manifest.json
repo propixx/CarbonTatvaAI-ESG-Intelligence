@@ -5,13 +5,14 @@
     "report_corpus_manifest.json"
   ],
   "roots_scanned": [
-    "..\\SusGen\\data"
+    "..\\SusGen\\data",
+    "~\\Downloads\\brsr 2021-24.zip"
   ],
-  "report_index_rows": 3776,
-  "linked_company_year_rows": 3859,
+  "report_index_rows": 5813,
+  "linked_company_year_rows": 3864,
   "source_type_counts": {
     "annual_report_extracted_data": 1402,
-    "brsr_report": 2374
+    "brsr_report": 4411
   },
   "counts_by_type_year": [
     {
@@ -25,6 +26,24 @@
       "reporting_year": "FY 2022-23",
       "count": 1400,
       "unique_source_size_mb": 716.84
+    },
+    {
+      "source_type": "brsr_report",
+      "reporting_year": "FY 2021-22",
+      "count": 177,
+      "unique_source_size_mb": 492.36
+    },
+    {
+      "source_type": "brsr_report",
+      "reporting_year": "FY 2022-23",
+      "count": 801,
+      "unique_source_size_mb": 2250.44
+    },
+    {
+      "source_type": "brsr_report",
+      "reporting_year": "FY 2023-24",
+      "count": 1059,
+      "unique_source_size_mb": 2531.0
     },
     {
       "source_type": "brsr_report",

@@ -27,6 +27,7 @@ DEFAULT_BENCHMARK = DEFAULT_OUTPUT / "benchmark_company_year.csv"
 DEFAULT_ROOTS = [
     ROOT / "data",
     ROOT.parent / "SusGen" / "data",
+    Path.home() / "Downloads" / "brsr 2021-24.zip",
 ]
 
 REPORT_SUFFIXES = {".pdf"}
@@ -49,6 +50,10 @@ def safe_relpath(path: Path) -> str:
         pass
     try:
         return str(Path("..") / resolved.relative_to(ROOT.parent.resolve()))
+    except ValueError:
+        pass
+    try:
+        return str(Path("~") / resolved.relative_to(Path.home().resolve()))
     except ValueError:
         return str(path)
 
@@ -128,7 +133,8 @@ def iter_report_files(root: Path) -> Iterable[dict[str, Any]]:
 def iter_zip_members(root: Path) -> Iterable[dict[str, Any]]:
     if not root.exists():
         return
-    for archive_path in root.rglob("*.zip"):
+    archive_paths = [root] if root.is_file() and root.suffix.lower() == ".zip" else root.rglob("*.zip")
+    for archive_path in archive_paths:
         if archive_path.name.lower().endswith(".part"):
             continue
         try:
@@ -224,7 +230,7 @@ def build_report_index(roots: list[Path], include_zip_members: bool) -> pd.DataF
         if not root.exists():
             continue
         iterators = [iter_report_files(root), iter_annual_extracted_sources(root)]
-        if include_zip_members:
+        if include_zip_members or (root.is_file() and root.suffix.lower() == ".zip"):
             iterators.append(iter_zip_members(root))
         for iterator in iterators:
             for item in iterator:

@@ -69,7 +69,7 @@ Input:
 
 - target company/year,
 - selected benchmark sector or custom peer list,
-- uploaded report/KPI dataset.
+- connected local BRSR/annual-report corpus and KPI dataset.
 
 Output:
 

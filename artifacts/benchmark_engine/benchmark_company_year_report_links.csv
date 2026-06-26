@@ -33,8 +33,8 @@ AARTECH,AARTECH,FY 2022-23,Unknown,annual_report_kpis,0,0,0,2,2,annual_report_ex
 Aarti Drugs Limited,AARTIDRUGS,FY 2024-25,Industrials,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aarti Drugs Limited.pdf
 Aarti Industries Limited,AARTIINDUSTRIES,FY 2024-25,Industrials,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aarti Industries Limited.pdf
 Aarti Pharmalabs Limited,AARTIPHARMALABS,FY 2024-25,Healthcare,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aarti Pharmalabs Limited.pdf
-AARTIDRUGS,AARTIDRUGS,FY 2022-23,Healthcare,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-AARTIDRUGS,AARTIDRUGS,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+AARTIDRUGS,AARTIDRUGS,FY 2022-23,Healthcare,brsr_prd_master,41,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+AARTIDRUGS,AARTIDRUGS,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AARTIDRUGS_30082025225933_ADL,AARTIDRUGS,FY 2024-25,Industrials,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aarti Drugs Limited.pdf
 AARTIIND,AARTIIND,FY 2022-23,Materials,brsr_prd_master,47,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AARTIIND,AARTIIND,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -59,8 +59,8 @@ ABREL,ABREL,FY 2022-23,Financial Services,brsr_prd_master,44,0,0,1,1,annual_repo
 ABREL,ABREL,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ABSLAMC,ABSLAMC,FY 2022-23,Financial Services,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ABSLAMC,ABSLAMC,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ACC,ACC,FY 2022-23,Financial Services,brsr_prd_master,43,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ACC,ACC,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ACC,ACC,FY 2022-23,Financial Services,brsr_prd_master,43,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ACC,ACC,FY 2022-23,Unknown,annual_report_kpis,9,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ACCELYA,ACCELYA,FY 2022-23,Financial Services,brsr_prd_master,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ACCELYA,ACCELYA,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Accelya Solutions India Limited,ACCELYASOLUTIONS,FY 2024-25,Financial Services,brsr_prd_master,27,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Accelya Solutions India Limited.pdf
@@ -85,11 +85,11 @@ ADANIGREEN,ADANIGREEN,FY 2022-23,Industrials,brsr_prd_master,50,0,0,1,1,annual_r
 ADANIGREEN,ADANIGREEN,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ADANIPORTS,ADANIPORTS,FY 2022-23,Industrials,brsr_prd_master,52,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ADANIPORTS,ADANIPORTS,FY 2022-23,Unknown,annual_report_kpis,15,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ADANIPOWER,ADANIPOWER,FY 2022-23,Utilities,brsr_prd_master,46,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ADANIPOWER,ADANIPOWER,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ADANIPOWER,ADANIPOWER,FY 2022-23,Utilities,brsr_prd_master,46,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ADANIPOWER,ADANIPOWER,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ADF FOODS LIMITED,ADFFOODS,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Adf Foods Limited.pdf
-ADFFOODS,ADFFOODS,FY 2022-23,Consumer Goods,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ADFFOODS,ADFFOODS,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ADFFOODS,ADFFOODS,FY 2022-23,Consumer Goods,brsr_prd_master,35,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ADFFOODS,ADFFOODS,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Aditya Birla Capital Limited,ADITYABIRLACAPITAL,FY 2024-25,Financial Services,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aditya Birla Capital Limited.pdf
 Aditya Birla Fashion and Retail Limited,ADITYABIRLAFASHIONANDRETAIL,FY 2024-25,Healthcare,brsr_prd_master,33,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aditya Birla Fashion and Retail Limited.pdf
 Aditya Birla Sun Life AMC Limited,ADITYABIRLASUNLIFEAMC,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aditya Birla Sun Life AMC Limited.pdf
@@ -122,8 +122,8 @@ AETHER,AETHER,FY 2022-23,Materials,brsr_prd_master,43,0,0,1,1,annual_report_extr
 AETHER,AETHER,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Aether Industries Limited,AETHERINDUSTRIES,FY 2024-25,Healthcare,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Aether Industries Limited.pdf
 Afcons Infrastructure Limited,AFCONSINFRASTRUCTURE,FY 2024-25,Materials,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Afcons Infrastructure Limited.pdf
-AFFLE,AFFLE,FY 2022-23,Information Technology,brsr_prd_master,28,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-AFFLE,AFFLE,FY 2022-23,Unknown,annual_report_kpis,2,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+AFFLE,AFFLE,FY 2022-23,Information Technology,brsr_prd_master,28,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+AFFLE,AFFLE,FY 2022-23,Unknown,annual_report_kpis,2,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Affle 3i Limited,AFFLE3I,FY 2024-25,Healthcare,brsr_prd_master,28,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Affle 3i Limited.pdf
 AFFORDABLE,AFFORDABLE,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AFFORDABLE,AFFORDABLE,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -243,8 +243,8 @@ ANANTRAJ_28062025221947_BRSR_28062025,ANANTRAJ,FY 2024-25,Materials,brsr_prd_mas
 Andhra Paper Limited,ANDHRAPAPER,FY 2024-25,Materials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Andhra Paper Limited.pdf
 ANDHRAPAP,ANDHRAPAP,FY 2022-23,Information Technology,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ANDHRAPAP,ANDHRAPAP,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ANGELONE,ANGELONE,FY 2022-23,Financial Services,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ANGELONE,ANGELONE,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ANGELONE,ANGELONE,FY 2022-23,Financial Services,brsr_prd_master,36,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ANGELONE,ANGELONE,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ANIKINDS,ANIKINDS,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ANIKINDS,ANIKINDS,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Anjani Portland Cement Limited,ANJANIPORTLANDCEMENT,FY 2024-25,Consumer Goods,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Anjani Portland Cement Limited.pdf
@@ -381,8 +381,8 @@ Aster DM Healthcare Limited,ASTERDMHEALTHCARE,FY 2024-25,Healthcare,brsr_prd_mas
 ASTERDM,ASTERDM,FY 2022-23,Healthcare,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ASTERDM,ASTERDM,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Astra Microwave Products Limited,ASTRAMICROWAVEPRODUCTS,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Astra Microwave Products Limited.pdf
-ASTRAL,ASTRAL,FY 2022-23,Materials,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ASTRAL,ASTRAL,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ASTRAL,ASTRAL,FY 2022-23,Materials,brsr_prd_master,36,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ASTRAL,ASTRAL,FY 2022-23,Unknown,annual_report_kpis,9,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ASTRAL_02082025143233_BRSR,ASTRAL,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Astral Limited.pdf
 Astral Limited,ASTRAL,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Astral Limited.pdf
 ASTRAMICRO,ASTRAMICRO,FY 2022-23,Financial Services,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -404,8 +404,8 @@ ATLANTAA,ATLANTAA,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annua
 ATLANTAA,ATLANTAA,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ATLASCYCLE,ATLASCYCLE,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ATLASCYCLE,ATLASCYCLE,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ATUL,ATUL,FY 2022-23,Materials,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ATUL,ATUL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ATUL,ATUL,FY 2022-23,Materials,brsr_prd_master,40,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ATUL,ATUL,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ATULAUTO,ATULAUTO,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ATULAUTO,ATULAUTO,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AU Small Finance Bank Limited,AUSMALLFINANCEBANK,FY 2024-25,Financial Services,brsr_prd_master,47,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\AU Small Finance Bank Limited.pdf
@@ -457,8 +457,8 @@ AWHCL,AWHCL,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extra
 AWL,AWL,FY 2022-23,Consumer Goods,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AWL,AWL,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Axis Bank Limited,AXISBANK,FY 2024-25,Financial Services,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Axis Bank Limited.pdf
-AXISBANK,AXISBANK,FY 2022-23,Financial Services,brsr_prd_master,45,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-AXISBANK,AXISBANK,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+AXISBANK,AXISBANK,FY 2022-23,Financial Services,brsr_prd_master,45,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+AXISBANK,AXISBANK,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AXISCADES,AXISCADES,FY 2022-23,Information Technology,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AXISCADES,AXISCADES,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 AXISCADES Technologies Limited,AXISCADESTECHNOLOGIES,FY 2024-25,Industrials,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\AXISCADES Technologies Limited.pdf
@@ -543,8 +543,8 @@ Bansal Wire Industries Limited,BANSALWIREINDUSTRIES,FY 2024-25,Industrials,brsr_
 BANSWRAS,BANSWRAS,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BANSWRAS,BANSWRAS,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Barbeque Nation Hospitality Limited,BARBEQUENATIONHOSPITALITY,FY 2024-25,Healthcare,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Barbeque Nation Hospitality Limited.pdf
-BASF,BASF,FY 2022-23,Real Estate,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-BASF,BASF,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+BASF,BASF,FY 2022-23,Real Estate,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+BASF,BASF,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BASML,BASML,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BASML,BASML,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BATA INDIA LIMITED,BATA,FY 2024-25,Real Estate,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Bata India Limited.pdf
@@ -581,8 +581,8 @@ BEL,BEL,FY 2022-23,Materials,brsr_prd_master,38,0,0,1,1,annual_report_extracted_
 BEL,BEL,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BELLACASA,BELLACASA,FY 2022-23,Industrials,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BELLACASA,BELLACASA,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-BEML,BEML,FY 2022-23,Industrials,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-BEML,BEML,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+BEML,BEML,FY 2022-23,Industrials,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+BEML,BEML,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BEML_04092025204609_SE_BRSR_REPORT_040925_signed,BEML,FY 2024-25,Unknown,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\BEML Limited.pdf
 BEML Limited,BEML,FY 2024-25,Unknown,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\BEML Limited.pdf
 BEPL,BEPL,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -640,8 +640,8 @@ BIL,BIL,FY 2022-23,Consumer Goods,brsr_prd_master,10,0,0,1,1,annual_report_extra
 BIL,BIL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BILVYAPAR,BILVYAPAR,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BILVYAPAR,BILVYAPAR,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-BIOCON,BIOCON,FY 2022-23,Healthcare,brsr_prd_master,49,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-BIOCON,BIOCON,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+BIOCON,BIOCON,FY 2022-23,Healthcare,brsr_prd_master,49,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+BIOCON,BIOCON,FY 2022-23,Unknown,annual_report_kpis,12,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Biocon Limited,BIOCON,FY 2024-25,Healthcare,brsr_prd_master,50,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Biocon Limited.pdf
 BIOFILCHEM,BIOFILCHEM,FY 2022-23,Financial Services,brsr_prd_master,14,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 BIOFILCHEM,BIOFILCHEM,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -768,7 +768,7 @@ CARERATINGS_17062025213045_BRSRAREXTRACT,CARERATINGS,FY 2024-25,Financial Servic
 CARTRADE,CARTRADE,FY 2022-23,Financial Services,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CARTRADE,CARTRADE,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CARTRADE TECH LIMITED,CARTRADETECH,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Cartrade Tech Limited.pdf
-CARYSIL,CARYSIL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CARYSIL,CARYSIL,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CARYSIL,CARYSIL,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Carysil Limited.pdf
 Carysil Limited,CARYSIL,FY 2024-25,Utilities,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Carysil Limited.pdf
 CASTROLIND,CASTROLIND,FY 2022-23,Financial Services,brsr_prd_master,46,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -814,8 +814,8 @@ CERA,CERA,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report
 CERA,CERA,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CEREBRAINT,CEREBRAINT,FY 2022-23,Financial Services,brsr_prd_master,23,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CEREBRAINT,CEREBRAINT,FY 2022-23,Unknown,annual_report_kpis,3,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CESC,CESC,FY 2022-23,Information Technology,brsr_prd_master,46,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CESC,CESC,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CESC,CESC,FY 2022-23,Information Technology,brsr_prd_master,46,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CESC,CESC,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CESC Limited,CESC,FY 2024-25,Energy,brsr_prd_master,46,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\CESC Limited.pdf
 CGCL,CGCL,FY 2022-23,Financial Services,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CGCL,CGCL,FY 2022-23,Unknown,annual_report_kpis,5,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -825,6 +825,7 @@ CHALET,CHALET,FY 2022-23,Financial Services,brsr_prd_master,44,0,0,1,1,annual_re
 CHALET,CHALET,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Chalet Hotels Limited,CHALETHOTELS,FY 2024-25,Real Estate,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Chalet Hotels Limited.pdf
 CHAMAN LAL SETIA EXPORTS LIMITED,CHAMANLALSETIAEXPORTS,FY 2024-25,Real Estate,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Chaman Lal Setia Exports Limited.pdf
+Chambal Fertilizers _ Chemicals Limited,CHAMBALFERTILIZERSCHEMICALS,FY 2022-23,Materials,brsr_prd_master,43,1,0,0,1,brsr_report,~\Downloads\brsr 2021-24.zip
 CHAMBLFERT,CHAMBLFERT,FY 2022-23,Financial Services,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CHAMBLFERT,CHAMBLFERT,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CHEMBOND,CHEMBOND,FY 2022-23,Healthcare,brsr_prd_master,21,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -861,8 +862,8 @@ CINELINE,CINELINE,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annua
 CINELINE,CINELINE,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CINEVISTA,CINEVISTA,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CINEVISTA,CINEVISTA,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CIPLA,CIPLA,FY 2022-23,Financial Services,brsr_prd_master,48,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CIPLA,CIPLA,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CIPLA,CIPLA,FY 2022-23,Financial Services,brsr_prd_master,48,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CIPLA,CIPLA,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Cipla Limited,CIPLA,FY 2024-25,Healthcare,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Cipla Limited.pdf
 CITY UNION BANK LIMITED,CITYUNIONBANK,FY 2024-25,Financial Services,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\City Union Bank Limited.pdf
 CLEAN,CLEAN,FY 2022-23,Information Technology,brsr_prd_master,43,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -884,8 +885,8 @@ COCHINSHIP,COCHINSHIP,FY 2022-23,Industrials,brsr_prd_master,39,0,0,1,1,annual_r
 COCHINSHIP,COCHINSHIP,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 COFFEEDAY,COFFEEDAY,FY 2022-23,Unknown,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 COFFEEDAY,COFFEEDAY,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-COFORGE,COFORGE,FY 2022-23,Information Technology,brsr_prd_master,46,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-COFORGE,COFORGE,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+COFORGE,COFORGE,FY 2022-23,Information Technology,brsr_prd_master,46,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+COFORGE,COFORGE,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 COFORGE_29082025145633_Intimation_of_BRSR,COFORGE,FY 2024-25,Information Technology,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Coforge Limited.pdf
 Coforge Limited,COFORGE,FY 2024-25,Information Technology,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Coforge Limited.pdf
 COHANCE,COHANCE,FY 2022-23,Information Technology,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -916,8 +917,8 @@ COROMANDEL,COROMANDEL,FY 2022-23,Consumer Goods,brsr_prd_master,43,0,0,1,1,annua
 COROMANDEL,COROMANDEL,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 COROMANDEL INTERNATIONAL LIMITED,COROMANDELINTERNATIONAL,FY 2024-25,Materials,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Coromandel International Limited.pdf
 COSMO FIRST LIMITED,COSMOFIRST,FY 2024-25,Materials,brsr_prd_master,35,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Cosmo First Limited.pdf
-COSMOFIRST,COSMOFIRST,FY 2022-23,Information Technology,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-COSMOFIRST,COSMOFIRST,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+COSMOFIRST,COSMOFIRST,FY 2022-23,Information Technology,brsr_prd_master,35,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+COSMOFIRST,COSMOFIRST,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 COUNCODOS,COUNCODOS,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 COUNCODOS,COUNCODOS,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CPCAP,CPCAP,FY 2022-23,Unknown,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -936,8 +937,8 @@ CRISIL,CRISIL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_ext
 CROMPTON,CROMPTON,FY 2022-23,Unknown,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CROMPTON,CROMPTON,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CSB BANK LIMITED,CSBBANK,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Csb Bank Limited.pdf
-CSBBANK,CSBBANK,FY 2022-23,Financial Services,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CSBBANK,CSBBANK,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CSBBANK,CSBBANK,FY 2022-23,Financial Services,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CSBBANK,CSBBANK,FY 2022-23,Unknown,annual_report_kpis,12,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CSBBANK_02082025121618_BSENSEBRSR202502082025f,CSBBANK,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Csb Bank Limited.pdf
 CSLFINANCE,CSLFINANCE,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CSLFINANCE,CSLFINANCE,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -960,8 +961,8 @@ CYBERMEDIA,CYBERMEDIA,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,a
 CYBERMEDIA,CYBERMEDIA,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CYBERTECH,CYBERTECH,FY 2022-23,Information Technology,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CYBERTECH,CYBERTECH,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CYIENT,CYIENT,FY 2022-23,Information Technology,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-CYIENT,CYIENT,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CYIENT,CYIENT,FY 2022-23,Information Technology,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+CYIENT,CYIENT,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 CYIENT_15092025150058_Annexure_1_BRSR,CYIENT,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Cyient Limited.pdf
 Cyient DLM Limited,CYIENTDLM,FY 2024-25,Information Technology,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Cyient DLM Limited.pdf
 Cyient Limited,CYIENT,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Cyient Limited.pdf
@@ -986,15 +987,15 @@ DATAPATTNS,DATAPATTNS,FY 2022-23,Financial Services,brsr_prd_master,36,0,0,1,1,a
 DATAPATTNS,DATAPATTNS,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DAVANGERE,DAVANGERE,FY 2022-23,Information Technology,brsr_prd_master,21,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DAVANGERE,DAVANGERE,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DBCORP,DBCORP,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DBCORP,DBCORP,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DBCORP,DBCORP,FY 2022-23,Financial Services,brsr_prd_master,40,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DBCORP,DBCORP,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DBCORP_07082025165307_SE_BRSR_Signed,DBCORP,FY 2024-25,Media & Entertainment,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\D.B.Corp Limited.pdf
 DBL,DBL,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DBL,DBL,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DBOL,DBOL,FY 2022-23,Information Technology,brsr_prd_master,27,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DBOL,DBOL,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DBREALTY,DBREALTY,FY 2022-23,Real Estate,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DBREALTY,DBREALTY,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DBREALTY,DBREALTY,FY 2022-23,Real Estate,brsr_prd_master,40,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DBREALTY,DBREALTY,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DBSTOCKBRO,DBSTOCKBRO,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DBSTOCKBRO,DBSTOCKBRO,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DCAL,DCAL,FY 2022-23,Healthcare,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1018,8 +1019,8 @@ DCMSHRIRAM,DCMSHRIRAM,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_re
 DCMSHRIRAM_16072025155812_BRSRSEINTIMATION2025SIGNED,DCMSHRIRAM,FY 2024-25,Materials,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\DCM Shriram Limited.pdf
 DCMSRIND,DCMSRIND,FY 2022-23,Materials,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DCMSRIND,DCMSRIND,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DCW,DCW,FY 2022-23,Healthcare,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DCW,DCW,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DCW,DCW,FY 2022-23,Healthcare,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DCW,DCW,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DCW_05092025200351_Intimation_BRSR,DCW,FY 2024-25,Materials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\DCW Limited.pdf
 DCW Limited,DCW,FY 2024-25,Materials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\DCW Limited.pdf
 DCX Systems Limited,DCXSYSTEMS,FY 2024-25,Unknown,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\DCX Systems Limited.pdf
@@ -1042,8 +1043,8 @@ DEEPAKNTR,DEEPAKNTR,FY 2022-23,Materials,brsr_prd_master,45,0,0,1,1,annual_repor
 DEEPAKNTR,DEEPAKNTR,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DEEPINDS,DEEPINDS,FY 2022-23,Financial Services,brsr_prd_master,30,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DEEPINDS,DEEPINDS,FY 2022-23,Unknown,annual_report_kpis,4,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DELHIVERY,DELHIVERY,FY 2022-23,Financial Services,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DELHIVERY,DELHIVERY,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DELHIVERY,DELHIVERY,FY 2022-23,Financial Services,brsr_prd_master,41,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DELHIVERY,DELHIVERY,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Delhivery Limited,DELHIVERY,FY 2024-25,Consumer Goods,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Delhivery Limited.pdf
 DELPHIFX,DELPHIFX,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DELPHIFX,DELPHIFX,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1097,8 +1098,8 @@ DIGJAMLMTD,DIGJAMLMTD,FY 2022-23,Materials,brsr_prd_master,18,0,0,1,1,annual_rep
 DIGJAMLMTD,DIGJAMLMTD,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Dilip Buildcon Limited,DILIPBUILDCON,FY 2024-25,Industrials,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Dilip Buildcon Limited.pdf
 Dishman Carbogen Amcis Limited,DISHMANCARBOGENAMCIS,FY 2024-25,Materials,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Dishman Carbogen Amcis Limited.pdf
-DISHTV,DISHTV,FY 2022-23,Information Technology,brsr_prd_master,29,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-DISHTV,DISHTV,FY 2022-23,Unknown,annual_report_kpis,3,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DISHTV,DISHTV,FY 2022-23,Information Technology,brsr_prd_master,29,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+DISHTV,DISHTV,FY 2022-23,Unknown,annual_report_kpis,3,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Divgi TorqTransfer Systems Limited,DIVGITORQTRANSFERSYSTEMS,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Divgi TorqTransfer Systems Limited.pdf
 DIVGIITTS,DIVGIITTS,FY 2022-23,Information Technology,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 DIVGIITTS,DIVGIITTS,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1188,8 +1189,8 @@ EFCIL,EFCIL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extrac
 EICHERMOT,EICHERMOT,FY 2022-23,Real Estate,brsr_prd_master,43,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EICHERMOT,EICHERMOT,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EID PARRY INDIA LIMITED,EIDPARRY,FY 2024-25,Materials,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Eid Parry India Limited.pdf
-EIDPARRY,EIDPARRY,FY 2022-23,Healthcare,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-EIDPARRY,EIDPARRY,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+EIDPARRY,EIDPARRY,FY 2022-23,Healthcare,brsr_prd_master,44,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+EIDPARRY,EIDPARRY,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EIH Associated Hotels Limited,EIHASSOCIATEDHOTELS,FY 2024-25,Unknown,brsr_prd_master,0,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\EIH Associated Hotels Limited.pdf
 EIHAHOTELS,EIHAHOTELS,FY 2022-23,Information Technology,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EIHAHOTELS,EIHAHOTELS,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1293,6 +1294,7 @@ EUROTEXIND,EUROTEXIND,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_rep
 EVEREADY,EVEREADY,FY 2022-23,Real Estate,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EVEREADY,EVEREADY,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Everest Industries Limited,EVERESTINDUSTRIES,FY 2024-25,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Everest Industries Limited.pdf
+Everest Kanto Cylinder Limited,EVERESTKANTOCYLINDER,FY 2022-23,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,~\Downloads\brsr 2021-24.zip
 EVERESTIND,EVERESTIND,FY 2022-23,Healthcare,brsr_prd_master,31,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EVERESTIND,EVERESTIND,FY 2022-23,Unknown,annual_report_kpis,5,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 EVERESTINDUSTRIES_26082025150126_IntimationofBRSR,EVERESTINDUSTRIES,FY 2024-25,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Everest Industries Limited.pdf
@@ -1320,8 +1322,8 @@ FCL,FCL,FY 2022-23,Information Technology,brsr_prd_master,38,0,0,1,1,annual_repo
 FCL,FCL,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 FCSSOFT,FCSSOFT,FY 2022-23,Real Estate,brsr_prd_master,17,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 FCSSOFT,FCSSOFT,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-FDC,FDC,FY 2022-23,Financial Services,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-FDC,FDC,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+FDC,FDC,FY 2022-23,Financial Services,brsr_prd_master,38,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+FDC,FDC,FY 2022-23,Unknown,annual_report_kpis,9,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 FDC_29082025204221_BRSRReportFinalmergedcompressedSIGNED,FDC,FY 2024-25,Financial Services,brsr_prd_master,31,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\FDC Limited.pdf
 FDC Limited,FDC,FY 2024-25,Financial Services,brsr_prd_master,31,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\FDC Limited.pdf
 Fedbank Financial Services Limited,FEDBANKFINANCIALSERVICES,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Fedbank Financial Services Limited.pdf
@@ -1334,8 +1336,8 @@ FIBERWEB,FIBERWEB,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_
 Fiem Industries Limited,FIEMINDUSTRIES,FY 2024-25,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Fiem Industries Limited.pdf
 FIEMIND,FIEMIND,FY 2022-23,Industrials,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 FIEMIND,FIEMIND,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-FILATEX,FILATEX,FY 2022-23,Information Technology,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-FILATEX,FILATEX,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+FILATEX,FILATEX,FY 2022-23,Information Technology,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+FILATEX,FILATEX,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 FILATEX_03092025231341_Filatex_BRSR_2025,FILATEX,FY 2024-25,Financial Services,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Filatex India Limited.pdf
 FILATEX FASHIONS LIMITED,FILATEXFASHIONS,FY 2024-25,Materials,brsr_prd_master,34,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Filatex Fashions Limited.pdf
 Filatex India Limited,FILATEX,FY 2024-25,Financial Services,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Filatex India Limited.pdf
@@ -1388,14 +1390,14 @@ FSN E Commerce Ventures Limited,FSNECOMMERCEVENTURES,FY 2024-25,Consumer Goods,b
 FUSION,FUSION,FY 2022-23,Financial Services,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 FUSION,FUSION,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 G R Infraprojects Limited,GRINFRAPROJECTS,FY 2024-25,Real Estate,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\G R Infraprojects Limited.pdf
-GABRIEL,GABRIEL,FY 2022-23,Industrials,brsr_prd_master,43,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GABRIEL,GABRIEL,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GABRIEL,GABRIEL,FY 2022-23,Industrials,brsr_prd_master,43,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GABRIEL,GABRIEL,FY 2022-23,Unknown,annual_report_kpis,12,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GABRIEL_16082025192629_BRSR_SE_intimation_final_signed,GABRIEL,FY 2024-25,Information Technology,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gabriel India Limited.pdf
 GABRIEL INDIA LIMITED,GABRIEL,FY 2024-25,Information Technology,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gabriel India Limited.pdf
 GAEL,GAEL,FY 2022-23,Consumer Goods,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GAEL,GAEL,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GAIL,GAIL,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GAIL,GAIL,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GAIL,GAIL,FY 2022-23,Financial Services,brsr_prd_master,40,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GAIL,GAIL,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GAIL (India) Limited,GAIL,FY 2024-25,Financial Services,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\GAIL (India) Limited.pdf
 GALAXYSURF,GALAXYSURF,FY 2022-23,Consumer Goods,brsr_prd_master,46,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GALAXYSURF,GALAXYSURF,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1457,8 +1459,8 @@ GESHIP,GESHIP,FY 2022-23,Financial Services,brsr_prd_master,44,0,0,1,1,annual_re
 GESHIP,GESHIP,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GFLLIMITED,GFLLIMITED,FY 2022-23,Financial Services,brsr_prd_master,31,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GFLLIMITED,GFLLIMITED,FY 2022-23,Unknown,annual_report_kpis,3,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GHCL,GHCL,FY 2022-23,Financial Services,brsr_prd_master,50,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GHCL,GHCL,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GHCL,GHCL,FY 2022-23,Financial Services,brsr_prd_master,50,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GHCL,GHCL,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GHCL_25062025230117_GHCL_BRSR_Report2025,GHCL,FY 2024-25,Materials,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\GHCL Limited.pdf
 GHCL Limited,GHCL,FY 2024-25,Materials,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\GHCL Limited.pdf
 GHCLTEXTIL,GHCLTEXTIL,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1470,8 +1472,8 @@ GICRE,GICRE,FY 2022-23,Financial Services,brsr_prd_master,0,0,0,1,1,annual_repor
 GICRE,GICRE,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GILLANDERS,GILLANDERS,FY 2022-23,Real Estate,brsr_prd_master,14,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GILLANDERS,GILLANDERS,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GILLETTE,GILLETTE,FY 2022-23,Unknown,brsr_prd_master,32,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GILLETTE,GILLETTE,FY 2022-23,Unknown,annual_report_kpis,6,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GILLETTE,GILLETTE,FY 2022-23,Unknown,brsr_prd_master,32,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GILLETTE,GILLETTE,FY 2022-23,Unknown,annual_report_kpis,6,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GILLETTE_11082025113426_GILBRSR2025,GILLETTE,FY 2024-25,Consumer Goods,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gillette India Limited.pdf
 Gillette India Limited,GILLETTE,FY 2024-25,Consumer Goods,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gillette India Limited.pdf
 GINNIFILA,GINNIFILA,FY 2022-23,Unknown,annual_report_kpis,2,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1553,8 +1555,8 @@ GOLDIAM,GOLDIAM,FY 2022-23,Unknown,annual_report_kpis,5,0,0,1,1,annual_report_ex
 Goldiam International Limited,GOLDIAMINTERNATIONAL,FY 2024-25,Consumer Goods,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Goldiam International Limited.pdf
 GOLDTECH,GOLDTECH,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GOLDTECH,GOLDTECH,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GOODLUCK,GOODLUCK,FY 2022-23,Information Technology,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GOODLUCK,GOODLUCK,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GOODLUCK,GOODLUCK,FY 2022-23,Information Technology,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GOODLUCK,GOODLUCK,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GOODLUCK_02092025184911_BRSRmerged,GOODLUCK,FY 2024-25,Materials,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Goodluck India Limited.pdf
 Goodluck India Limited,GOODLUCK,FY 2024-25,Materials,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Goodluck India Limited.pdf
 GOPAL,GOPAL,FY 2022-23,Unknown,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1569,15 +1571,15 @@ GPPL,GPPL,FY 2022-23,Real Estate,brsr_prd_master,43,0,0,1,1,annual_report_extrac
 GPPL,GPPL,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GPTINFRA,GPTINFRA,FY 2022-23,Industrials,brsr_prd_master,19,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GPTINFRA,GPTINFRA,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GRANULES,GRANULES,FY 2022-23,Healthcare,brsr_prd_master,48,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GRANULES,GRANULES,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GRAPHITE,GRAPHITE,FY 2022-23,Materials,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GRAPHITE,GRAPHITE,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GRANULES,GRANULES,FY 2022-23,Healthcare,brsr_prd_master,48,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GRANULES,GRANULES,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GRAPHITE,GRAPHITE,FY 2022-23,Materials,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GRAPHITE,GRAPHITE,FY 2022-23,Unknown,annual_report_kpis,7,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GRASIM,GRASIM,FY 2022-23,Financial Services,brsr_prd_master,50,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GRASIM,GRASIM,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Grasim Industries Limited,GRASIMINDUSTRIES,FY 2024-25,Industrials,brsr_prd_master,50,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Grasim Industries Limited.pdf
-GRAVITA,GRAVITA,FY 2022-23,Financial Services,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-GRAVITA,GRAVITA,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GRAVITA,GRAVITA,FY 2022-23,Financial Services,brsr_prd_master,35,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+GRAVITA,GRAVITA,FY 2022-23,Unknown,annual_report_kpis,7,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 GRAVITA_13082025182655_BRSR2025Final,GRAVITA,FY 2024-25,Energy,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gravita India Limited.pdf
 Gravita India Limited,GRAVITA,FY 2024-25,Energy,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gravita India Limited.pdf
 GREAVESCOT,GREAVESCOT,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1632,6 +1634,7 @@ Gujarat Ambuja Exports Limited,GUJARATAMBUJAEXPORTS,FY 2024-25,Consumer Goods,br
 Gujarat Fluorochemicals Limited,GUJARATFLUOROCHEMICALS,FY 2024-25,Materials,brsr_prd_master,46,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gujarat Fluorochemicals Limited.pdf
 GUJARAT GAS LIMITED,GUJARATGAS,FY 2024-25,Energy,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gujarat Gas Limited.pdf
 GUJARAT INDUSTRIES POWER COMPANY LIMITED,GUJARATINDUSTRIESPOWER,FY 2024-25,Materials,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gujarat Industries Power Company Limited.pdf
+Gujarat Mineral Development Corporation Limited,GUJARATMINERALDEVELOPMENTCORPORATION,FY 2022-23,Materials,brsr_prd_master,44,1,0,0,1,brsr_report,~\Downloads\brsr 2021-24.zip
 Gujarat Narmada Valley Fertilizers and Chemicals Limited,GUJARATNARMADAVALLEYFERTILIZERSANDCHEMICALS,FY 2024-25,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gujarat Narmada Valley Fertilizers and Chemicals Limited.pdf
 Gujarat Pipavav Port Limited,GUJARATPIPAVAVPORT,FY 2024-25,Real Estate,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gujarat Pipavav Port Limited.pdf
 Gujarat State Petronet Limited,GUJARATSTATEPETRONET,FY 2024-25,Materials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Gujarat State Petronet Limited.pdf
@@ -1683,8 +1686,8 @@ HATHWAY,HATHWAY,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_ex
 HATSUN,HATSUN,FY 2022-23,Information Technology,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HATSUN,HATSUN,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HATSUN AGRO PRODUCT LIMITED,HATSUNAGROPRODUCT,FY 2024-25,Financial Services,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hatsun Agro Product Limited.pdf
-HAVELLS,HAVELLS,FY 2022-23,Real Estate,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HAVELLS,HAVELLS,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HAVELLS,HAVELLS,FY 2022-23,Real Estate,brsr_prd_master,41,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HAVELLS,HAVELLS,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Havells India Limited,HAVELLS,FY 2024-25,Financial Services,brsr_prd_master,48,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Havells India Limited.pdf
 HAVISHA,HAVISHA,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HAVISHA,HAVISHA,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1705,8 +1708,8 @@ HDFC Asset Management Company Limited,HDFCASSETMANAGEMENT,FY 2024-25,Unknown,brs
 HDFC Bank Limited,HDFCBANK,FY 2024-25,Financial Services,brsr_prd_master,24,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\HDFC Bank Limited.pdf
 HDFCAMC,HDFCAMC,FY 2022-23,Financial Services,brsr_prd_master,43,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HDFCAMC,HDFCAMC,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HDFCBANK,HDFCBANK,FY 2022-23,Financial Services,brsr_prd_master,52,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HDFCBANK,HDFCBANK,FY 2022-23,Unknown,annual_report_kpis,15,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HDFCBANK,HDFCBANK,FY 2022-23,Financial Services,brsr_prd_master,52,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HDFCBANK,HDFCBANK,FY 2022-23,Unknown,annual_report_kpis,15,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HDFCLIFE,HDFCLIFE,FY 2022-23,Financial Services,brsr_prd_master,48,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HDFCLIFE,HDFCLIFE,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HEADSUP,HEADSUP,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1714,8 +1717,8 @@ HEADSUP,HEADSUP,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_ex
 HEALTHCARE GLOBAL ENTERPRISES LIMITED,HEALTHCAREGLOBALENTERPRISES,FY 2024-25,Healthcare,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Healthcare Global Enterprises Limited.pdf
 HECPROJECT,HECPROJECT,FY 2022-23,Industrials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HECPROJECT,HECPROJECT,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HEG,HEG,FY 2022-23,Materials,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HEG,HEG,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HEG,HEG,FY 2022-23,Materials,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HEG,HEG,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HEIDELBERG,HEIDELBERG,FY 2022-23,Information Technology,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HEIDELBERG,HEIDELBERG,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HeidelbergCement India Limited,HEIDELBERGCEMENT,FY 2024-25,Real Estate,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\HeidelbergCement India Limited.pdf
@@ -1734,11 +1737,11 @@ HEROMOTOCO,HEROMOTOCO,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_re
 HESTERBIO,HESTERBIO,FY 2022-23,Healthcare,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HESTERBIO,HESTERBIO,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Heubach Colorants India Limited,HEUBACHCOLORANTS,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Heubach Colorants India Limited.pdf
-HEXATRADEX,HEXATRADEX,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HEXATRADEX,HEXATRADEX,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HEXATRADEX,HEXATRADEX,FY 2022-23,Financial Services,brsr_prd_master,16,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HEXATRADEX,HEXATRADEX,FY 2022-23,Unknown,annual_report_kpis,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HEXATRADEX_01092025140844_BRSR_HTL_2025SE,HEXATRADEX,FY 2024-25,Financial Services,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hexa Tradex Limited.pdf
-HFCL,HFCL,FY 2022-23,Information Technology,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HFCL,HFCL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HFCL,HFCL,FY 2022-23,Information Technology,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HFCL,HFCL,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HFCL Limited,HFCL,FY 2024-25,Telecommunications,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\HFCL Limited.pdf
 HGINFRA,HGINFRA,FY 2022-23,Real Estate,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HGINFRA,HGINFRA,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1747,8 +1750,8 @@ HGM,HGM,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_
 HGS,HGS,FY 2022-23,Financial Services,brsr_prd_master,28,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HGS,HGS,FY 2022-23,Unknown,annual_report_kpis,2,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HI-TECH PIPES LIMITED,HITECHPIPES,FY 2024-25,Industrials,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hi-Tech Pipes Limited.pdf
-HIKAL,HIKAL,FY 2022-23,Healthcare,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HIKAL,HIKAL,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HIKAL,HIKAL,FY 2022-23,Healthcare,brsr_prd_master,44,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HIKAL,HIKAL,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HIKAL_26082025175517_SubmissionofBRSRtoStockExchanges,HIKAL,FY 2024-25,Healthcare,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hikal Limited.pdf
 Hikal Limited,HIKAL,FY 2024-25,Healthcare,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hikal Limited.pdf
 HILINFRA,HILINFRA,FY 2022-23,Real Estate,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1803,8 +1806,8 @@ HLVLTD,HLVLTD,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extr
 HMA AGRO INDUSTRIES LIMITED,HMAAGROINDUSTRIES,FY 2024-25,Information Technology,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hma Agro Industries Limited.pdf
 HMAAGRO,HMAAGRO,FY 2022-23,Materials,brsr_prd_master,20,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HMAAGRO,HMAAGRO,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HMT,HMT,FY 2022-23,Industrials,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-HMT,HMT,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HMT,HMT,FY 2022-23,Industrials,brsr_prd_master,35,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+HMT,HMT,FY 2022-23,Unknown,annual_report_kpis,7,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 HMT_16102025193625_BRSR,HMT,FY 2024-25,Utilities,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hmt Limited.pdf
 HMT LIMITED,HMT,FY 2024-25,Utilities,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Hmt Limited.pdf
 HMVL,HMVL,FY 2022-23,Information Technology,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1846,8 +1849,8 @@ ICDSLTD,ICDSLTD,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_ex
 ICICI Bank Limited,ICICIBANK,FY 2024-25,Financial Services,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\ICICI Bank Limited.pdf
 ICICI Lombard General Insurance Company Limited,ICICILOMBARDGENERALINSURANCE,FY 2024-25,Unknown,brsr_prd_master,0,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\ICICI Lombard General Insurance Company Limited.pdf
 ICICI Prudential Life Insurance Company Limited,ICICIPRUDENTIALLIFEINSURANCE,FY 2024-25,Financial Services,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\ICICI Prudential Life Insurance Company Limited.pdf
-ICICIBANK,ICICIBANK,FY 2022-23,Financial Services,brsr_prd_master,48,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ICICIBANK,ICICIBANK,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ICICIBANK,ICICIBANK,FY 2022-23,Financial Services,brsr_prd_master,48,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ICICIBANK,ICICIBANK,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ICICIGI,ICICIGI,FY 2022-23,Financial Services,brsr_prd_master,24,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ICICIGI,ICICIGI,FY 2022-23,Unknown,annual_report_kpis,2,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ICICIPRULI,ICICIPRULI,FY 2022-23,Materials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -1873,8 +1876,8 @@ IFBAGRO,IFBAGRO,FY 2022-23,Financial Services,brsr_prd_master,22,0,0,1,1,annual_
 IFBAGRO,IFBAGRO,FY 2022-23,Unknown,annual_report_kpis,2,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 IFBIND,IFBIND,FY 2022-23,Industrials,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 IFBIND,IFBIND,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-IFCI,IFCI,FY 2022-23,Financial Services,brsr_prd_master,31,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-IFCI,IFCI,FY 2022-23,Unknown,annual_report_kpis,3,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+IFCI,IFCI,FY 2022-23,Financial Services,brsr_prd_master,31,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+IFCI,IFCI,FY 2022-23,Unknown,annual_report_kpis,3,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 IFCI_06102025193729_STX_BRSR,IFCI,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\IFCI Limited.pdf
 IFCI Limited,IFCI,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\IFCI Limited.pdf
 IFGL REFRACTORIES LIMITED,IFGLREFRACTORIES,FY 2024-25,Materials,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Ifgl Refractories Limited.pdf
@@ -2012,8 +2015,8 @@ INOX India Limited,INOX,FY 2024-25,Utilities,brsr_prd_master,36,1,0,0,1,brsr_rep
 Inox Wind Limited,INOXWIND,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Inox Wind Limited.pdf
 INOXGREEN,INOXGREEN,FY 2022-23,Information Technology,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 INOXGREEN,INOXGREEN,FY 2022-23,Unknown,annual_report_kpis,6,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-INOXWIND,INOXWIND,FY 2022-23,Information Technology,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-INOXWIND,INOXWIND,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+INOXWIND,INOXWIND,FY 2022-23,Information Technology,brsr_prd_master,38,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+INOXWIND,INOXWIND,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 INOXWIND_05092025000101_SE_Cover_letters_IWL_BRSR,INOXWIND,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Inox Wind Limited.pdf
 INSECTICID,INSECTICID,FY 2022-23,Information Technology,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 INSECTICID,INSECTICID,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2070,8 +2073,8 @@ ITC,ITC,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted
 ITC_27062025154418_SE_BRSR_,ITC,FY 2024-25,Consumer Goods,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\ITC Limited.pdf
 ITDC,ITDC,FY 2022-23,Financial Services,brsr_prd_master,33,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 ITDC,ITDC,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ITI,ITI,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-ITI,ITI,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ITI,ITI,FY 2022-23,Financial Services,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+ITI,ITI,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 IVC,IVC,FY 2022-23,Financial Services,brsr_prd_master,14,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 IVC,IVC,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 IVP,IVP,FY 2022-23,Financial Services,brsr_prd_master,22,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2152,14 +2155,14 @@ JITFINFRA,JITFINFRA,FY 2022-23,Materials,brsr_prd_master,19,0,0,1,1,annual_repor
 JITFINFRA,JITFINFRA,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JK LAKSHMI CEMENT LIMITED,JKLAKSHMICEMENT,FY 2024-25,Industrials,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Jk Lakshmi Cement Limited.pdf
 JK PAPER LIMITED,JKPAPER,FY 2024-25,Unknown,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Jk Paper Limited.pdf
-JKCEMENT,JKCEMENT,FY 2022-23,Materials,brsr_prd_master,49,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-JKCEMENT,JKCEMENT,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+JKCEMENT,JKCEMENT,FY 2022-23,Materials,brsr_prd_master,49,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+JKCEMENT,JKCEMENT,FY 2022-23,Unknown,annual_report_kpis,12,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JKIL,JKIL,FY 2022-23,Information Technology,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JKIL,JKIL,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JKLAKSHMI,JKLAKSHMI,FY 2022-23,Materials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JKLAKSHMI,JKLAKSHMI,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-JKPAPER,JKPAPER,FY 2022-23,Materials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-JKPAPER,JKPAPER,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+JKPAPER,JKPAPER,FY 2022-23,Materials,brsr_prd_master,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+JKPAPER,JKPAPER,FY 2022-23,Unknown,annual_report_kpis,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JKPAPER_06082025102147_STX_BRSR,JKPAPER,FY 2024-25,Unknown,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Jk Paper Limited.pdf
 JKTYRE,JKTYRE,FY 2022-23,Industrials,brsr_prd_master,45,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JKTYRE,JKTYRE,FY 2022-23,Unknown,annual_report_kpis,14,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2201,8 +2204,8 @@ JUBLPHARMA,JUBLPHARMA,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_re
 Juniper Hotels Limited,JUNIPERHOTELS,FY 2024-25,Information Technology,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Juniper Hotels Limited.pdf
 Jupiter Wagons Limited,JUPITERWAGONS,FY 2024-25,Industrials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Jupiter Wagons Limited.pdf
 Just Dial Limited,JUSTDIAL,FY 2024-25,Financial Services,brsr_prd_master,34,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Just Dial Limited.pdf
-JUSTDIAL,JUSTDIAL,FY 2022-23,Healthcare,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-JUSTDIAL,JUSTDIAL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+JUSTDIAL,JUSTDIAL,FY 2022-23,Healthcare,brsr_prd_master,18,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+JUSTDIAL,JUSTDIAL,FY 2022-23,Unknown,annual_report_kpis,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JWL,JWL,FY 2022-23,Industrials,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JWL,JWL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 JYOTHY LABS LIMITED,JYOTHYLABS,FY 2024-25,Consumer Goods,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Jyothy Labs Limited.pdf
@@ -2232,8 +2235,8 @@ KALYANKJIL,KALYANKJIL,FY 2022-23,Consumer Goods,brsr_prd_master,34,0,0,1,1,annua
 KALYANKJIL,KALYANKJIL,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KAMATHOTEL,KAMATHOTEL,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KAMATHOTEL,KAMATHOTEL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KAMDHENU,KAMDHENU,FY 2022-23,Real Estate,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KAMDHENU,KAMDHENU,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KAMDHENU,KAMDHENU,FY 2022-23,Real Estate,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KAMDHENU,KAMDHENU,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KAMDHENU_01092025131549_BRSRfinalsigned,KAMDHENU,FY 2024-25,Unknown,brsr_prd_master,10,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kamdhenu Limited.pdf
 Kamdhenu Limited,KAMDHENU,FY 2024-25,Unknown,brsr_prd_master,10,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kamdhenu Limited.pdf
 KAMOPAINTS,KAMOPAINTS,FY 2022-23,Information Technology,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2260,13 +2263,13 @@ KAYA,KAYA,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracte
 KAYNES,KAYNES,FY 2022-23,Information Technology,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KAYNES,KAYNES,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Kaynes Technology India Limited,KAYNESTECHNOLOGY,FY 2024-25,Information Technology,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kaynes Technology India Limited.pdf
-KCP,KCP,FY 2022-23,Industrials,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KCP,KCP,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KCP,KCP,FY 2022-23,Industrials,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KCP,KCP,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KCP LIMITED,KCP,FY 2024-25,Real Estate,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kcp Limited.pdf
 KCPSUGIND,KCPSUGIND,FY 2022-23,Real Estate,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KCPSUGIND,KCPSUGIND,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KDDL,KDDL,FY 2022-23,Consumer Goods,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KDDL,KDDL,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KDDL,KDDL,FY 2022-23,Consumer Goods,brsr_prd_master,35,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KDDL,KDDL,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KDDL_23082025090458_KDDL_AR2024-25_BRSR_SGAAds_V1__Interactve_,KDDL,FY 2024-25,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\KDDL Limited.pdf
 KDDL Limited,KDDL,FY 2024-25,Industrials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\KDDL Limited.pdf
 KEC,KEC,FY 2022-23,Information Technology,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2306,8 +2309,8 @@ KIMS,KIMS,FY 2022-23,Healthcare,brsr_prd_master,36,0,0,1,1,annual_report_extract
 KIMS,KIMS,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KINGFA,KINGFA,FY 2022-23,Healthcare,brsr_prd_master,32,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KINGFA,KINGFA,FY 2022-23,Unknown,annual_report_kpis,6,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KIOCL,KIOCL,FY 2022-23,Materials,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KIOCL,KIOCL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KIOCL,KIOCL,FY 2022-23,Materials,brsr_prd_master,38,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KIOCL,KIOCL,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KIOCL_30102025125301_9cecda78-6e61-46f3-a498-cb7a654e1d92,KIOCL,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\KIOCL Limited.pdf
 KIOCL Limited,KIOCL,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\KIOCL Limited.pdf
 Kiri Industries Limited,KIRIINDUSTRIES,FY 2024-25,Materials,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kiri Industries Limited.pdf
@@ -2344,8 +2347,8 @@ KOKUYOCMLN,KOKUYOCMLN,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_rep
 Kolte - Patil Developers Limited,KOLTEPATILDEVELOPERS,FY 2024-25,Real Estate,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kolte - Patil Developers Limited.pdf
 KOLTEPATIL,KOLTEPATIL,FY 2022-23,Real Estate,brsr_prd_master,32,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KOLTEPATIL,KOLTEPATIL,FY 2022-23,Unknown,annual_report_kpis,6,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KOPRAN,KOPRAN,FY 2022-23,Healthcare,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KOPRAN,KOPRAN,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KOPRAN,KOPRAN,FY 2022-23,Healthcare,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KOPRAN,KOPRAN,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KOPRAN_16082025104339_KL_BRSR_2025,KOPRAN,FY 2024-25,Healthcare,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kopran Limited.pdf
 Kopran Limited,KOPRAN,FY 2024-25,Healthcare,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kopran Limited.pdf
 KOTAK MAHINDRA BANK LIMITED,KOTAKMAHINDRABANK,FY 2024-25,Financial Services,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Kotak Mahindra Bank Limited.pdf
@@ -2368,8 +2371,8 @@ KPITTECH,KPITTECH,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report
 KPRMILL,KPRMILL,FY 2022-23,Financial Services,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KPRMILL,KPRMILL,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KPRMILL_01072025115107_BRSR31032025,KPRMILL,FY 2024-25,Materials,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\K.P.R. Mill Limited.pdf
-KRBL,KRBL,FY 2022-23,Information Technology,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-KRBL,KRBL,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KRBL,KRBL,FY 2022-23,Information Technology,brsr_prd_master,36,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+KRBL,KRBL,FY 2022-23,Unknown,annual_report_kpis,9,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KRBL Limited,KRBL,FY 2024-25,Consumer Goods,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\KRBL Limited.pdf
 KREBSBIO,KREBSBIO,FY 2022-23,Materials,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 KREBSBIO,KREBSBIO,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2425,8 +2428,8 @@ LASA,LASA,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracte
 Latent View Analytics Limited,LATENTVIEWANALYTICS,FY 2024-25,Industrials,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Latent View Analytics Limited.pdf
 LATENTVIEW,LATENTVIEW,FY 2022-23,Materials,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LATENTVIEW,LATENTVIEW,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-LAURUSLABS,LAURUSLABS,FY 2022-23,Healthcare,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-LAURUSLABS,LAURUSLABS,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+LAURUSLABS,LAURUSLABS,FY 2022-23,Healthcare,brsr_prd_master,41,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+LAURUSLABS,LAURUSLABS,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LCCINFOTEC,LCCINFOTEC,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LCCINFOTEC,LCCINFOTEC,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Le Travenues Technology Limited,LETRAVENUESTECHNOLOGY,FY 2024-25,Financial Services,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Le Travenues Technology Limited.pdf
@@ -2481,7 +2484,7 @@ LT,LT,FY 2022-23,Unknown,annual_report_kpis,14,0,0,1,1,annual_report_extracted_d
 LT Foods Limited,LTFOODS,FY 2024-25,Consumer Goods,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\LT Foods Limited.pdf
 LTF,LTF,FY 2022-23,Financial Services,brsr_prd_master,51,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LTF,LTF,FY 2022-23,Unknown,annual_report_kpis,14,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-LTFOODS,LTFOODS,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+LTFOODS,LTFOODS,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LTFOODS,LTFOODS,FY 2024-25,Unknown,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\LT Foods Limited.pdf
 LTM,LTM,FY 2022-23,Information Technology,brsr_prd_master,45,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LTM,LTM,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2493,8 +2496,8 @@ LUMAXIND,LUMAXIND,FY 2022-23,Industrials,brsr_prd_master,41,0,0,1,1,annual_repor
 LUMAXIND,LUMAXIND,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LUMAXTECH,LUMAXTECH,FY 2022-23,Industrials,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LUMAXTECH,LUMAXTECH,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-LUPIN,LUPIN,FY 2022-23,Financial Services,brsr_prd_master,50,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-LUPIN,LUPIN,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+LUPIN,LUPIN,FY 2022-23,Financial Services,brsr_prd_master,50,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+LUPIN,LUPIN,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Lux Industries Limited,LUXINDUSTRIES,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Lux Industries Limited.pdf
 LUXIND,LUXIND,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 LUXIND,LUXIND,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2617,8 +2620,8 @@ Maruti Suzuki India Limited,MARUTISUZUKI,FY 2024-25,Industrials,brsr_prd_master,
 MAS FINANCIAL SERVICES LIMITED,MASFINANCIALSERVICES,FY 2024-25,Financial Services,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Mas Financial Services Limited.pdf
 MASFIN,MASFIN,FY 2022-23,Financial Services,brsr_prd_master,33,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MASFIN,MASFIN,FY 2022-23,Unknown,annual_report_kpis,4,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MASTEK,MASTEK,FY 2022-23,Information Technology,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MASTEK,MASTEK,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MASTEK,MASTEK,FY 2022-23,Information Technology,brsr_prd_master,41,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MASTEK,MASTEK,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Mastek Limited,MASTEK,FY 2024-25,Information Technology,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Mastek Limited.pdf
 MASTERTR,MASTERTR,FY 2022-23,Financial Services,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MASTERTR,MASTERTR,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2629,8 +2632,8 @@ MAWANASUG,MAWANASUG,FY 2022-23,Materials,brsr_prd_master,18,0,0,1,1,annual_repor
 MAWANASUG,MAWANASUG,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Max Financial Services Limited,MAXFINANCIALSERVICES,FY 2024-25,Financial Services,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Max Financial Services Limited.pdf
 MAX HEALTHCARE INSTITUTE LIMITED,MAXHEALTHCAREINSTITUTE,FY 2024-25,Utilities,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Max Healthcare Institute Limited.pdf
-MAXESTATES,MAXESTATES,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MAXESTATES,MAXESTATES,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MAXESTATES,MAXESTATES,FY 2022-23,Financial Services,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MAXESTATES,MAXESTATES,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MAXHEALTH,MAXHEALTH,FY 2022-23,Real Estate,brsr_prd_master,43,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MAXHEALTH,MAXHEALTH,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MAXIND,MAXIND,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2705,8 +2708,8 @@ MKPL,MKPL,FY 2022-23,Information Technology,brsr_prd_master,6,0,0,1,1,annual_rep
 MKPL,MKPL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MMFL,MMFL,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MMFL,MMFL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MMTC,MMTC,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MMTC,MMTC,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MMTC,MMTC,FY 2022-23,Financial Services,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MMTC,MMTC,FY 2022-23,Unknown,annual_report_kpis,9,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MMTC LIMITED,MMTC,FY 2024-25,Unknown,brsr_prd_master,2,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Mmtc Limited.pdf
 MODINATUR,MODINATUR,FY 2022-23,Consumer Goods,brsr_prd_master,21,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MODINATUR,MODINATUR,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2720,8 +2723,8 @@ MODTHREAD,MODTHREAD,FY 2022-23,Financial Services,brsr_prd_master,17,0,0,1,1,ann
 MODTHREAD,MODTHREAD,FY 2022-23,Unknown,annual_report_kpis,1,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MOHITIND,MOHITIND,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MOHITIND,MOHITIND,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MOIL,MOIL,FY 2022-23,Materials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MOIL,MOIL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MOIL,MOIL,FY 2022-23,Materials,brsr_prd_master,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MOIL,MOIL,FY 2022-23,Unknown,annual_report_kpis,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MOIL_06092025131947_BRSR_PDF,MOIL,FY 2024-25,Materials,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\MOIL Limited.pdf
 MOIL Limited,MOIL,FY 2024-25,Materials,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\MOIL Limited.pdf
 MOKSH,MOKSH,FY 2022-23,Financial Services,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2761,8 +2764,8 @@ MPHASIS_01072025191435_SubmissionofBRSR2025,MPHASIS,FY 2024-25,Information Techn
 MPS Limited,MPS,FY 2024-25,Information Technology,brsr_prd_master,35,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\MPS Limited.pdf
 MPSLTD,MPSLTD,FY 2022-23,Information Technology,brsr_prd_master,33,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MPSLTD,MPSLTD,FY 2022-23,Unknown,annual_report_kpis,6,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MRF,MRF,FY 2022-23,Real Estate,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-MRF,MRF,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MRF,MRF,FY 2022-23,Real Estate,brsr_prd_master,38,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+MRF,MRF,FY 2022-23,Unknown,annual_report_kpis,9,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MRF Limited,MRF,FY 2024-25,Industrials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\MRF Limited.pdf
 MRPL,MRPL,FY 2022-23,Materials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 MRPL,MRPL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2858,12 +2861,12 @@ NAVNETEDUL,NAVNETEDUL,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_re
 NAZARA,NAZARA,FY 2022-23,Materials,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NAZARA,NAZARA,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NAZARA TECHNOLOGIES LIMITED,NAZARATECHNOLOGIES,FY 2024-25,Telecommunications,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Nazara Technologies Limited.pdf
-NBCC,NBCC,FY 2022-23,Real Estate,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-NBCC,NBCC,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NBCC,NBCC,FY 2022-23,Real Estate,brsr_prd_master,35,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NBCC,NBCC,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NBCC_02092025223453_Intimation_BRSR020292025,NBCC,FY 2024-25,Information Technology,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\NBCC (India) Limited.pdf
 NBCC (India) Limited,NBCC,FY 2024-25,Information Technology,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\NBCC (India) Limited.pdf
-NCC,NCC,FY 2022-23,Real Estate,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-NCC,NCC,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NCC,NCC,FY 2022-23,Real Estate,brsr_prd_master,39,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NCC,NCC,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NCC_01082025172501_SubmissionofBRSR,NCC,FY 2024-25,Real Estate,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Ncc Limited.pdf
 NCC LIMITED,NCC,FY 2024-25,Real Estate,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Ncc Limited.pdf
 NCLIND,NCLIND,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -2889,8 +2892,8 @@ Nelco Limited,NELCO,FY 2024-25,Telecommunications,brsr_prd_master,40,1,0,0,1,brs
 NEOGEN,NEOGEN,FY 2022-23,Industrials,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NEOGEN,NEOGEN,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Neogen Chemicals Limited,NEOGENCHEMICALS,FY 2024-25,Healthcare,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Neogen Chemicals Limited.pdf
-NESCO,NESCO,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-NESCO,NESCO,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NESCO,NESCO,FY 2022-23,Financial Services,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NESCO,NESCO,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Nesco Limited,NESCO,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Nesco Limited.pdf
 Nestle India Limited,NESTLE,FY 2024-25,Consumer Goods,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Nestle India Limited.pdf
 NETWEB TECHNOLOGIES INDIA LIMITED,NETWEBTECHNOLOGIES,FY 2024-25,Information Technology,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Netweb Technologies India Limited.pdf
@@ -2911,8 +2914,8 @@ NGIL,NGIL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracte
 NGL FINE-CHEM LIMITED,NGLFINECHEM,FY 2024-25,Materials,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Ngl Fine-Chem Limited.pdf
 NGLFINE,NGLFINE,FY 2022-23,Healthcare,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NGLFINE,NGLFINE,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-NHPC,NHPC,FY 2022-23,Financial Services,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-NHPC,NHPC,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NHPC,NHPC,FY 2022-23,Financial Services,brsr_prd_master,44,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+NHPC,NHPC,FY 2022-23,Unknown,annual_report_kpis,12,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NHPC Limited,NHPC,FY 2024-25,Utilities,brsr_prd_master,47,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\NHPC Limited.pdf
 NIACL,NIACL,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 NIACL,NIACL,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3151,6 +3154,7 @@ SOMANY CERAMICS LIMITED,SOMANYCERAMICS,FY 2024-25,Information Technology,brsr_pr
 SOMANYCERAMICS_25082025195246_Stock_Exchange_Intimation_BRSRsd,SOMANYCERAMICS,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Somany Ceramics Limited.pdf
 Sonata Software Limited,SONATASOFTWARE,FY 2024-25,Information Technology,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Sonata Software Limited.pdf
 Southern Petrochemicals Industries Corporation  Limited,SOUTHERNPETROCHEMICALSINDUSTRIESCORPORATION,FY 2024-25,Materials,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Southern Petrochemicals Industries Corporation Limited.pdf
+SPACENET ENTERPRISES INDIA LIMITED,SPACENETENTERPRISES,FY 2022-23,Consumer Goods,brsr_prd_master,30,1,0,0,1,brsr_report,~\Downloads\brsr 2021-24.zip
 Spandana Sphoorty Financial Limited,SPANDANASPHOORTYFINANCIAL,FY 2024-25,Financial Services,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Spandana Sphoorty Financial Limited.pdf
 Speciality Restaurants Limited,SPECIALITYRESTAURANTS,FY 2024-25,Information Technology,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Speciality Restaurants Limited.pdf
 Sree Rayalaseema Hi-Strength Hypo Limited,SREERAYALASEEMAHISTRENGTHHYPO,FY 2024-25,Materials,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Sree Rayalaseema Hi-Strength Hypo Limited.pdf
@@ -3247,8 +3251,8 @@ TANLA,TANLA,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extrac
 Tanla Platforms Limited,TANLAPLATFORMS,FY 2024-25,Telecommunications,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Tanla Platforms Limited.pdf
 TARAPUR,TARAPUR,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TARAPUR,TARAPUR,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TARC,TARC,FY 2022-23,Real Estate,brsr_prd_master,33,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TARC,TARC,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TARC,TARC,FY 2022-23,Real Estate,brsr_prd_master,33,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TARC,TARC,FY 2022-23,Unknown,annual_report_kpis,7,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TARC_03092025184625_BRSR_signed,TARC,FY 2024-25,Real Estate,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\TARC Limited.pdf
 TARC Limited,TARC,FY 2024-25,Real Estate,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\TARC Limited.pdf
 TARIL,TARIL,FY 2022-23,Industrials,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3277,8 +3281,8 @@ TATACOMM,TATACOMM,FY 2022-23,Information Technology,brsr_prd_master,43,0,0,1,1,a
 TATACOMM,TATACOMM,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TATACONSUM,TATACONSUM,FY 2022-23,Consumer Goods,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TATACONSUM,TATACONSUM,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TATAELXSI,TATAELXSI,FY 2022-23,Information Technology,brsr_prd_master,41,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TATAELXSI,TATAELXSI,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TATAELXSI,TATAELXSI,FY 2022-23,Information Technology,brsr_prd_master,41,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TATAELXSI,TATAELXSI,FY 2022-23,Unknown,annual_report_kpis,10,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TATAINVEST,TATAINVEST,FY 2022-23,Financial Services,brsr_prd_master,36,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TATAINVEST,TATAINVEST,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TATAPOWER,TATAPOWER,FY 2022-23,Information Technology,brsr_prd_master,47,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3312,6 +3316,7 @@ TEAMGTY,TEAMGTY,FY 2022-23,Financial Services,brsr_prd_master,14,0,0,1,1,annual_
 TEAMGTY,TEAMGTY,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TEAMLEASE_26082025172620_TeamLeaseBRSRFY2425,TEAMLEASE,FY 2022-23,Financial Services,brsr_prd_master,39,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TEAMLEASE,TEAMLEASE,FY 2022-23,Unknown,annual_report_kpis,5,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TeamLease Services Limited,TEAMLEASESERVICES,FY 2022-23,Financial Services,brsr_prd_master,39,1,0,0,1,brsr_report,~\Downloads\brsr 2021-24.zip
 Tech Mahindra Limited,TECHMAHINDRA,FY 2024-25,Information Technology,brsr_prd_master,50,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Tech Mahindra Limited.pdf
 TECHM,TECHM,FY 2022-23,Information Technology,brsr_prd_master,49,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TECHM,TECHM,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3368,8 +3373,8 @@ THERMAX,THERMAX,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_ex
 Thermax Limited,THERMAX,FY 2024-25,Industrials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Thermax Limited.pdf
 THIRUMALAI CHEMICALS LIMITED,THIRUMALAICHEMICALS,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Thirumalai Chemicals Limited.pdf
 Thomas Cook  (India)  Limited,THOMASCOOK,FY 2024-25,Healthcare,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Thomas Cook (India) Limited.pdf
-THOMASCOOK,THOMASCOOK,FY 2022-23,Information Technology,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-THOMASCOOK,THOMASCOOK,FY 2022-23,Unknown,annual_report_kpis,7,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+THOMASCOOK,THOMASCOOK,FY 2022-23,Information Technology,brsr_prd_master,38,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+THOMASCOOK,THOMASCOOK,FY 2022-23,Unknown,annual_report_kpis,7,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 THOMASCOOK_12082025223631_SEBRSRfinal,THOMASCOOK,FY 2024-25,Healthcare,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Thomas Cook (India) Limited.pdf
 THOMASCOTT,THOMASCOTT,FY 2022-23,Financial Services,brsr_prd_master,14,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 THOMASCOTT,THOMASCOTT,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3394,8 +3399,8 @@ Tilaknagar Industries Limited,TILAKNAGARINDUSTRIES,FY 2024-25,Consumer Goods,brs
 Time Technoplast Limited,TIMETECHNOPLAST,FY 2024-25,Consumer Goods,brsr_prd_master,33,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Time Technoplast Limited.pdf
 TIMETECHNO,TIMETECHNO,FY 2022-23,Industrials,brsr_prd_master,38,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TIMETECHNO,TIMETECHNO,FY 2022-23,Unknown,annual_report_kpis,10,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TIMKEN,TIMKEN,FY 2022-23,Industrials,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TIMKEN,TIMKEN,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TIMKEN,TIMKEN,FY 2022-23,Industrials,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TIMKEN,TIMKEN,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TIMKEN_22072025144216_Letter,TIMKEN,FY 2024-25,Industrials,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Timken India Limited.pdf
 Timken India Limited,TIMKEN,FY 2024-25,Industrials,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Timken India Limited.pdf
 TINNARUBR,TINNARUBR,FY 2022-23,Financial Services,brsr_prd_master,21,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3409,8 +3414,8 @@ TIRUMALCHM,TIRUMALCHM,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_re
 TITAGARH,TITAGARH,FY 2022-23,Financial Services,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TITAGARH,TITAGARH,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TITAGARH RAIL SYSTEMS LIMITED,TITAGARHRAILSYSTEMS,FY 2024-25,Information Technology,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Titagarh Rail Systems Limited.pdf
-TITAN,TITAN,FY 2022-23,Industrials,brsr_prd_master,42,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TITAN,TITAN,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TITAN,TITAN,FY 2022-23,Industrials,brsr_prd_master,42,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TITAN,TITAN,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TITAN_27062025154702_SEnoticeofbrsr,TITAN,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Titan Company Limited.pdf
 Titan Company Limited,TITAN,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Titan Company Limited.pdf
 TMB,TMB,FY 2022-23,Financial Services,brsr_prd_master,33,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3452,8 +3457,8 @@ TRENT_11062025215346_BRSR_FY_2024-25,TRENT,FY 2024-25,Information Technology,brs
 Trent Limited,TRENT,FY 2024-25,Information Technology,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Trent Limited.pdf
 TRF,TRF,FY 2022-23,Unknown,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TRF,TRF,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TRIDENT,TRIDENT,FY 2022-23,Information Technology,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-TRIDENT,TRIDENT,FY 2022-23,Unknown,annual_report_kpis,13,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TRIDENT,TRIDENT,FY 2022-23,Information Technology,brsr_prd_master,44,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+TRIDENT,TRIDENT,FY 2022-23,Unknown,annual_report_kpis,13,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 TRIDENT_01082025172626_SE_BRSR,TRIDENT,FY 2024-25,Materials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Trident Limited.pdf
 TRIDENT LIMITED,TRIDENT,FY 2024-25,Materials,brsr_prd_master,41,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Trident Limited.pdf
 TRIGYN,TRIGYN,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3510,8 +3515,8 @@ UEL,UEL,FY 2022-23,Financial Services,brsr_prd_master,20,0,0,1,1,annual_report_e
 UEL,UEL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UFBL,UFBL,FY 2022-23,Healthcare,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UFBL,UFBL,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-UFLEX,UFLEX,FY 2022-23,Materials,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-UFLEX,UFLEX,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UFLEX,UFLEX,FY 2022-23,Materials,brsr_prd_master,37,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UFLEX,UFLEX,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UFlex Limited,UFLEX,FY 2024-25,Information Technology,brsr_prd_master,45,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\UFlex Limited.pdf
 UFO,UFO,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UFO,UFO,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3544,7 +3549,7 @@ Unimech Aerospace and Manufacturing Limited,UNIMECHAEROSPACEANDMANUFACTURING,FY 
 UNION BANK OF INDIA,UNIONBANKOF,FY 2024-25,Financial Services,brsr_prd_master,44,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Union Bank Of India.pdf
 UNIONBANK,UNIONBANK,FY 2022-23,Financial Services,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UNIONBANK,UNIONBANK,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-UNIPARTS,UNIPARTS,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UNIPARTS,UNIPARTS,FY 2022-23,Unknown,annual_report_kpis,0,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UNIPARTS,UNIPARTS,FY 2024-25,Unknown,brsr_prd_master,0,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Uniparts India Limited.pdf
 Uniparts India Limited,UNIPARTS,FY 2024-25,Consumer Goods,brsr_prd_master,36,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Uniparts India Limited.pdf
 Uniphos Enterprises Limited,UNIPHOSENTERPRISES,FY 2024-25,Financial Services,brsr_prd_master,28,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Uniphos Enterprises Limited.pdf
@@ -3563,11 +3568,11 @@ Universal Cables Limited,UNIVERSALCABLES,FY 2024-25,Industrials,brsr_prd_master,
 UNIVPHOTO,UNIVPHOTO,FY 2022-23,Materials,brsr_prd_master,20,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UNIVPHOTO,UNIVPHOTO,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Uno Minda Limited,UNOMINDA,FY 2024-25,Industrials,brsr_prd_master,42,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Uno Minda Limited.pdf
-UNOMINDA,UNOMINDA,FY 2022-23,Industrials,brsr_prd_master,45,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-UNOMINDA,UNOMINDA,FY 2022-23,Unknown,annual_report_kpis,12,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UNOMINDA,UNOMINDA,FY 2022-23,Industrials,brsr_prd_master,45,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UNOMINDA,UNOMINDA,FY 2022-23,Unknown,annual_report_kpis,12,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UPDATER SERVICES LIMITED,UPDATERSERVICES,FY 2024-25,Information Technology,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Updater Services Limited.pdf
-UPL,UPL,FY 2022-23,Materials,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-UPL,UPL,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UPL,UPL,FY 2022-23,Materials,brsr_prd_master,40,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+UPL,UPL,FY 2022-23,Unknown,annual_report_kpis,8,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 UPL_03072025175450_BRSRintimation,UPL,FY 2024-25,Industrials,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\UPL Limited.pdf
 UPL LIMITED,UPL,FY 2024-25,Industrials,brsr_prd_master,37,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\UPL Limited.pdf
 URAVIDEF,URAVIDEF,FY 2022-23,Financial Services,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3603,8 +3608,8 @@ VADILALIND,VADILALIND,FY 2022-23,Unknown,annual_report_kpis,8,0,0,1,1,annual_rep
 Vaibhav Global Limited,VAIBHAVGLOBAL,FY 2024-25,Materials,brsr_prd_master,43,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Vaibhav Global Limited.pdf
 VAIBHAVGBL,VAIBHAVGBL,FY 2022-23,Media & Entertainment,brsr_prd_master,40,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 VAIBHAVGBL,VAIBHAVGBL,FY 2022-23,Unknown,annual_report_kpis,9,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-VAKRANGEE,VAKRANGEE,FY 2022-23,Financial Services,brsr_prd_master,44,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-VAKRANGEE,VAKRANGEE,FY 2022-23,Unknown,annual_report_kpis,11,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+VAKRANGEE,VAKRANGEE,FY 2022-23,Financial Services,brsr_prd_master,44,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+VAKRANGEE,VAKRANGEE,FY 2022-23,Unknown,annual_report_kpis,11,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Vakrangee Limited,VAKRANGEE,FY 2024-25,Financial Services,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Vakrangee Limited.pdf
 Valiant Organics Limited,VALIANTORGANICS,FY 2024-25,Information Technology,brsr_prd_master,40,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Valiant Organics Limited.pdf
 VALIANTORG,VALIANTORG,FY 2022-23,Healthcare,brsr_prd_master,35,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3789,8 +3794,8 @@ WINSOME,WINSOME,FY 2022-23,Financial Services,brsr_prd_master,18,0,0,1,1,annual_
 WINSOME,WINSOME,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 WIPL,WIPL,FY 2022-23,Financial Services,brsr_prd_master,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 WIPL,WIPL,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-WIPRO,WIPRO,FY 2022-23,Information Technology,brsr_prd_master,52,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-WIPRO,WIPRO,FY 2022-23,Unknown,annual_report_kpis,15,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+WIPRO,WIPRO,FY 2022-23,Information Technology,brsr_prd_master,52,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+WIPRO,WIPRO,FY 2022-23,Unknown,annual_report_kpis,15,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Wipro Limited,WIPRO,FY 2024-25,Information Technology,brsr_prd_master,47,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Wipro Limited.pdf
 Wockhardt Limited,WOCKHARDT,FY 2024-25,Healthcare,brsr_prd_master,39,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Wockhardt Limited.pdf
 WOCKPHARMA,WOCKPHARMA,FY 2022-23,Financial Services,brsr_prd_master,37,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
@@ -3815,8 +3820,8 @@ Yasho Industries Limited,YASHOINDUSTRIES,FY 2024-25,Materials,brsr_prd_master,42
 YATHARTH,YATHARTH,FY 2022-23,Healthcare,brsr_prd_master,16,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 YATHARTH,YATHARTH,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Yatra Online Limited,YATRAONLINE,FY 2024-25,Consumer Goods,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Yatra Online Limited.pdf
-YESBANK,YESBANK,FY 2022-23,Financial Services,brsr_prd_master,52,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
-YESBANK,YESBANK,FY 2022-23,Unknown,annual_report_kpis,15,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+YESBANK,YESBANK,FY 2022-23,Financial Services,brsr_prd_master,52,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
+YESBANK,YESBANK,FY 2022-23,Unknown,annual_report_kpis,15,1,0,1,2,"annual_report_extracted_data, brsr_report",..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 YUKEN,YUKEN,FY 2022-23,Industrials,brsr_prd_master,18,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 YUKEN,YUKEN,FY 2022-23,Unknown,annual_report_kpis,0,0,0,1,1,annual_report_extracted_data,..\SusGen\data\prd_drive_download\Annual Reports 22-23\esg_kpis_22-23.jsonl
 Zaggle Prepaid Ocean Services Limited,ZAGGLEPREPAIDOCEANSERVICES,FY 2024-25,Financial Services,brsr_prd_master,38,1,0,0,1,brsr_report,..\SusGen\data\scraped_brsr_reports\kaggle_format\2024_2025\Zaggle Prepaid Ocean Services Limited.pdf

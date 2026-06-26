@@ -134,6 +134,13 @@ Connect local BRSR/annual report folders to benchmark company-year rows:
 python scripts/benchmarking/connect_report_corpus.py
 ```
 
+By default, this scans available local sources such as:
+
+```text
+..\SusGen\data
+~\Downloads\brsr 2021-24.zip
+```
+
 This creates:
 
 ```text
