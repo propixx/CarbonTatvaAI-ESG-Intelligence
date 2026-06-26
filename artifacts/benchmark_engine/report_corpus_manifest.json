@@ -5,7 +5,7 @@
     "report_corpus_manifest.json"
   ],
   "roots_scanned": [
-    "C:\\Users\\Pratyush\\Documents\\Codex\\2026-05-26\\files-mentioned-by-the-user-esg\\SusGen\\data"
+    "..\\SusGen\\data"
   ],
   "report_index_rows": 3776,
   "linked_company_year_rows": 3859,
@@ -18,25 +18,25 @@
       "source_type": "annual_report_extracted_data",
       "reporting_year": "",
       "count": 2,
-      "size_mb": 0.46
+      "unique_source_size_mb": 0.46
     },
     {
       "source_type": "annual_report_extracted_data",
       "reporting_year": "FY 2022-23",
       "count": 1400,
-      "size_mb": 21603.53
+      "unique_source_size_mb": 716.84
     },
     {
       "source_type": "brsr_report",
       "reporting_year": "FY 2024-25",
       "count": 2182,
-      "size_mb": 6243.03
+      "unique_source_size_mb": 6243.03
     },
     {
       "source_type": "brsr_report",
       "reporting_year": "FY 2025-26",
       "count": 192,
-      "size_mb": 625.65
+      "unique_source_size_mb": 625.65
     }
   ],
   "notes": [

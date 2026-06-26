@@ -352,7 +352,16 @@ def write_manifest(output_dir: Path, report_index: pd.DataFrame, linked: pd.Data
                 "source_type": source_type,
                 "reporting_year": year,
                 "count": int(len(group)),
-                "size_mb": round(float(group["size_bytes"].fillna(0).sum()) / 1024 / 1024, 2),
+                "unique_source_size_mb": round(
+                    float(
+                        group.drop_duplicates(
+                            subset=["report_path", "archive_path", "archive_member", "file_name"]
+                        )["size_bytes"].fillna(0).sum()
+                    )
+                    / 1024
+                    / 1024,
+                    2,
+                ),
             }
             for (source_type, year), group in grouped
         ]
@@ -363,7 +372,7 @@ def write_manifest(output_dir: Path, report_index: pd.DataFrame, linked: pd.Data
             "benchmark_company_year_report_links.csv",
             "report_corpus_manifest.json",
         ],
-        "roots_scanned": [str(path) for path in roots],
+        "roots_scanned": [safe_relpath(path) for path in roots],
         "report_index_rows": int(len(report_index)),
         "linked_company_year_rows": int(len(linked)),
         "source_type_counts": dict(Counter(report_index["source_type"])) if not report_index.empty else {},
