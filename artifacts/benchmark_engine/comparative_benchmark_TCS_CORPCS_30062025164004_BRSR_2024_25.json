@@ -1,0 +1,211 @@
+{
+  "target": {
+    "company": "TCS_CORPCS_30062025164004_BRSR-2024-25",
+    "reporting_year": "FY 2024-25",
+    "sector": "Information Technology",
+    "benchmark_quality_score": 39.0
+  },
+  "peer_group": {
+    "type": "custom peer group",
+    "companies": 8,
+    "sample_companies": [
+      "AWHCLP_03092025213035_AWHCL_BRSR2025",
+      "GHCL_25062025230117_GHCL_BRSR_Report2025",
+      "GHCL Limited",
+      "HCL Technologies Limited",
+      "HCLTECH_02082025204043_BRSR_2024-25",
+      "NAZARA_06092025184741_BRSRwithCL",
+      "Tech Mahindra Limited",
+      "Wipro Limited"
+    ]
+  },
+  "kpi_comparisons": [
+    {
+      "kpi": "Scope 1 emissions",
+      "unit": "tCO2e",
+      "company_value": 20494.8,
+      "lower_is_better": true,
+      "peer_count": 8,
+      "peer_average": 288267.0945,
+      "peer_median": 12900.5,
+      "peer_min": 8.046,
+      "peer_max": 1120911.95,
+      "rank_among_group_including_company": 6,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 37.5,
+      "interpretation": "worse than peer median"
+    },
+    {
+      "kpi": "Scope 2 emissions",
+      "unit": "tCO2e",
+      "company_value": 55599.0,
+      "lower_is_better": true,
+      "peer_count": 8,
+      "peer_average": 39971.102,
+      "peer_median": 11013.63,
+      "peer_min": 23.416,
+      "peer_max": 109074.02,
+      "rank_among_group_including_company": 6,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 37.5,
+      "interpretation": "worse than peer median"
+    },
+    {
+      "kpi": "Scope 3 emissions",
+      "unit": "tCO2e",
+      "company_value": 523810.0,
+      "lower_is_better": true,
+      "peer_count": 6,
+      "peer_average": 325667.66399999993,
+      "peer_median": 269567.38,
+      "peer_min": 188.224,
+      "peer_max": 688454.0,
+      "rank_among_group_including_company": 5,
+      "group_size_including_company": 7,
+      "percentile_vs_peers": 33.333333333333336,
+      "interpretation": "worse than peer median"
+    },
+    {
+      "kpi": "Scope 1 + Scope 2 emissions",
+      "unit": "tCO2e",
+      "company_value": 76093.8,
+      "lower_is_better": true,
+      "peer_count": 8,
+      "peer_average": 328238.19649999996,
+      "peer_median": 105572.26000000001,
+      "peer_min": 31.462,
+      "peer_max": 1131925.5799999998,
+      "rank_among_group_including_company": 4,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 62.5,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Water consumption",
+      "unit": "KL",
+      "company_value": 2871784.0,
+      "lower_is_better": true,
+      "peer_count": 8,
+      "peer_average": 2145328.3362499997,
+      "peer_median": 834013.09,
+      "peer_min": 862.73,
+      "peer_max": 6698503.27,
+      "rank_among_group_including_company": 7,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 25.0,
+      "interpretation": "worse than peer median"
+    },
+    {
+      "kpi": "Water withdrawal",
+      "unit": "KL",
+      "company_value": 279629.0,
+      "lower_is_better": true,
+      "peer_count": 8,
+      "peer_average": 515196.84125,
+      "peer_median": 431.365,
+      "peer_min": 0.0,
+      "peer_max": 1969282.0,
+      "rank_among_group_including_company": 7,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 25.0,
+      "interpretation": "worse than peer median"
+    },
+    {
+      "kpi": "Total waste generated",
+      "unit": "",
+      "company_value": 9983.0,
+      "lower_is_better": true,
+      "peer_count": 8,
+      "peer_average": 82053017.655,
+      "peer_median": 7672.005,
+      "peer_min": 207.66,
+      "peer_max": 648939088.0,
+      "rank_among_group_including_company": 5,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 50.0,
+      "interpretation": "worse than peer median"
+    },
+    {
+      "kpi": "Waste recycled/recovered share",
+      "unit": "%",
+      "company_value": 100.0,
+      "lower_is_better": false,
+      "peer_count": 8,
+      "peer_average": 89.3009856714848,
+      "peer_median": 97.35814104647383,
+      "peer_min": 35.69160327893066,
+      "peer_max": 100.0,
+      "rank_among_group_including_company": 1,
+      "group_size_including_company": 9,
+      "percentile_vs_peers": 100.0,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Energy intensity",
+      "unit": "",
+      "company_value": 0.00076,
+      "lower_is_better": true,
+      "peer_count": 7,
+      "peer_average": 5.795538857142858,
+      "peer_median": 2.51,
+      "peer_min": 0.000386,
+      "peer_max": 16.42,
+      "rank_among_group_including_company": 3,
+      "group_size_including_company": 8,
+      "percentile_vs_peers": 71.42857142857143,
+      "interpretation": "better than or equal to peer median"
+    }
+  ],
+  "missing_kpis": [
+    {
+      "kpi": "Renewable energy share",
+      "peer_disclosure_rate_percent": 50.0,
+      "peer_count_with_value": 4,
+      "suggestion": "Track and disclose renewable energy share to match peer reporting practice."
+    },
+    {
+      "kpi": "Total energy consumption",
+      "peer_disclosure_rate_percent": 37.5,
+      "peer_count_with_value": 3,
+      "suggestion": "Track and disclose total energy consumption to match peer reporting practice."
+    },
+    {
+      "kpi": "Female employee share",
+      "peer_disclosure_rate_percent": 37.5,
+      "peer_count_with_value": 3,
+      "suggestion": "Track and disclose female employee share to match peer reporting practice."
+    },
+    {
+      "kpi": "Women on Board",
+      "peer_disclosure_rate_percent": 12.5,
+      "peer_count_with_value": 1,
+      "suggestion": "Track and disclose women on board to match peer reporting practice."
+    }
+  ],
+  "disclosure_gaps": [
+    {
+      "disclosure": "Climate risk",
+      "peer_adoption_percent": 75.0,
+      "peer_examples": [
+        "GHCL_25062025230117_GHCL_BRSR_Report2025",
+        "GHCL Limited",
+        "HCL Technologies Limited",
+        "HCLTECH_02082025204043_BRSR_2024-25",
+        "Tech Mahindra Limited"
+      ],
+      "suggestion": "Add a clearer climate risk disclosure because it is common in the selected peer group."
+    },
+    {
+      "disclosure": "Net-zero target",
+      "peer_adoption_percent": 75.0,
+      "peer_examples": [
+        "GHCL_25062025230117_GHCL_BRSR_Report2025",
+        "GHCL Limited",
+        "HCL Technologies Limited",
+        "HCLTECH_02082025204043_BRSR_2024-25",
+        "Tech Mahindra Limited"
+      ],
+      "suggestion": "Add a clearer net-zero target disclosure because it is common in the selected peer group."
+    }
+  ]
+}

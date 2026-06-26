@@ -81,6 +81,29 @@ Run the demo script:
 python scripts/benchmarking/benchmark_engine_demo.py
 ```
 
+## Comparative Benchmarking
+
+Sector-wise comparison:
+
+```powershell
+python scripts/benchmarking/comparative_benchmark.py --company "360 ONE WAM" --year "FY 2024-25"
+```
+
+Custom peer-group comparison:
+
+```powershell
+python scripts/benchmarking/comparative_benchmark.py --company "TCS" --year "FY 2024-25" --peers "INFOSYS,WIPRO,HCL,TECH MAHINDRA"
+```
+
+The output includes:
+
+- company value
+- peer average and median
+- peer min/max range
+- rank within selected peer group
+- missing KPI opportunities
+- high-adoption disclosure gaps
+
 ## KPI Summary Fine-Tuning
 
 Primary notebook:

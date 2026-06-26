@@ -1,0 +1,179 @@
+{
+  "target": {
+    "company": "360 ONE WAM LIMITED",
+    "reporting_year": "FY 2024-25",
+    "sector": "Financial Services",
+    "benchmark_quality_score": 40.0
+  },
+  "peer_group": {
+    "type": "Financial Services sector",
+    "companies": 358,
+    "sample_companies": [
+      "5PAISA_01082025192625_EXINTIMATION",
+      "5paisa Capital Limited",
+      "63 moons technologies limited",
+      "63MOONS_01092025171058_BRSR2025",
+      "AAVAS_23082025142943_BRSR",
+      "Aavas Financiers Limited",
+      "ABSLAMC_07072025180651_Aditya_Birla_Sun_Life_AMC_2024-25_BRSR",
+      "ACCELYA_13102025191608_Annual_Report_2025",
+      "Accelya Solutions India Limited",
+      "Aditya Birla Capital Limited"
+    ]
+  },
+  "kpi_comparisons": [
+    {
+      "kpi": "Scope 1 emissions",
+      "unit": "tCO2e",
+      "company_value": 0.21,
+      "lower_is_better": true,
+      "peer_count": 262,
+      "peer_average": 76286.01430496183,
+      "peer_median": 293.2,
+      "peer_min": 0.0,
+      "peer_max": 8931380.0,
+      "rank_among_group_including_company": 13,
+      "group_size_including_company": 263,
+      "percentile_vs_peers": 95.41984732824427,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Scope 2 emissions",
+      "unit": "tCO2e",
+      "company_value": 381.07,
+      "lower_is_better": true,
+      "peer_count": 264,
+      "peer_average": 53307.29069458334,
+      "peer_median": 2873.0,
+      "peer_min": 0.0,
+      "peer_max": 3678500.0,
+      "rank_among_group_including_company": 80,
+      "group_size_including_company": 265,
+      "percentile_vs_peers": 70.07575757575758,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Scope 1 + Scope 2 emissions",
+      "unit": "tCO2e",
+      "company_value": 381.28,
+      "lower_is_better": true,
+      "peer_count": 260,
+      "peer_average": 129945.68896653844,
+      "peer_median": 3832.32,
+      "peer_min": 0.0,
+      "peer_max": 9091131.0,
+      "rank_among_group_including_company": 55,
+      "group_size_including_company": 261,
+      "percentile_vs_peers": 79.23076923076923,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Water consumption",
+      "unit": "KL",
+      "company_value": 14350.0,
+      "lower_is_better": true,
+      "peer_count": 305,
+      "peer_average": 400454.1372557377,
+      "peer_median": 16296.25,
+      "peer_min": 0.0,
+      "peer_max": 20954755.0,
+      "rank_among_group_including_company": 147,
+      "group_size_including_company": 306,
+      "percentile_vs_peers": 52.131147540983605,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Water withdrawal",
+      "unit": "KL",
+      "company_value": 0.0,
+      "lower_is_better": true,
+      "peer_count": 320,
+      "peer_average": 150270.38198125,
+      "peer_median": 5048.0,
+      "peer_min": 0.0,
+      "peer_max": 5657500.0,
+      "rank_among_group_including_company": 1,
+      "group_size_including_company": 321,
+      "percentile_vs_peers": 100.0,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Total waste generated",
+      "unit": "",
+      "company_value": 36.19,
+      "lower_is_better": true,
+      "peer_count": 335,
+      "peer_average": 6961199.179042091,
+      "peer_median": 130.67,
+      "peer_min": 0.0,
+      "peer_max": 1161224444.0,
+      "rank_among_group_including_company": 103,
+      "group_size_including_company": 336,
+      "percentile_vs_peers": 69.55223880597015,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Waste recycled/recovered share",
+      "unit": "%",
+      "company_value": 99.3920972644377,
+      "lower_is_better": false,
+      "peer_count": 283,
+      "peer_average": 57.03513137401002,
+      "peer_median": 71.26436781609196,
+      "peer_min": 0.0,
+      "peer_max": 100.0,
+      "rank_among_group_including_company": 107,
+      "group_size_including_company": 284,
+      "percentile_vs_peers": 62.54416961130742,
+      "interpretation": "better than or equal to peer median"
+    },
+    {
+      "kpi": "Energy intensity",
+      "unit": "",
+      "company_value": 2.98,
+      "lower_is_better": true,
+      "peer_count": 324,
+      "peer_average": 3277.5784862682376,
+      "peer_median": 3.532344,
+      "peer_min": 0.0,
+      "peer_max": 508373.27,
+      "rank_among_group_including_company": 156,
+      "group_size_including_company": 325,
+      "percentile_vs_peers": 52.160493827160494,
+      "interpretation": "better than or equal to peer median"
+    }
+  ],
+  "missing_kpis": [
+    {
+      "kpi": "Scope 3 emissions",
+      "peer_disclosure_rate_percent": 54.19,
+      "peer_count_with_value": 194,
+      "suggestion": "Track and disclose scope 3 emissions to match peer reporting practice."
+    },
+    {
+      "kpi": "Renewable energy share",
+      "peer_disclosure_rate_percent": 46.65,
+      "peer_count_with_value": 167,
+      "suggestion": "Track and disclose renewable energy share to match peer reporting practice."
+    },
+    {
+      "kpi": "Total energy consumption",
+      "peer_disclosure_rate_percent": 61.17,
+      "peer_count_with_value": 219,
+      "suggestion": "Track and disclose total energy consumption to match peer reporting practice."
+    },
+    {
+      "kpi": "Female employee share",
+      "peer_disclosure_rate_percent": 15.64,
+      "peer_count_with_value": 56,
+      "suggestion": "Track and disclose female employee share to match peer reporting practice."
+    },
+    {
+      "kpi": "Women on Board",
+      "peer_disclosure_rate_percent": 3.35,
+      "peer_count_with_value": 12,
+      "suggestion": "Track and disclose women on board to match peer reporting practice."
+    }
+  ],
+  "disclosure_gaps": []
+}
