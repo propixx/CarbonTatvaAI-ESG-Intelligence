@@ -126,8 +126,29 @@ The static dashboard uses the generated benchmark CSV and supports:
 - custom peer-company group comparison
 - KPI value, median, average, range, and rank
 - missing KPI opportunities and disclosure gaps
+- connected BRSR/annual report evidence counts
 
-Regenerate the dashboard data after rebuilding benchmark artifacts:
+Connect local BRSR/annual report folders to benchmark company-year rows:
+
+```powershell
+python scripts/benchmarking/connect_report_corpus.py
+```
+
+This creates:
+
+```text
+artifacts/benchmark_engine/report_corpus_index.csv
+artifacts/benchmark_engine/benchmark_company_year_report_links.csv
+artifacts/benchmark_engine/report_corpus_manifest.json
+```
+
+If you only have report zips and not extracted PDF folders, run the slower zip-aware mode:
+
+```powershell
+python scripts/benchmarking/connect_report_corpus.py --include-zip-members
+```
+
+Regenerate the dashboard data after rebuilding benchmark or report-link artifacts:
 
 ```powershell
 python scripts/benchmarking/export_dashboard_data.py

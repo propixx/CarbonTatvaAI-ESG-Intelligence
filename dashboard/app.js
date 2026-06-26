@@ -44,6 +44,11 @@
     return !["", "false", "0", "no", "nan", "null", "none"].includes(text);
   }
 
+  function integerValue(value) {
+    const num = numberValue(value);
+    return num === null ? 0 : Math.round(num);
+  }
+
   function formatNumber(value, unit) {
     if (value === null || value === undefined || Number.isNaN(value)) return "Not disclosed";
     const abs = Math.abs(value);
@@ -82,8 +87,11 @@
       sectorSelect.appendChild(option(sector));
     });
 
-    companySelect.value = rows.find((row) => clean(row.company).includes("TCS"))?.company || companySelect.value;
     yearSelect.value = rows.find((row) => row.reporting_year === "FY 2024-25") ? "FY 2024-25" : yearSelect.value;
+    const defaultRow = rows.find((row) => row.reporting_year === yearSelect.value && integerValue(row.brsr_report_count) > 0)
+      || rows.find((row) => integerValue(row.report_count) > 0)
+      || rows.find((row) => clean(row.company).includes("TCS"));
+    companySelect.value = defaultRow?.company || companySelect.value;
     updatePeerList();
   }
 
@@ -196,6 +204,7 @@
     const peerLabel = benchmarkMode.value === "custom" ? "custom peer group" : `${sectorSelect.value || report.target.sector} sector`;
     $("summaryTitle").textContent = `${report.target.company_display || report.target.company} | ${report.target.reporting_year}`;
     $("summarySubtitle").textContent = `Compared against ${peerLabel}. Source rows: ${data.row_count.toLocaleString()}.`;
+    $("reportCount").textContent = integerValue(report.target.report_count);
     $("peerCount").textContent = report.peers.length;
     $("kpiCount").textContent = report.kpiComparisons.length;
     $("gapCount").textContent = report.missingKpis.length + report.disclosureGaps.length;
@@ -203,6 +212,7 @@
     renderKpiTable(report);
     renderMissing(report);
     renderDisclosures(report);
+    renderReports(report);
     renderChart(report);
   }
 
@@ -267,6 +277,40 @@
       `;
       list.appendChild(div);
     });
+  }
+
+  function renderReports(report) {
+    const list = $("reportList");
+    list.innerHTML = "";
+    const target = report.target;
+    const peers = report.peers;
+    const peerReportCount = peers.filter((row) => integerValue(row.report_count) > 0).length;
+    const peerBrsrCount = peers.filter((row) => integerValue(row.brsr_report_count) > 0).length;
+    const peerAnnualCount = peers.filter((row) => integerValue(row.annual_extracted_source_count) > 0 || integerValue(row.annual_report_count) > 0).length;
+    const totalPeers = Math.max(peers.length, 1);
+
+    const targetDiv = document.createElement("div");
+    targetDiv.className = "item";
+    targetDiv.innerHTML = `
+      <strong>Target company evidence</strong>
+      <p>BRSR reports connected: ${integerValue(target.brsr_report_count)}</p>
+      <p>Annual report sources connected: ${integerValue(target.annual_report_count) + integerValue(target.annual_extracted_source_count)}</p>
+      <p>Total connected sources: ${integerValue(target.report_count)}</p>
+      <p>Types: ${clean(target.report_types_available) || "Not connected yet"}</p>
+      <p>Example source: ${clean(target.example_report_path) || "Not available"}</p>
+    `;
+    list.appendChild(targetDiv);
+
+    const peerDiv = document.createElement("div");
+    peerDiv.className = "item";
+    peerDiv.innerHTML = `
+      <strong>Selected peer evidence coverage</strong>
+      <p>${peerReportCount}/${peers.length} peers have at least one connected report/evidence source.</p>
+      <p>${peerBrsrCount}/${peers.length} peers have connected BRSR PDFs.</p>
+      <p>${peerAnnualCount}/${peers.length} peers have annual report or annual extracted evidence.</p>
+      <p>Coverage rate: ${(100 * peerReportCount / totalPeers).toFixed(1)}%</p>
+    `;
+    list.appendChild(peerDiv);
   }
 
   function renderChart(report) {

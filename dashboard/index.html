@@ -59,6 +59,10 @@
           </div>
           <div class="summary-metrics">
             <div>
+              <span id="reportCount">0</span>
+              <small>Reports</small>
+            </div>
+            <div>
               <span id="peerCount">0</span>
               <small>Peers</small>
             </div>
@@ -77,6 +81,7 @@
           <button class="tab active" data-tab="kpis" type="button">KPI comparison</button>
           <button class="tab" data-tab="missing" type="button">Missing KPIs</button>
           <button class="tab" data-tab="disclosures" type="button">Disclosure gaps</button>
+          <button class="tab" data-tab="reports" type="button">Report sources</button>
           <button class="tab" data-tab="chart" type="button">Visual view</button>
         </div>
 
@@ -105,6 +110,10 @@
 
         <section class="tab-panel" id="tab-disclosures">
           <div id="disclosureList" class="list"></div>
+        </section>
+
+        <section class="tab-panel" id="tab-reports">
+          <div id="reportList" class="list"></div>
         </section>
 
         <section class="tab-panel" id="tab-chart">

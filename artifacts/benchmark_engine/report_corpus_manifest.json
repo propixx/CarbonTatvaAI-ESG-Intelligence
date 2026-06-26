@@ -1,0 +1,47 @@
+{
+  "created_assets": [
+    "report_corpus_index.csv",
+    "benchmark_company_year_report_links.csv",
+    "report_corpus_manifest.json"
+  ],
+  "roots_scanned": [
+    "C:\\Users\\Pratyush\\Documents\\Codex\\2026-05-26\\files-mentioned-by-the-user-esg\\SusGen\\data"
+  ],
+  "report_index_rows": 3776,
+  "linked_company_year_rows": 3859,
+  "source_type_counts": {
+    "annual_report_extracted_data": 1402,
+    "brsr_report": 2374
+  },
+  "counts_by_type_year": [
+    {
+      "source_type": "annual_report_extracted_data",
+      "reporting_year": "",
+      "count": 2,
+      "size_mb": 0.46
+    },
+    {
+      "source_type": "annual_report_extracted_data",
+      "reporting_year": "FY 2022-23",
+      "count": 1400,
+      "size_mb": 21603.53
+    },
+    {
+      "source_type": "brsr_report",
+      "reporting_year": "FY 2024-25",
+      "count": 2182,
+      "size_mb": 6243.03
+    },
+    {
+      "source_type": "brsr_report",
+      "reporting_year": "FY 2025-26",
+      "count": 192,
+      "size_mb": 625.65
+    }
+  ],
+  "notes": [
+    "This connects local report files and extracted annual-report evidence to benchmark company-year rows.",
+    "Large PDFs/zips are not copied into git; only paths and counts are indexed.",
+    "If raw annual-report PDFs are added later, rerun this script and they will be picked up automatically."
+  ]
+}

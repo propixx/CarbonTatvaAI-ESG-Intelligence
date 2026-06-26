@@ -158,7 +158,7 @@ button:hover {
 
 .summary-metrics {
   display: grid;
-  grid-template-columns: repeat(3, 92px);
+  grid-template-columns: repeat(4, 92px);
   gap: 10px;
 }
 
@@ -340,6 +340,6 @@ td {
 
   .summary-metrics {
     width: 100%;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }

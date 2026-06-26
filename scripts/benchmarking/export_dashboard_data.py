@@ -16,6 +16,7 @@ from comparative_benchmark import DISCLOSURE_LABELS, KPI_META
 
 ROOT = Path(__file__).resolve().parents[2]
 SOURCE = ROOT / "artifacts" / "benchmark_engine" / "benchmark_company_year.csv"
+REPORT_LINKS = ROOT / "artifacts" / "benchmark_engine" / "benchmark_company_year_report_links.csv"
 OUTPUT = ROOT / "dashboard" / "dashboard_data.js"
 
 
@@ -45,6 +46,43 @@ def display_company(value: Any) -> str:
 
 def main() -> None:
     df = pd.read_csv(SOURCE)
+    report_columns = [
+        "company_normalized",
+        "reporting_year",
+        "brsr_report_count",
+        "annual_report_count",
+        "annual_extracted_source_count",
+        "report_count",
+        "report_types_available",
+        "example_report_path",
+    ]
+    if REPORT_LINKS.exists():
+        links = pd.read_csv(REPORT_LINKS)
+        available_report_columns = [column for column in report_columns if column in links.columns]
+        if {"company_normalized", "reporting_year"}.issubset(available_report_columns):
+            links = links[available_report_columns].copy()
+            count_columns = [
+                column
+                for column in [
+                    "brsr_report_count",
+                    "annual_report_count",
+                    "annual_extracted_source_count",
+                    "report_count",
+                ]
+                if column in links.columns
+            ]
+            for column in count_columns:
+                links[column] = pd.to_numeric(links[column], errors="coerce").fillna(0)
+            aggregate = {column: "max" for column in count_columns}
+            for column in ["report_types_available", "example_report_path"]:
+                if column in links.columns:
+                    aggregate[column] = lambda values: next(
+                        (clean_value(value) for value in values if clean_value(value)),
+                        None,
+                    )
+            links = links.groupby(["company_normalized", "reporting_year"], dropna=False).agg(aggregate).reset_index()
+            df = df.merge(links, on=["company_normalized", "reporting_year"], how="left")
+
     wanted_columns = [
         "company",
         "company_normalized",
@@ -54,6 +92,12 @@ def main() -> None:
         "benchmark_quality_score",
         "disclosure_coverage_count",
         "kpi_available_count",
+        "brsr_report_count",
+        "annual_report_count",
+        "annual_extracted_source_count",
+        "report_count",
+        "report_types_available",
+        "example_report_path",
         *DISCLOSURE_LABELS.keys(),
         *KPI_META.keys(),
     ]
