@@ -2,6 +2,12 @@
 
 CarbonTatvaAI is an ESG reporting and benchmarking workspace for Indian BRSR disclosures.
 
+Final internship submission overview:
+
+```text
+FINAL_INTERNSHIP_SUBMISSION_REPORT.md
+```
+
 The current repo focuses on three tracks:
 
 1. **BRSR corpus collection**: scrape NSE BRSR PDFs and export Kaggle-style year folders/zips.
